@@ -1,0 +1,397 @@
+,Proportion of non-white character mentions,Proportion of non-white character dialogue,Burstiness of most frequent character,Min burstiness non-white character,Min burstiness white character,Dataset,Author race,Most frequent character race,Most frequent character gender,Most frequent character POV,Hollyhock recurrence,AP recurrence,Different main character race in book,Book
+0,0.48370184636425806,0.47058823529411764,0.6330795091270283,0.274781943744125,0.6330795091270283,Teachers Only,White,White*,F,Third person,4,0,True,zeitoun - eggers
+1,1.0,1.0,0.6893701155499353,0.6821348545366721,inf,AP Only,Non-white,Native/Indigenous,F,First person,0,1,False,yellow raft in blue water - dorris
+2,0.19869642504444004,0.14491758241758243,0.33677265771281306,0.4738452321022324,0.33677265771281306,AP Only,White,White*,F,First person,0,14,True,wuthering heights - bronte
+3,1.0,1.0,0.3149333561154051,0.3149333561154051,inf,Teachers Only,Non-white,AAPI,M,First person,1,0,False,written in the sky - kaopio
+4,0.0,0.0,0.3890960970661442,inf,0.3890960970661442,Teachers Only,White,White*,M,First person,1,0,False,world war z - brooks
+5,1.0,1.0,0.8027516331009232,0.6353284845993061,inf,AP Only,Non-white,Black,F,Third person,0,7,False,women of brewster place - naylor
+6,1.0,1.0,0.8195353942283495,0.38325030891503886,inf,Both,Non-white,AAPI,F,First person,1,2,False,woman warrior - kingston
+7,1.0,1.0,0.11949452341758224,0.11949452341758224,inf,Teachers Only,Non-white,MENA,F,First person,2,0,False,woman at point zero - saadawi
+8,1.0,1.0,0.1282482109059309,0.1282482109059309,inf,Teachers Only,Non-white,Multiracial†,F,First person,1,0,False,with the fire on high - acevedo
+9,0.0,0.0,0.6741048987596909,inf,0.6110263452087902,AP Only,White,White*,M,Third person,0,2,False,wise blood - o'connor
+10,0.0,0.0,0.10421050385415997,inf,0.10421050385415997,Teachers Only,White,White*,F,First person,1,0,False,wild - strayed
+11,0.10290334435869165,0.14726027397260275,0.651175162442799,0.6668501442720048,0.651175162442799,AP Only,White,White*,F,First person,0,4,True,wide sargasso sea - rhys
+12,0.0,0.0,0.6048653532127903,inf,0.6048653532127903,AP Only,White,White*,M,Third person,0,1,False,who has seen the wind - mitchell
+13,0.7709940989559692,0.7690274841437632,0.767905242154855,0.6956922201714432,0.771050367349749,Both,Non-white,AAPI,M,Third person,2,1,True,white teeth - smith
+14,0.0,0.0,0.513822442298845,inf,0.513822442298845,AP Only,White,White*,F,Third person,0,1,False,where the crawdads sing - owens
+15,1.0,,0.3957110046277725,0.3957110046277725,inf,Teachers Only,Non-white,Black,F,First person,1,0,False,when they call you a terrorist - cullors
+16,1.0,1.0,0.654402052193368,0.5734179503491191,inf,AP Only,Non-white,AAPI,F,Third person,0,2,False,when the emperor was divine - otsuka
+17,1.0,1.0,0.34855045105837146,0.34855045105837146,inf,Teachers Only,Non-white,Latinx,F,First person,1,0,False,when i was puerto rican - santiago
+18,0.0,0.0,0.6432197923850597,inf,0.5220688022333316,AP Only,White,White*,F,Third person,0,1,False,we were the mulvaneys - oates
+19,0.7464511041009464,0.7978494623655914,0.5032732222072692,0.34571571687907565,0.6660723497896095,Teachers Only,Non-white,Multiracial†,M,First person,5,0,True,we the animals - torres
+20,1.0,,0.41722856050664114,0.41722856050664114,inf,Teachers Only,Non-white,Black,F,First person,1,0,False,we need new names - bulawayo
+21,1.0,1.0,0.6389177303057928,0.5561849242316349,inf,Teachers Only,Non-white,Black,M,First person,1,0,False,we beat the street - jenkins
+22,0.0,0.0,0.718157288709853,inf,0.7081694965074725,AP Only,White,White*,M,Third person,0,1,False,way we live now - trollope
+23,1.0,1.0,0.7663119633929549,0.677513108038398,inf,Teachers Only,Non-white,Black,M,Third person,2,0,False,warmth of other suns - wilkerson
+24,0.0,0.0,0.33179153892096613,inf,0.33179153892096613,Teachers Only,White,White*,M,First person,2,0,False,walden - thoreau
+25,0.0,0.0,0.3898230810067653,inf,0.3898230810067653,AP Only,White,White*,M,First person,0,1,False,vicar of wakefield - goldsmith
+26,0.0,0.0,0.7606539885295298,inf,0.7606539885295298,Teachers Only,White,White*,M,First person,1,0,False,utopia - more
+27,0.0,0.0,0.713959749130637,inf,0.6822553933795963,Teachers Only,White,White*,M,Third person,2,0,False,unwind - shusterman
+28,1.0,1.0,0.3861001164475382,0.3861001164475382,inf,Teachers Only,Non-white,Latinx,F,First person,2,0,False,undocumented americans - villavicencio
+29,0.3748012718600954,0.23127035830618892,0.658841423010652,0.658841423010652,0.7348814894414695,AP Only,White,Black,M,Third person,0,2,True,uncle tom s cabin - stowe
+30,1.0,1.0,0.519347459098177,0.519347459098177,inf,AP Only,Non-white,AAPI,M,Third person,0,4,False,typical american - jen
+31,0.0,0.0,0.2248615125816059,inf,0.2248615125816059,AP Only,White,White*,F,First person,0,5,False,turn of the screw - james
+32,0.0,0.0,0.3841421562574462,inf,0.3841421562574462,AP Only,White,White*,M,Third person,0,2,False,trial - kafka
+33,0.0,0.0,0.5416089487995097,inf,0.5416089487995097,AP Only,White,White*,F,Third person,0,1,False,tree grows in brooklyn - smith
+34,1.0,1.0,0.803706552955594,0.5402885757272345,inf,AP Only,Non-white,Multiracial†,F,First person,0,1,False,tracks - erdrich
+35,0.0,0.0,0.6920531017521244,inf,0.4711230938119193,AP Only,White,White*,M,Third person,0,5,False,tom jones - fielding
+36,0.0,0.0,0.6323852840077563,inf,0.6323852840077563,AP Only,White,White*,F,Third person,0,2,False,to the lighthouse - woolf
+37,0.0,0.0,0.3764711070512838,inf,0.3764711070512838,Both,White,White*,F,First person,25,7,False,to kill a mockingbird - lee
+38,1.0,1.0,0.3741692947495652,0.3741692947495652,inf,Teachers Only,White,MENA,M,First person,1,0,False,thus spoke zarathustra - nietzsche
+39,1.0,1.0,0.538796391652125,0.538796391652125,inf,Both,Non-white,MENA,F,Third person,1,2,False,thousand splendid suns - hosseini
+40,0.0,0.0,0.22728861020470095,inf,0.22728861020470095,AP Only,White,White*,F,First person,0,3,False,thousand acres - smiley
+41,0.0,0.0,0.08904213148716772,inf,0.08904213148716772,Teachers Only,White,White*,M,First person,1,0,False,thirteen reasons why - asher
+42,0.07505643340857787,0.1717948717948718,0.6897700690984578,0.5968989653206415,0.6870148861160438,Both,White,White*,M,First person,17,2,True,things they carried - o'brien
+43,1.0,1.0,0.5459340645496086,0.5459340645496086,inf,Both,Non-white,Black,M,Third person,22,8,False,things fall apart - achebe
+44,1.0,1.0,0.8150142931850952,0.8086258265660992,inf,Teachers Only,Non-white,Native/Indigenous,F,First person,1,0,False,there there - orange
+45,1.0,1.0,0.5258814787601768,0.5258814787601768,inf,Both,Non-white,Multiracial†,F,Third person,23,12,False,their eyes were watching god - hurston
+46,0.0,0.0,0.5311396140941487,inf,0.5311396140941487,AP Only,White,White*,F,Third person,0,6,False,tess of the d urbervilles - hardy
+47,1.0,1.0,0.7277562919341092,0.7277562919341092,inf,Teachers Only,Non-white,Latinx,M,Third person,1,0,False,tattooed soldier - tobar
+48,0.0,0.0,0.78161634507285,inf,0.7394169320529628,AP Only,White,White*,M,Third person,0,3,False,tale of two cities - dickens
+49,0.08766233766233766,0.16516308119361556,0.13814132826571462,0.6911255844878638,0.13814132826571462,Teachers Only,White,White*,NB,First person,1,0,True,symptoms of being human - garvin
+50,0.0,0.0,0.1763327482566808,inf,0.1763327482566808,AP Only,White,White*,F,First person,0,2,False,surfacing - atwood
+51,0.0,0.0,0.36157600521161903,inf,0.36157600521161903,AP Only,White,White*,M,First person,0,4,False,sun also rises - hemingway
+52,1.0,1.0,0.6947293786281081,0.6404877374915836,inf,Both,Non-white,Black,F,Third person,3,8,False,sula - morrison
+53,1.0,1.0,0.6013609043936732,0.6013609043936732,inf,Teachers Only,Non-white,Black,M,First person,1,0,False,stride toward freedom - king
+54,0.9366075824716888,0.9168674698795181,0.7654238574672655,0.7258266783198549,0.7321140481233823,AP Only,Non-white,Black,F,Third person,0,1,True,street - petry
+55,0.0,0.0,0.19039174590192573,inf,0.19039174590192573,Both,White,White*,M,First person,2,2,False,stranger - camus
+56,0.0,0.0,0.4770137154020793,inf,0.4770137154020793,AP Only,White,White*,M,Third person,0,2,False,story of edgar sawtelle - wroblewski
+57,0.0,0.0,0.21270158457166483,inf,0.21270158457166483,AP Only,White,White*,F,First person,0,1,False,stone angel - laurence
+58,1.0,1.0,0.1925830586258551,0.1925830586258551,inf,Teachers Only,Non-white,AAPI,F,First person,3,0,False,step from heaven - na
+59,0.0,0.0,0.2225718365404611,inf,0.2225718365404611,Teachers Only,White,White*,F,First person,4,0,False,speak - anderson
+60,1.0,1.0,0.7350127091525224,0.6186529332965469,inf,Teachers Only,White,Latinx,M,Third person,3,0,False,spare parts - davis
+61,0.8179563492063492,0.8485158648925282,0.7394543779826313,0.6308996487868491,0.7499862377297027,Teachers Only,Non-white,Latinx,M,First person,1,0,True,sound of things falling - vasquez
+62,0.23336476998847322,0.38577850429096855,0.6843976095640142,0.7405968200170882,0.5383788679266147,AP Only,White,White*,M,First person,0,6,True,sound and the fury - faulkner
+63,0.0,0.0,0.3339288123684691,inf,0.3339288123684691,AP Only,White,White*,M,First person,0,1,False,sorrows of young werther - goethe
+64,0.0,0.0,0.6077328694455001,inf,0.6077328694455001,AP Only,White,White*,M,First person,0,2,False,sophie s choice - styron
+65,1.0,1.0,0.7358394245895861,0.6437751549527996,inf,Both,Non-white,Black,M,Third person,4,8,False,song of solomon - morrison
+66,0.0,0.0,0.10157458088018252,inf,0.10157458088018252,Teachers Only,White,White*,F,First person,1,0,False,something about america - testa
+67,1.0,1.0,0.2307587710730543,0.2307587710730543,inf,Teachers Only,White,AAPI,F,First person,5,0,False,sold - mccormick
+68,1.0,1.0,0.3146648789244149,0.3146648789244149,inf,AP Only,Non-white,AAPI,F,First person,0,1,False,snow flower and the secret fan - see
+69,0.3896758703481393,0.30574098798397864,0.8444369949082582,0.7430624884898486,0.7861145214335247,AP Only,White,White*,M,Third person,0,3,True,snow falling on cedars - guterson
+70,1.0,1.0,0.5244900972620858,0.5232671926034757,inf,AP Only,Non-white,MENA,M,Third person,0,1,False,snow - pamuk
+71,0.0,0.0,0.41910538847711093,inf,0.41910538847711093,Both,White,White*,M,Third person,3,1,False,slaughterhouse five - vonnegut
+72,1.0,1.0,0.4276465468616445,0.4276465468616445,inf,Teachers Only,Non-white,Multiracial†,M,First person,1,0,False,sky is not the limit - tyson
+73,1.0,1.0,0.28719604082846556,0.28719604082846556,inf,Teachers Only,Non-white,Black,F,First person,1,0,False,skin i m in - flake
+74,1.0,1.0,0.48149948855561375,0.48149948855561375,inf,AP Only,Non-white,AAPI,F,First person,0,1,False,sister of my heart - divakaruni
+75,0.0,0.0,0.6151111960136941,inf,0.6151111960136941,AP Only,White,White*,F,Third person,0,5,False,sister carrie - dreiser
+76,0.8573495968575563,0.7795275590551181,0.5857988914528797,0.5857988914528797,0.6273227146168344,Both,Non-white,Multiracial†,M,First person,2,1,True,sing unburied sing - ward
+77,0.0,0.0,0.7582351772242675,inf,0.5870243876191916,AP Only,White,White*,M,Third person,0,1,False,silas marner - eliot
+78,1.0,1.0,0.3921727996761002,0.3921727996761002,inf,Both,White,AAPI,M,Third person,2,1,False,siddhartha - hesse
+79,0.0,0.0,0.6023694060706335,inf,0.6023694060706335,AP Only,White,White*,M,First person,0,1,False,set this house on fire - styron
+80,0.0,0.0,0.2725905845071531,inf,0.2725905845071531,AP Only,White,White*,M,First person,0,2,False,separate peace - knowles
+81,1.0,1.0,0.4586404965322555,0.4586404965322555,inf,AP Only,Non-white,Black,M,First person,0,1,False,sent for you yesterday - wideman
+82,0.0,0.0,0.45892949890581713,inf,0.45892949890581713,AP Only,White,White*,F,Third person,0,1,False,sense and sensibility - austen
+83,0.4018367538187611,0.5902679830747531,0.19192480874902856,0.4172598519989598,0.19192480874902856,Both,White,White*,F,First person,2,1,True,secret life of bees - kidd
+84,0.0,0.0,0.43899594638991973,inf,0.43899594638991973,AP Only,White,White*,F,Third person,0,1,False,secret garden - burnett
+85,0.0,0.0,0.2857272922459753,inf,0.2857272922459753,Teachers Only,White,White*,M,First person,1,0,False,scratch beginnings - shepard
+86,0.0,0.0,0.711083296521001,inf,0.3364550753094688,Both,White,White*,F,Third person,6,11,False,scarlet letter - hawthorne
+87,0.0,0.0,0.37809615417922726,inf,0.37809615417922726,AP Only,White,White*,M,Third person,0,1,False,saturday - mcewan
+88,0.8194201206460401,0.9096467391304348,0.3737466056376538,0.3737466056376538,0.6893927730364469,Teachers Only,Non-white,Black,F,First person,3,0,True,salvage the bones - ward
+89,0.9417031436530043,,0.33571679822495054,0.33571679822495054,0.7252352678973278,AP Only,Non-white,Native/Indigenous,M,First person,0,1,True,round house - erdrich
+90,0.0,0.0,0.38649102950415287,inf,0.38649102950415287,AP Only,White,White*,F,Third person,0,1,False,room with a view - forster
+91,0.08275789914207993,0.3424657534246575,0.27585716191600795,0.6860100982745906,0.27585716191600795,AP Only,White,White*,M,First person,0,1,True,robinson crusoe - defoe
+92,0.0,0.0,0.3722866669296909,inf,0.3722866669296909,Both,White,White*,M,Third person,4,2,False,road - mccarthy
+93,0.0,0.0,0.32672157064568336,inf,0.32672157064568336,AP Only,White,White*,M,First person,0,1,False,river runs through it - maclean
+94,0.0,0.0,0.6170790013537181,inf,0.6170790013537181,AP Only,White,White*,F,Third person,0,2,False,return of the native - hardy
+95,0.9158408932309839,0.9268978444236177,0.531935506464829,0.5092032741274932,0.7996219695380006,AP Only,Non-white,Native/Indigenous,M,Third person,0,3,True,reservation blues - alexie
+96,0.0,0.0,0.22266091983695085,inf,0.22266091983695085,AP Only,Non-white,White*,M,First person,0,4,False,remains of the day - ishiguro
+97,1.0,1.0,0.23458077001067182,0.23458077001067182,inf,Teachers Only,Non-white,Multiracial†,F,First person,1,0,False,redefining realness - mock
+98,0.0,0.0,0.4182522321143283,inf,0.4182522321143283,AP Only,White,White*,M,Third person,0,2,False,red badge of courage - crane
+99,1.0,1.0,0.6288962954073072,0.6288962954073072,inf,Teachers Only,Non-white,Latinx,M,Third person,1,0,False,rain god - islas
+100,0.12092504876010031,,0.6771575074240777,0.6129165993310881,0.59602379019737,AP Only,White,White*,M,Third person,0,2,True,ragtime - doctorow
+101,1.0,1.0,0.24358189041763262,0.24358189041763262,inf,Both,Non-white,Black,F,First person,1,1,False,push - sapphire
+102,1.0,1.0,0.30320053138237324,0.30320053138237324,inf,Both,Non-white,Black,F,First person,4,1,False,purple hibiscus - adichie
+103,0.0,0.0,0.20810866692938904,inf,0.20810866692938904,Teachers Only,White,White*,M,Third person,1,0,False,purple heart - mccormick
+104,0.0,0.0,0.6781264127122683,inf,0.6595965320106408,AP Only,White,White*,M,First person,0,1,False,professor s house - cather
+105,0.0,0.0,0.3023105151001793,inf,0.3023105151001793,AP Only,White,White*,F,Third person,0,1,False,prime of miss jean brodie - spark
+106,0.0,0.0,0.42251513520163275,inf,0.42251513520163275,Both,White,White*,F,Third person,2,4,False,pride and prejudice - austen
+107,0.0,0.0,0.3739423553164298,inf,0.3739423553164298,AP Only,White,White*,M,First person,0,3,False,prayer for owen meany - irving
+108,0.0,0.0,0.33768759547539834,inf,0.33768759547539834,AP Only,White,White*,M,First person,0,1,False,power of one - courtenay
+109,0.0,0.0,0.5488574220305006,inf,0.5488574220305006,Teachers Only,White,White*,M,Third person,1,0,False,power broker - caro
+110,0.0,0.0,0.5893296815145677,inf,0.5893296815145677,AP Only,White,White*,M,First person,0,11,False,portrait of the artist as a young man - joyce
+111,0.0,0.0,0.6439557472235534,inf,0.6439557472235534,AP Only,White,White*,F,Third person,0,9,False,portrait of a lady - james
+112,0.07953004970628107,0.17070484581497797,0.5882000558105496,0.6866085947521974,0.4842561858243633,AP Only,White,White*,F,First person,0,5,True,poisonwood bible - kingsolver
+113,1.0,1.0,0.6552294938367903,0.6552294938367903,inf,AP Only,Non-white,Latinx,M,Third person,0,2,False,pocho - villarreal
+114,0.35851086722616743,0.3345029239766082,0.585540099265312,0.585540099265312,0.43820465416885074,AP Only,White,MENA,M,Third person,0,3,True,plague - camus
+115,0.0,0.0,0.5340621159036474,inf,0.5340621159036474,Both,White,White*,M,Third person,2,3,False,picture of dorian gray - wilde
+116,0.0,0.0,0.4162735030194504,inf,0.4162735030194504,AP Only,White,White*,F,Third person,0,2,False,persuasion - austen
+117,0.0,0.0,0.20817368995458166,inf,0.20817368995458166,Teachers Only,White,White*,M,First person,2,0,False,perks of being a wallflower - chbosky
+118,0.9227333631085306,0.8712871287128713,0.27698251909609184,0.27698251909609184,0.6264935895929928,Teachers Only,White,Multiracial†,M,Third person,2,0,True,pearl - steinbeck
+119,1.0,1.0,0.1834086766910989,0.1834086766910989,inf,Teachers Only,Non-white,AAPI,M,First person,1,0,False,patron saints of nothing - ribay
+120,1.0,1.0,0.43752065675822865,0.43752065675822865,inf,Both,Non-white,Black,F,Third person,1,2,False,passing - larsen
+121,0.3295410721172387,0.3238578680203046,0.5988861721595621,0.5988861721595621,0.5832941119446683,AP Only,White,AAPI,M,Third person,0,4,True,passage to india - forster
+122,0.9014942695488176,0.891912320483749,0.27255386746944466,0.27255386746944466,0.741341009415936,Teachers Only,Non-white,Black,F,First person,1,0,True,parable of the sower - butler
+123,0.08401175938489372,0.14285714285714285,0.16646900439633885,0.6667086584264464,0.16646900439633885,Teachers Only,White,White*,M,First person,1,0,True,paper towns - green
+124,1.0,1.0,0.38724137690170557,0.38724137690170557,inf,Teachers Only,Non-white,Multiracial†,M,First person,1,0,False,panther baby - joseph
+125,0.0,0.0,0.5317981802059852,inf,0.5282374138190505,AP Only,White,White*,M,First person,0,1,False,pale fire - nabokov
+126,0.0,0.0,0.23253032757698416,inf,0.23253032757698416,Teachers Only,White,White*,M,First person,6,0,False,outsiders - hinton
+127,0.15699572971615172,0.24043715846994534,0.33920005395450037,0.8502573743235661,0.33920005395450037,AP Only,White,White*,F,First person,0,1,True,out of africa - dinesen
+128,1.0,1.0,0.4390214750928814,0.4390214750928814,inf,Teachers Only,Non-white,Black,M,First person,5,0,False,other wes moore - moore
+129,0.0,0.0,0.5128117500788926,inf,0.5128117500788926,AP Only,White,White*,M,First person,0,1,False,other - guterson
+130,0.11559705418200947,0.11084142394822007,0.46885565233124116,0.7457532943751938,0.46885565233124116,AP Only,White,White*,M,Third person,0,4,True,oryx and crake - atwood
+131,0.0,0.0,0.38441195992610944,inf,0.38441195992610944,AP Only,White,White*,M,Third person,0,2,False,orlando - woolf
+132,0.0,0.0,0.402587231536101,inf,0.402587231536101,Teachers Only,White,White*,F,First person,1,0,False,oranges are not the only fruit - winterson
+133,1.0,1.0,0.5225326291931969,0.5225326291931969,inf,AP Only,Non-white,Latinx,F,Third person,0,2,False,one hundred years of solitude - marquez
+134,0.3198452841416245,0.08654970760233918,0.6236283952800191,0.4802915461490835,0.5967671036128918,AP Only,White,White*,M,Third person,0,3,True,one flew over the cuckoo s nest - kesey
+135,0.0,0.0,0.4255294500600998,inf,0.4255294500600998,AP Only,White,White*,M,Third person,0,2,False,one day in the life of ivan denisovich - solzhenitsyn
+136,0.0,0.0,0.8013972711130802,inf,0.7485161282996706,AP Only,White,White*,M,Third person,0,2,False,oliver twist - dickens
+137,0.0,,0.45953328867131854,inf,0.3697291348128467,AP Only,White,White*,M,First person,0,1,False,old school - wolff
+138,0.07429871114480667,0.09579667644183773,0.5204210445557725,0.7635309058297846,0.4547241149907818,Both,White,White*,M,Third person,15,1,True,of mice and men - steinbeck
+139,1.0,1.0,0.3252754451702423,0.3252754451702423,inf,Teachers Only,Non-white,Black,M,First person,2,0,False,of beetles and angels - asgedom
+140,0.0,0.0,0.6967858209313592,inf,0.6773385607307537,AP Only,White,White*,M,Third person,0,1,False,octopus - norris
+141,1.0,1.0,0.29109946216835525,0.29109946216835525,inf,AP Only,Non-white,AAPI,F,First person,0,6,False,obasan - kogawa
+142,0.0,0.0,0.5571173804612076,inf,0.5571173804612076,AP Only,White,White*,F,Third person,0,1,False,o pioneers - cather
+143,0.0,0.0,0.3698588980979554,inf,0.3698588980979554,AP Only,White,White*,F,Third person,0,1,False,northanger abbey - austen
+144,0.0,0.0,0.23153800711494307,inf,0.23153800711494307,AP Only,White,White*,M,Third person,0,1,False,noah s compass - tyler
+145,1.0,1.0,0.47099094902749,0.47099094902749,inf,Teachers Only,Non-white,Black,F,First person,1,0,False,no disrespect - souljah
+146,0.0,0.0,0.5358165762132436,inf,0.5358165762132436,AP Only,White,White*,M,First person,0,2,False,no country for old men - mccarthy
+147,1.0,1.0,0.25244491420298176,0.25244491420298176,inf,Teachers Only,Non-white,Black,M,First person,1,0,False,no ashes in the fire - moore
+148,0.0,0.0,0.6614444071365495,inf,0.6185147291648193,Both,White,White*,M,Third person,13,3,False,nineteen eighty four - orwell
+149,0.0,0.0,0.39748077996673026,inf,0.39748077996673026,Both,White,White*,M,First person,29,1,False,night - wiesel
+150,1.0,1.0,0.23285302700711566,0.23285302700711566,inf,Teachers Only,Non-white,Black,M,First person,1,0,False,nigger - gregory
+151,0.0,0.0,0.29472971056225566,inf,0.29472971056225566,AP Only,Non-white,White*,F,First person,0,4,False,never let me go - ishiguro
+152,1.0,1.0,0.3578014251490548,0.3578014251490548,inf,AP Only,Non-white,Black,F,First person,0,1,False,nervous conditions - dangarembga
+153,0.781403870376732,0.5756186984417965,0.28836760357034097,0.28836760357034097,0.7148333957811074,AP Only,Non-white,AAPI,M,First person,0,5,True,native speaker - lee
+154,0.670485230341216,0.5897435897435898,0.6805616378606663,0.6805616378606663,0.5826084101153303,Both,Non-white,Black,M,Third person,10,8,True,native son - wright
+155,0.8531278331822303,0.8709677419354839,0.46318990359315787,0.46318990359315787,0.772781290081133,Teachers Only,Non-white,Black,M,First person,7,0,True,narrative of the life of frederick douglass - douglass
+156,1.0,1.0,0.7011599598931009,0.7011599598931009,inf,AP Only,Non-white,AAPI,M,Third person,0,3,False,namesake - lahiri
+157,0.0,0.0,0.1407988172285741,inf,0.1407988172285741,AP Only,White,White*,M,First person,0,1,False,my name is asher lev - potok
+158,0.0,0.0,0.39523891645990866,inf,0.39523891645990866,AP Only,White,White*,M,First person,0,5,False,my ántonia - cather
+159,0.0,0.0,0.6857545752561602,inf,0.6631502138377713,AP Only,White,White*,F,Third person,0,5,False,mrs dalloway - woolf
+160,1.0,1.0,0.5120420245588961,0.5120420245588961,inf,AP Only,Non-white,Multiracial†,M,First person,0,1,False,moor s last sigh - rushdie
+161,0.8451984247197819,0.8223880597014925,0.49305096997351655,0.47722779493547746,0.5744353103799746,Teachers Only,Non-white,Native/Indigenous,M,Third person,1,0,True,moon of the crusted snow - rice
+162,1.0,1.0,0.3268415913005953,0.3268415913005953,inf,AP Only,Non-white,AAPI,F,First person,0,2,False,monkey bridge - cao
+163,0.0,0.0,0.30712972532527005,inf,0.30712972532527005,AP Only,White,White*,F,First person,0,1,False,moll flanders - defoe
+164,0.1420824295010846,0.06456953642384106,0.6074783897446413,0.7309336092203054,0.6074783897446413,AP Only,White,White*,M,First person,0,8,True,moby dick - melville
+165,0.0,0.0,0.7197261529086291,inf,0.6920005606024299,AP Only,White,White*,F,Third person,0,2,False,mill on the floss - eliot
+166,1.0,1.0,0.4460546039762403,0.4460546039762403,inf,AP Only,Non-white,AAPI,M,First person,0,1,False,midnight s children - rushdie
+167,0.0,0.0,0.48334710161200806,inf,0.48334710161200806,AP Only,White,White*,NB,First person,0,1,False,middlesex - eugenides
+168,0.0,0.0,0.8675722960556518,inf,0.7762420653214017,AP Only,White,White*,F,Third person,0,4,False,middlemarch - eliot
+169,0.0,0.0,0.4189988530302077,inf,0.4189988530302077,Both,White,White*,M,Third person,6,2,False,metamorphosis - kafka
+170,1.0,1.0,0.28282258742154737,0.28282258742154737,inf,Teachers Only,Non-white,Black,F,First person,1,0,False,men we reaped - ward
+171,0.0,0.0,0.7286744538312332,inf,0.7146574274979679,AP Only,White,White*,F,Third person,0,3,False,memory keeper s daughter - edwards
+172,0.22426889479680973,0.36095764272559855,0.24290799938799618,0.6288832330884767,0.24290799938799618,AP Only,White,White*,F,Third person,0,1,True,member of the wedding - mccullers
+173,0.0,0.0,0.5190588466737867,inf,0.5053315967840685,AP Only,White,White*,M,Third person,0,8,False,mayor of casterbridge - hardy
+174,1.0,1.0,0.38060558942965733,0.38060558942965733,inf,Teachers Only,Non-white,Native/Indigenous,M,First person,1,0,False,marrow thieves - dimaline
+175,0.0,0.0,0.5703771542418996,inf,0.5703771542418996,AP Only,White,White*,F,Third person,0,3,False,mansfield park - austen
+176,1.0,1.0,0.6540739173116527,0.5981499385054634,inf,AP Only,Non-white,Black,F,Third person,0,1,False,mama day - naylor
+177,0.0,0.0,0.44805304465149975,inf,0.44805304465149975,AP Only,White,White*,F,Third person,0,1,False,main street - lewis
+178,0.0,0.0,0.6832436710502864,inf,0.566368885212661,AP Only,White,White*,M,Third person,0,1,False,maggie a girl of the streets - crane
+179,0.0,0.0,0.5859211181734065,inf,0.45978844296228893,AP Only,White,White*,F,Third person,0,7,False,madame bovary - flaubert
+180,1.0,1.0,0.8664262889114042,0.7682914690086521,inf,Teachers Only,Non-white,Native/Indigenous,F,First person,2,0,False,love medicine - erdrich
+181,0.0,0.0,0.48010410596112557,inf,0.48010410596112557,Both,White,White*,M,Third person,14,2,False,lord of the flies - golding
+182,0.0,0.0,0.5112149386099716,inf,0.5112149386099716,AP Only,White,White*,M,First person,0,3,False,lord jim - conrad
+183,0.0,0.0,0.5548077898036778,inf,0.5548077898036778,AP Only,White,White*,M,Third person,0,1,False,look homeward angel - wolfe
+184,1.0,1.0,0.41897647011805494,0.41897647011805494,inf,Teachers Only,Non-white,Black,M,First person,1,0,False,long way gone - beah
+185,0.0,0.0,0.19894460781699808,inf,0.19894460781699808,AP Only,White,White*,M,First person,0,1,False,lolita - nabokov
+186,0.0,0.0,0.6316155657446831,inf,0.6155669673749607,AP Only,White,White*,F,Third person,0,1,False,little women - alcott
+187,1.0,1.0,0.7277501098850494,0.6940566272235097,inf,AP Only,Non-white,Black,M,Third person,0,1,False,linden hills - naylor
+188,1.0,1.0,0.4375216411412935,0.4375216411412935,inf,Teachers Only,Non-white,Latinx,F,Third person,4,0,False,like water for chocolate - esquivel
+189,0.3693822739480752,0.2588996763754045,0.8818327822269376,0.7485638913743616,0.8676427103476702,AP Only,White,White*,M,Third person,0,6,True,light in august - faulkner
+190,0.818808129521185,0.8029197080291971,0.5268353461945718,0.5268353461945718,inf,Teachers Only,White,AAPI,M,First person,1,0,False,life of pi - martel
+191,0.7589899524061343,0.5984419263456091,0.5384741581765158,0.5384741581765158,0.6102916508374637,Both,Non-white,Black,M,First person,3,0,True,lesson before dying - gaines
+192,0.920742591931453,0.9865470852017937,0.3226540997797386,0.3226540997797386,inf,Teachers Only,Non-white,Black,F,First person,1,0,False,left to tell - ilibagiza
+193,1.0,1.0,0.346735094467662,0.346735094467662,inf,Teachers Only,Non-white,AAPI,F,First person,1,0,False,latehomecomer - yang
+194,0.14645669291338584,0.0908203125,0.572798885928993,0.7194394408622993,0.572798885928993,AP Only,White,White*,M,Third person,0,1,True,last of the mohicans - cooper
+195,0.945626022519488,0.7741935483870968,0.1735601889340719,0.1735601889340719,0.5519243812543336,Teachers Only,Non-white,Multiracial†,F,First person,1,0,True,know my name - miller
+196,1.0,1.0,0.2732796645900938,0.2732796645900938,inf,Teachers Only,Non-white,MENA,F,First person,1,0,False,knock at the door - ahnert
+197,1.0,1.0,0.18278384262875652,0.18278384262875652,inf,Both,Non-white,MENA,M,First person,14,5,False,kite runner - hosseini
+198,0.6649352662997131,0.5724108293940696,0.14100737197547325,0.14100737197547325,0.5769488109258507,Both,Non-white,Black,F,First person,4,2,True,kindred - butler
+199,1.0,1.0,0.64659636518329,0.64659636518329,inf,AP Only,Non-white,AAPI,M,First person,0,1,False,kafka on the shore - murakami
+200,0.8988639512330285,0.890295358649789,0.6491654391268811,0.6491654391268811,0.684540537397159,Teachers Only,Non-white,Black,M,First person,2,0,True,just mercy - stevenson
+201,0.0,0.0,0.6498521164436054,inf,0.6498521164436054,Both,White,White*,M,Third person,1,1,False,jungle - sinclair
+202,0.30728314238952537,0.5558086560364465,0.23814499006378173,0.5050854489149088,0.23814499006378173,Teachers Only,Non-white,White*,M,First person,1,0,True,jumped in - flores-scott
+203,0.0,0.0,0.5386301681566149,inf,0.5386301681566149,AP Only,White,White*,M,Third person,0,5,False,jude the obscure - hardy
+204,1.0,1.0,0.678449898319969,0.5345755842610047,inf,AP Only,Non-white,Black,F,Third person,0,1,False,joys of motherhood - emecheta
+205,1.0,1.0,0.8876569052570148,0.8350876672312263,inf,Both,Non-white,AAPI,F,First person,2,2,False,joy luck club - tan
+206,0.859626362221069,0.8153409090909091,0.19005201229483878,0.19005201229483878,0.7447139200925608,AP Only,Non-white,AAPI,F,First person,0,3,True,jasmine - mukherjee
+207,0.0,0.0,0.3919028656984613,inf,0.3919028656984613,AP Only,White,White*,F,First person,0,13,False,jane eyre - bronte
+208,1.0,1.0,0.3667606174946826,0.3667606174946826,inf,Both,Non-white,Black,M,First person,5,16,False,invisible man - ellison
+209,0.0,0.0,0.7135132496591367,inf,0.6126207004747585,Teachers Only,White,White*,M,Third person,3,0,False,into the wild - krakauer
+210,1.0,1.0,0.6064409454228752,0.6064409454228752,inf,AP Only,Non-white,Multiracial†,F,Third person,0,1,False,inheritance of loss - desai
+211,1.0,1.0,0.4972833417600592,0.4972833417600592,inf,Both,Non-white,Latinx,F,First person,10,1,False,in the time of the butterflies - alvarez
+212,0.0,0.0,0.4604103336854659,inf,0.4604103336854659,AP Only,White,White*,M,Third person,0,2,False,in the lake of the woods - o'brien
+213,0.5034916201117319,0.4022346368715084,0.5987382464798423,0.5987382464798423,0.6353169728210433,Teachers Only,White,Multiracial†,M,Third person,4,0,True,in cold blood - capote
+214,0.7513057452792286,0.8142857142857143,0.7871306912527466,0.5118978657478914,0.6130930965743716,Teachers Only,White,Black,F,Third person,8,0,True,immortal life of henrietta lacks - skloot
+215,1.0,1.0,0.5524542862317319,0.5524542862317319,inf,Teachers Only,Non-white,Multiracial†,F,First person,1,0,False,i rigoberta menchu - menchu
+216,1.0,1.0,0.3533748778630248,0.3533748778630248,inf,Teachers Only,Non-white,Black,F,First person,5,0,False,i know why the caged bird sings - angelou
+217,0.9459545890629997,0.8943798449612403,0.15973924898140648,0.15973924898140648,0.7730919165669939,Teachers Only,Non-white,Latinx,F,First person,3,0,True,i am not your perfect mexican daughter - sanchez
+218,1.0,1.0,0.3355328680034558,0.3355328680034558,inf,Teachers Only,Non-white,MENA,F,First person,1,0,False,i am malala - yousafzai
+219,0.044097560975609754,0.07404255319148936,0.16425070239721837,0.6346076899771701,0.16425070239721837,Teachers Only,White,White*,F,First person,1,0,True,hunger games - collins
+220,0.49379178605539636,0.23295454545454544,0.668624884122106,0.500377558017442,0.668624884122106,Teachers Only,Non-white,White*,M,Third person,1,0,True,human being died that night - gobodo-madikizela
+221,0.0,0.0,0.47566982226077653,inf,0.47566982226077653,AP Only,White,White*,F,Third person,0,1,False,howards end - forster
+222,1.0,1.0,0.6980756207668475,0.6904765448668125,inf,Teachers Only,Non-white,Latinx,F,First person,4,0,False,how the garcia girls lost their accents - alvarez
+223,1.0,1.0,0.3210642494982717,0.26118503343085064,inf,Teachers Only,Non-white,MENA,F,Third person,2,0,False,how does it feel to be a problem - bayoumi
+224,0.0,0.0,0.539276908941835,inf,0.36017348423988393,AP Only,White,White*,F,Third person,0,1,False,housekeeping a novel - robinson
+225,1.0,,0.41000445101313476,0.41000445101313476,inf,Both,Non-white,Latinx,F,First person,24,4,False,house on mango street - cisneros
+226,1.0,1.0,0.7924468427826563,0.6741626822171306,inf,Teachers Only,Non-white,Latinx,F,First person,1,0,False,house of the spirits - allende
+227,0.9395523948964651,0.8964788732394366,0.14915720265726837,0.14915720265726837,0.5000629849015349,Teachers Only,White,Latinx,M,Third person,1,0,True,house of the scorpion - farmer
+228,0.0,0.0,0.6844989471766223,inf,0.6760343320437913,AP Only,White,White*,F,Third person,0,1,False,house of seven gables - hawthorne
+229,0.0,0.0,0.4740792682134379,inf,0.4740792682134379,AP Only,White,White*,F,Third person,0,5,False,house of mirth - wharton
+230,0.867330016583748,0.9428571428571428,0.6880967597186797,0.6880967597186797,0.6335314059504563,AP Only,Non-white,Native/Indigenous,M,First person,0,2,True,house made of dawn - momaday
+231,1.0,1.0,0.4399944472061486,0.4399944472061486,inf,AP Only,Non-white,AAPI,M,Third person,0,2,False,house for mr biswas - naipaul
+232,0.8569304477118784,0.8725,0.8137571333712792,0.7375418304223764,0.8772225067456756,Both,Non-white,Black,F,Third person,4,2,True,homegoing - gyasi
+233,1.0,1.0,0.5593686569072274,0.5593686569072274,inf,AP Only,Non-white,Black,M,Third person,0,1,False,home to harlem - mckay
+234,0.2295229522952295,0.33436532507739936,0.5325475392537744,0.6067021914012093,0.5325475392537744,Teachers Only,White,White*,M,Third person,1,0,True,holes - sachar
+235,0.2517921146953405,0.21755725190839695,0.6162622030506054,0.5684174445741706,0.5452444966689421,AP Only,White,White*,F,Third person,0,1,True,high wind in jamaica - hughes
+236,1.0,1.0,0.19514780554028358,0.19514780554028358,inf,Teachers Only,Non-white,AAPI,F,Third person,1,0,False,hen who dreamed she could fly - hwang
+237,0.4178938446869372,0.402970297029703,0.7488930541860475,0.738692943633956,0.6106616415200916,Teachers Only,White,White*,F,First person,4,0,True,help - stockett
+238,0.0,0.0,0.2901800174547933,inf,0.2901800174547933,Both,White,White*,M,First person,2,16,False,heart of darkness - conrad
+239,0.0,0.0,0.4460496825075109,inf,0.4460496825075109,AP Only,White,White*,F,First person,0,1,False,haunting of hill house - jackson
+240,0.9179273827534039,0.912287793047696,0.2456763558579141,0.2456763558579141,0.6647519538474785,Teachers Only,Non-white,Black,F,First person,12,0,True,hate u give - thomas
+241,0.0,0.0,0.6591801759063899,inf,0.6591801759063899,AP Only,White,White*,M,Third person,0,1,False,hard times - dickens
+242,0.0,0.0,0.335463936440728,inf,0.335463936440728,Both,White,White*,F,First person,9,3,False,handmaid s tale - atwood
+243,0.0,,0.44573992729400025,inf,0.44573992729400025,AP Only,White,White*,M,First person,0,4,False,gulliver s travels - swift
+244,0.0,0.0,0.37898134863418725,inf,0.5234718926322616,AP Only,White,White*,M,Third person,0,1,False,grendel - gardner
+245,0.0,0.0,0.37380939700398574,inf,0.37380939700398574,Both,White,White*,M,First person,41,11,False,great gatsby - fitzgerald
+246,0.0,0.0,0.29077836389113193,inf,0.29077836389113193,AP Only,White,White*,M,First person,0,18,False,great expectations - dickens
+247,0.0,0.0,0.6725414108334465,inf,0.5476650179487519,Both,White,White*,M,Third person,5,8,False,grapes of wrath - steinbeck
+248,0.8988705017073811,0.8505013673655424,0.07053898410749701,0.07053898410749701,0.6494126848983488,Teachers Only,Non-white,Latinx,F,First person,1,0,True,graffiti girl - parra
+249,0.0,0.0,0.5898004109416157,inf,0.43665041457494747,AP Only,White,White*,M,Third person,0,2,False,good soldier - ford
+250,0.0,0.0,0.23332808821375325,inf,0.23332808821375325,AP Only,White,White*,M,First person,0,1,False,goldfinch - tartt
+251,0.0,0.0,0.636296026174457,inf,0.5664849854832547,AP Only,White,White*,F,Third person,0,1,False,golden bowl - james
+252,0.12345909600298842,0.23146223146223147,0.4344386297233514,0.4268858792286392,0.39576338592484384,AP Only,White,White*,M,Third person,0,3,True,going after cacciato - o'brien
+253,1.0,1.0,0.6473263145524193,0.5641728441530236,inf,AP Only,Non-white,AAPI,F,Third person,0,4,False,god of small things - roy
+254,0.9261850620955047,0.9608540925266904,0.8193870178200671,0.6731827546533391,inf,AP Only,Non-white,Black,M,Third person,0,2,False,go tell it on the mountain - baldwin
+255,0.0,0.0,0.3853492446014037,inf,0.3853492446014037,Teachers Only,White,White*,F,First person,3,0,False,glass castle - walls
+256,0.0,0.0,0.19603961712381038,inf,0.19603961712381038,Teachers Only,White,White*,M,Third person,2,0,False,giver - lowry
+257,1.0,1.0,0.7409842080222013,0.6735120649028068,inf,Teachers Only,Non-white,AAPI,F,Third person,1,0,False,girls burn brighter an unrestored women - rao
+258,0.0,0.0,0.7173321018606597,inf,0.6250410745884292,Teachers Only,White,White*,F,First person,2,0,False,girl on the train - hawkins
+259,0.9306117290192113,0.9159120310478654,0.1739877370882052,0.1739877370882052,0.7844923303648514,AP Only,Non-white,AAPI,M,First person,0,4,True,gesture life - lee
+260,0.0,0.0,0.6810726294399717,inf,0.6712797071330887,AP Only,White,White*,M,Third person,0,1,False,germinal - zola
+261,0.2703440742763517,0.14596670934699105,0.7379587580873768,0.6515356557586531,0.7236540348327712,AP Only,Non-white,White*,M,Third person,0,2,True,gathering of old men - gaines
+262,1.0,1.0,0.21039217453715756,0.21039217453715756,inf,Teachers Only,Non-white,Latinx,F,First person,5,0,False,gabi a girl in pieces - quintero
+263,0.7568947906026557,0.8440366972477065,0.791865015313437,0.7353174378144303,0.7806310203010153,Teachers Only,White,Black,M,Third person,1,0,True,friday night lights - bissinger
+264,1.0,1.0,0.3896507114167083,0.3896507114167083,inf,AP Only,Non-white,AAPI,M,Third person,0,1,False,free life a novel - jin
+265,0.0,0.0,0.8551192896069382,inf,0.7416112570369165,Both,White,White*,M,First person,18,7,False,frankenstein - shelley
+266,0.0,0.0,0.6703850667272045,inf,0.6703850667272045,AP Only,White,White*,M,Third person,0,2,False,for whom the bell tolls - hemingway
+267,0.90386803185438,0.8787878787878788,0.3618994999553096,0.3618994999553096,0.7184820089113936,Teachers Only,Non-white,Native/Indigenous,M,First person,7,0,True,flight - alexie
+268,0.0,0.0,0.4240851037595162,inf,0.4240851037595162,AP Only,White,White*,M,Third person,0,1,False,fixer - malamud
+269,1.0,1.0,0.4188394114578355,0.4188394114578355,inf,Teachers Only,Non-white,Black,M,First person,1,0,False,fist stick knife gun - canada
+270,1.0,1.0,0.4182335488131462,0.4182335488131462,inf,Teachers Only,Non-white,AAPI,F,First person,1,0,False,first they killed my father - ung
+271,1.0,1.0,0.8107376361108101,0.7690022494802112,inf,AP Only,Non-white,AAPI,F,Third person,0,1,False,fine balance - mistry
+272,0.0,0.0,0.37172991772318176,inf,0.37172991772318176,AP Only,White,White*,M,First person,0,2,False,fifth business - davies
+273,0.9540162492671078,0.8873239436619719,0.20396509482161615,0.20396509482161615,0.6734553879832392,Teachers Only,Non-white,Black,M,First person,1,0,True,felix ever after - callender
+274,0.0,0.0,0.2857328318154645,inf,0.2857328318154645,Teachers Only,White,White*,M,First person,3,0,False,feed - anderson
+275,0.0,0.0,0.23611005860240358,inf,0.23611005860240358,Both,White,White*,M,First person,2,3,False,farewell to arms - hemingway
+276,0.0,0.0,0.4347851022032532,inf,0.4347851022032532,Teachers Only,White,White*,M,Third person,18,0,False,fahrenheit 451 - bradbury
+277,0.0,0.0,0.519883388633748,inf,0.519883388633748,AP Only,White,White*,M,First person,0,1,False,extremely loud and incredibly close - foer
+278,0.6712760795730228,0.7224137931034482,0.7888978512283044,0.738057525648879,0.8178860307106262,Teachers Only,White,Black,F,Third person,1,0,True,evicted - desmond
+279,0.6983897834536369,0.6434573829531812,0.7135801007315646,0.605858976478233,0.6309990688755471,Teachers Only,Non-white,Multiracial†,F,Third person,1,0,True,everything i never told you - ng
+280,0.8099944061159798,0.849624060150376,0.6897444346144017,0.6897444346144017,0.802739819192079,Teachers Only,Non-white,Multiracial†,F,First person,1,0,True,eva luna - allende
+281,0.0,0.0,0.24190617051169408,inf,0.24190617051169408,AP Only,White,White*,M,Third person,0,5,False,ethan frome - wharton
+282,1.0,1.0,0.5466953880703208,0.5466953880703208,inf,Teachers Only,Non-white,Latinx,M,Third person,5,0,False,enrique s journey - nazario
+283,0.21803977272727273,0.27071823204419887,0.7138570123789266,0.7565027328091994,0.6032968403803922,AP Only,Non-white,White*,M,Third person,0,1,True,english patient - ondaatje
+284,0.0,0.0,0.5324177041413201,inf,0.5324177041413201,Teachers Only,White,White*,M,Third person,6,0,False,ender s game - card
+285,0.0,0.0,0.45891979580145853,inf,0.45891979580145853,AP Only,White,White*,F,Third person,0,2,False,emma - austen
+286,0.0,0.0,0.37960677603117526,inf,0.37960677603117526,AP Only,White,White*,M,First person,0,1,False,elmet - mozley
+287,0.0,0.0,0.22883169977671092,inf,0.22883169977671092,Teachers Only,White,White*,F,First person,1,0,False,educated - westover
+288,0.15929253867151957,0.20916647944282185,0.7724683947333063,0.7769474355620244,0.7473805885033212,AP Only,White,White*,M,Third person,0,1,True,east of eden - steinbeck
+289,1.0,1.0,0.4181092512995643,0.4181092512995643,inf,Teachers Only,Non-white,Multiracial†,M,First person,1,0,False,dreams from my father - obama
+290,1.0,1.0,0.6908188210530042,0.6908188210530042,inf,AP Only,Non-white,Latinx,F,First person,0,1,False,dreaming in cuban - garcia
+291,0.0,0.0,0.7872417146345828,inf,0.6046850537752471,Both,White,White*,M,First person,1,2,False,dracula - stoker
+292,1.0,1.0,0.2616096274216043,0.2616096274216043,inf,Teachers Only,Non-white,Multiracial†,M,First person,1,0,False,down these mean streets - thomas
+293,0.0,0.0,0.7667952253385425,inf,0.6968374041533576,AP Only,White,White*,M,Third person,0,5,False,don quixote - cervantes
+294,0.0,0.0,0.7508116646587133,inf,0.7508116646587133,AP Only,White,White*,M,Third person,0,1,False,doctor zhivago - pasternak
+295,0.057541129751195394,0.1295774647887324,0.15787166513859896,0.6521484722455014,0.15787166513859896,Teachers Only,White,White*,F,First person,2,0,True,divergent - roth
+296,1.0,1.0,0.2689928759999732,0.2689928759999732,inf,Teachers Only,Non-white,Latinx,F,First person,2,0,False,distance between us - grande
+297,0.0,0.0,0.42255854502737367,inf,0.42255854502737367,Teachers Only,White,White*,M,First person,1,0,False,dispatches - herr
+298,1.0,1.0,0.2599092945824287,0.2599092945824287,inf,Teachers Only,Non-white,Black,M,First person,1,0,False,discovering wes moore - moore
+299,0.0,0.0,0.3675813671073707,inf,0.3114210817885098,Teachers Only,White,White*,F,First person,1,0,False,diary of a young girl - frank
+300,0.0,0.0,0.523015954671595,inf,0.47875211795093014,AP Only,White,White*,M,Third person,0,1,False,death in venice - mann
+301,0.8312289562289562,0.8495297805642633,0.1668267325481195,0.1668267325481195,0.6100632220711785,Teachers Only,Non-white,Black,M,First person,2,0,True,dear martin - stone
+302,0.0,0.0,0.2963694458938763,inf,0.2963694458938763,AP Only,White,White*,M,First person,0,2,False,david copperfield - dickens
+303,0.8986037234042553,0.855,0.10202128186281599,0.10202128186281599,0.5050253641636689,Teachers Only,Non-white,Multiracial†,M,First person,1,0,True,darius the great is not okay - khorram
+304,1.0,1.0,0.2079136840020418,0.2079136840020418,inf,Teachers Only,Non-white,MENA,F,First person,1,0,False,dancing in the mosque - qaderi
+305,0.0,0.0,0.22277936167314777,inf,0.22277936167314777,AP Only,White,White*,M,Third person,0,2,False,daisy miller - james
+306,0.9157199877187596,0.8203753351206434,0.18605131298507455,0.18605131298507455,0.5220397237538064,Teachers Only,Non-white,Multiracial†,F,First person,1,0,True,crying in h mart - zauner
+307,1.0,,0.5960278762845033,0.5960278762845033,inf,Both,White,Black,M,Third person,2,2,False,cry the beloved country - paton
+308,0.0,0.0,0.673778787682357,inf,0.6223197505530366,AP Only,White,White*,M,Third person,0,1,False,crossing - mccarthy
+309,0.0,0.0,0.6266980199224336,inf,0.6266980199224336,Both,White,White*,M,Third person,1,14,False,crime and punishment - dostoevsky
+310,0.0,0.0,0.2111096593789222,inf,0.2111096593789222,AP Only,White,White*,F,First person,0,1,False,country of the pointed firs - jewett
+311,0.0,0.0,0.7520050301505696,inf,0.7520050301505696,Teachers Only,Non-white,White*,M,Third person,1,0,False,count of monte cristo - dumas
+312,0.8488888888888889,0.9736842105263158,0.6554601958018043,0.5017927436646235,0.7091986508051723,AP Only,Non-white,Black,M,Third person,0,1,True,coming through slaughter - ondaatje
+313,1.0,1.0,0.3360462689330861,0.3360462689330861,inf,Teachers Only,Non-white,Black,F,First person,1,0,False,coming of age in mississippi - moody
+314,1.0,,0.2776117114721677,0.2776117114721677,inf,Both,Non-white,Black,F,First person,4,6,False,color purple - walker
+315,0.7838205302515295,0.48267326732673266,0.33519002226526257,0.33519002226526257,0.6574559389612529,Teachers Only,Non-white,Multiracial†,M,First person,5,0,True,color of water - mcbride
+316,1.0,1.0,0.3387169435801297,0.3387169435801297,inf,Teachers Only,Non-white,Black,F,First person,1,0,False,coldest winter ever - souljah
+317,0.0,,0.8206117882620592,inf,0.7223902629291288,AP Only,White,White*,M,Third person,0,2,False,cold mountain - frazier
+318,0.5249169435215947,0.24719101123595505,0.6763521734577089,0.6763521734577089,0.6718998227858519,Teachers Only,Non-white,Multiracial†,F,Third person,1,0,True,clotel - brown
+319,1.0,1.0,0.2714055450598058,0.2714055450598058,inf,Teachers Only,Non-white,Latinx,M,First person,2,0,False,circuit - jimenez
+320,0.0,0.0,0.1766288830969787,inf,0.1766288830969787,Teachers Only,White,White*,F,First person,1,0,False,circe - miller
+321,0.0,0.0,0.7080401115862005,inf,0.5993768527091257,AP Only,White,White*,M,Third person,0,1,False,cider house rules - irving
+322,1.0,1.0,0.5777983080479475,0.09521279313030988,inf,Teachers Only,Non-white,Multiracial†,M,Third person,1,0,False,chronicle of a death foretold - marquez
+323,0.0,0.0,0.25519855559229215,inf,0.25519855559229215,AP Only,White,White*,M,First person,0,2,False,chosen - potok
+324,0.0,0.0,0.27345707850303824,inf,0.27345707850303824,Teachers Only,White,White*,M,First person,2,0,False,child called it - pelzer
+325,1.0,1.0,0.6474597372914475,0.6474597372914475,inf,Both,Non-white,Multiracial†,M,Third person,1,8,False,ceremony - silko
+326,0.0,0.0,0.16481969548708045,inf,0.16481969548708045,Both,White,White*,M,First person,5,5,False,catcher in the rye - salinger
+327,0.553475935828877,0.5171727227476356,0.6411306890332341,0.6411306890332341,0.6207190857894483,AP Only,White,Multiracial†,M,Third person,0,9,True,catch 22 - heller
+328,0.0,0.0,0.31786550648615447,inf,0.31786550648615447,AP Only,White,White*,F,First person,0,4,False,cat s eye - atwood
+329,0.0,0.0,0.5015847577239045,inf,0.5015847577239045,Both,White,White*,M,Third person,2,4,False,candide - voltaire
+330,0.0,0.0,0.5974377694632554,inf,0.5422805923115919,AP Only,White,White*,M,Third person,0,1,False,burgess boys - strout
+331,1.0,1.0,0.24685544680924804,0.24685544680924804,inf,Teachers Only,Non-white,Black,M,First person,6,0,False,buck a memoir - asante
+332,1.0,1.0,0.5706141609288942,0.5706141609288942,inf,AP Only,Non-white,Black,F,Third person,0,2,False,brown girl brownstones - marshall
+333,0.0,0.0,0.8168462689605157,inf,0.7727866669105375,AP Only,White,White*,M,Third person,0,1,False,brothers karamazov - dostoevsky
+334,0.7536715620827771,0.5934959349593496,0.6028811086784462,0.6028811086784462,0.27926888799464894,Teachers Only,Non-white,Black,M,First person,2,0,True,bronx masquerade - grimes
+335,0.0,0.0,0.7861833710457918,inf,0.7265761341033005,AP Only,White,White*,F,Third person,0,1,False,broken for you - kallos
+336,1.0,,0.8285313682506357,0.6972097058322589,inf,Both,Non-white,Latinx,M,Third person,10,1,False,brief wondrous life of oscar wao - diaz
+337,0.0,0.0,0.3649262384982939,inf,0.3649262384982939,AP Only,White,White*,M,First person,0,2,False,brideshead revisited - waugh
+338,1.0,1.0,0.2695636361753032,0.2695636361753032,inf,Both,Non-white,Black,F,First person,2,1,False,breath eyes memory - danticat
+339,0.0,0.0,0.5737675121585684,inf,0.5737675121585684,Teachers Only,White,White*,M,Third person,1,0,False,breakfast of champions - vonnegut
+340,0.0,0.0,0.7073599642312968,inf,0.3600107020905058,Both,White,White*,M,Third person,8,5,False,brave new world - huxley
+341,1.0,1.0,0.38330864798997083,0.38330864798997083,inf,Teachers Only,Non-white,Multiracial†,M,First person,5,0,False,born a crime - noah
+342,0.0,0.0,0.541952308150629,inf,0.541952308150629,Teachers Only,White,White*,F,Third person,1,0,False,book thief - zusak
+343,1.0,1.0,0.7499917858975685,0.6609340219011588,inf,Teachers Only,Non-white,Latinx,M,First person,1,0,False,book of unknown americans - henriquez
+344,1.0,1.0,0.9226460538817586,0.423066577964995,inf,AP Only,Non-white,AAPI,F,Third person,0,4,False,bonesetter s daughter - tan
+345,1.0,1.0,0.2749038077530711,0.2749038077530711,inf,Both,Non-white,AAPI,F,First person,1,1,False,bone a novel - ng
+346,0.0,0.0,0.42257571834157087,inf,0.2265222986638028,Teachers Only,White,White*,M,First person,1,0,False,body - king
+347,1.0,1.0,0.35704655948599306,0.35704655948599306,inf,Teachers Only,Non-white,Latinx,M,First person,6,0,False,bodega dreams - quinonez
+348,1.0,1.0,0.7620757085433565,0.7142583329365769,inf,Both,Non-white,Black,M,Third person,24,3,False,bluest eye - morrison
+349,0.0,0.0,0.4645425957155166,inf,0.4645425957155166,AP Only,White,White*,F,First person,0,3,False,blind assassin - atwood
+350,1.0,1.0,0.27977974062435385,0.27977974062435385,inf,Both,Non-white,Multiracial†,M,First person,3,4,False,bless me ultima - anaya
+351,0.0,0.0,0.8042249740863112,inf,0.8042249740863112,AP Only,White,White*,F,First person,0,4,False,bleak house - dickens
+352,1.0,1.0,0.29725981333942897,0.29725981333942897,inf,Both,Non-white,Black,M,First person,1,4,False,black boy - wright
+353,1.0,1.0,0.48214941912228054,0.48214941912228054,inf,Teachers Only,Non-white,Latinx,F,First person,2,0,False,bird of paradise how i became a latina - cepeda
+354,0.0,0.0,0.671061169957872,inf,0.5330082229716827,AP Only,White,White*,M,First person,0,7,False,billy budd - melville
+355,1.0,1.0,0.2847646807413382,0.2847646807413382,inf,Teachers Only,Non-white,Black,M,First person,14,0,False,between the world and me - coates
+356,0.8414746543778802,0.7995283018867925,0.39353172423952015,0.39353172423952015,0.7094014217846726,AP Only,Non-white,AAPI,M,First person,0,2,True,bend in the river - naipaul
+357,1.0,1.0,0.6756651101975962,0.49771101149469366,inf,Both,Non-white,Black,F,Third person,14,16,False,beloved - morrison
+358,0.0,0.0,0.07415414443575656,inf,0.07415414443575656,Teachers Only,White,White*,F,First person,4,0,False,bell jar - plath
+359,1.0,1.0,0.23195522027944407,0.23195522027944407,inf,Teachers Only,Non-white,Latinx,F,First person,1,0,False,before we were free - alvarez
+360,0.0,0.0,0.35599786083342283,inf,0.35599786083342283,Both,White,White*,F,Third person,5,11,False,awakening - chopin
+361,1.0,1.0,0.37267939404601746,0.37267939404601746,inf,Teachers Only,Non-white,Black,M,First person,2,0,False,autobiography of malcolm x - haley
+362,1.0,1.0,0.4259772936615483,0.4259772936615483,inf,AP Only,Non-white,Multiracial†,M,First person,0,2,False,autobiography of an ex colored man - johnson
+363,0.0,0.0,0.6865288896464264,inf,0.6865288896464264,Both,White,White*,F,First person,1,4,False,atonement - mcewan
+364,0.0,0.0,0.2355123186929658,inf,0.2355123186929658,Teachers Only,White,White*,F,First person,1,0,False,asking for it - o'neill
+365,0.0,0.0,0.5186395611057014,inf,0.5186395611057014,AP Only,White,White*,M,First person,0,7,False,as i lay dying - faulkner
+366,1.0,1.0,0.1850951904040069,0.1850951904040069,inf,Teachers Only,Non-white,Latinx,M,First person,1,0,False,aristotle and dante discover the secrets of the universe - saenz
+367,0.32749981845908066,0.29744936234058517,0.7286470477375401,0.7983791832667438,0.7283946770024052,AP Only,Non-white,White*,M,Third person,0,2,True,another country - baldwin
+368,0.0,0.0,0.813094492834176,inf,0.773968322682256,AP Only,White,White*,F,Third person,0,8,False,anna karenina - tolstoy
+369,0.0,0.0,0.43775124967723245,inf,0.31072464622663143,Teachers Only,White,White*,M,Third person,15,0,False,animal farm - orwell
+370,0.0,0.0,0.6929510741020634,inf,0.40873189192691334,AP Only,White,White*,M,First person,0,1,False,angle of repose - stegner
+371,1.0,1.0,0.7109184174607588,0.7109184174607588,inf,Teachers Only,Non-white,Black,F,Third person,6,0,False,americanah - adichie
+372,0.0,0.0,0.5492278346305391,inf,0.5492278346305391,AP Only,White,White*,M,Third person,0,1,False,american tragedy - dreiser
+373,0.0,0.0,0.5679336290427818,inf,0.5679336290427818,AP Only,White,White*,M,Third person,0,1,False,american pastoral - roth
+374,0.0,0.0,0.3543348970083517,inf,0.3543348970083517,AP Only,White,White*,M,Third person,0,3,False,american - james
+375,1.0,1.0,0.37204032012967153,0.37204032012967153,inf,Teachers Only,Non-white,Latinx,M,First person,3,0,False,always running - rodriguez
+376,0.14012143858010276,0.041237113402061855,0.6199305470169789,0.8744914568694115,0.6199305470169789,AP Only,White,White*,M,Third person,0,7,True,all the pretty horses - mccarthy
+377,0.0,0.0,0.5996513932312132,inf,0.5645212989607974,AP Only,White,White*,F,Third person,0,2,False,all the light we cannot see - doerr
+378,0.0,0.0,0.5495502664304273,inf,0.5495502664304273,AP Only,White,White*,M,First person,0,8,False,all the king s men - warren
+379,0.0,0.0,0.38074503269174237,inf,0.38074503269174237,Teachers Only,White,White*,M,First person,1,0,False,all souls - macdonald
+380,0.0,0.0,0.5150937091393116,inf,0.4906368151976624,Teachers Only,White,White*,M,First person,1,0,False,all quiet on the western front - remarque
+381,0.3777742549143944,0.3200704225352113,0.6406199730135513,0.6406199730135513,0.6721920812006211,AP Only,Non-white,Multiracial†,F,First person,0,1,True,all over creation - ozeki
+382,1.0,1.0,0.17839025820232865,0.17839025820232865,inf,Teachers Only,Non-white,Black,M,First person,1,0,False,all boys aren t blue - johnson
+383,0.43433261955745894,0.3008695652173913,0.6745753490385324,0.6745753490385324,0.5619922808906341,Teachers Only,Non-white,Black,M,First person,4,0,True,all american boys - reynolds
+384,0.0,0.0,0.2759493615151995,inf,0.2759493615151995,Teachers Only,White,White*,F,Third person,1,0,False,alice s adventures in wonderland - carroll
+385,0.0,0.0,0.5149552232266669,inf,0.5149552232266669,AP Only,White,White*,F,First person,0,4,False,alias grace - atwood
+386,0.10946745562130178,0.3491271820448878,0.362261012686436,0.7523363996537845,0.362261012686436,Both,Non-white,White*,M,Third person,6,1,True,alchemist - coelho
+387,0.0,0.0,0.36871748632606416,inf,0.36871748632606416,AP Only,White,White*,M,Third person,0,6,False,age of innocence - wharton
+388,0.19712298450837812,0.1371280724450194,0.4851818088518296,0.7177689845355978,0.4851818088518296,Both,White,White*,M,First person,6,10,True,adventures of huckleberry finn - twain
+389,0.0,0.0,0.32418744427119944,inf,0.32418744427119944,AP Only,White,White*,M,First person,0,1,False,adventures of augie march - bellow
+390,0.0,0.0,0.7473054799479475,inf,0.7473054799479475,AP Only,White,White*,M,Third person,0,1,False,adam bede - eliot
+391,0.0,,0.6915090222186226,inf,0.5418436802711074,Teachers Only,White,White*,M,Third person,1,0,False,accidental billionaires - mezrich
+392,0.9406966490299824,0.9204204204204204,0.1837653308366193,0.1837653308366193,0.6702074781804294,Teachers Only,Non-white,Native/Indigenous,M,First person,20,0,True,absolutely true diary of a part time indian - alexie
+393,0.16593362654938024,0.2108843537414966,0.7566522353048352,0.7049651728165023,0.5428593628937143,AP Only,White,White*,M,Third person,0,4,True,absalom absalom - faulkner
+394,0.6759259259259259,0.5769230769230769,0.5958045561959165,0.5958045561959165,0.6620890352552009,Teachers Only,White,Black,M,Third person,1,0,True,57 bus - slater
+395,0.8594207614708753,0.5948275862068966,0.42032619893053813,0.42032619893053813,0.7914648551949437,Teachers Only,Non-white,Black,M,First person,2,0,True,12 years a slave - northup

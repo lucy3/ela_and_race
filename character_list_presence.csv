@@ -1,0 +1,1595 @@
+,title,coref_IDs,common_aliases,gender,race / ethnicity,num_mentions,dialogue,burstiness
+771,zeitoun - eggers,283,"['Kathy', 'Katrina']",F,White,2265,234,0.6330795091270283
+772,zeitoun - eggers,281,"['Abdulrahman Zeitoun', 'Zeitoun', 'Abdulrahman']",M,MENA,1110,127,0.274781944
+773,zeitoun - eggers,290,['Mohammed'],M,MENA,648,30,0.827347989
+774,zeitoun - eggers,282,['Ahmad'],M,MENA,364,51,0.6566685797282764
+127,yellow raft in blue water - dorris,0_214_221,"['my mom', 'My mom', 'Mom', 'Christine']",F,Native/Indigenous,5891,527,0.6893701155499353
+132,yellow raft in blue water - dorris,217_0,['Rayona'],F,"Native/Indigenous, Black",3346,251,0.8461621996518456
+128,yellow raft in blue water - dorris,224_0,"['Aunt Ida', 'Ida']",F,Native/Indigenous,2727,276,0.6821348545366721
+129,yellow raft in blue water - dorris,230,['Dayton'],M,"Native/Indigenous, White",928,138,0.7905939407631846
+130,yellow raft in blue water - dorris,225,['Lee'],M,Native/Indigenous,822,29,0.7713079877582356
+131,yellow raft in blue water - dorris,278,['Clara'],F,Native/Indigenous,702,89,0.8478217110686291
+322,wuthering heights - bronte,0,['Nelly'],F,White (unmarked),4430,801,0.33677265771281306
+323,wuthering heights - bronte,50,"['Cathy', 'Catherine', 'Miss Cathy', 'Miss Catherine', 'Catherine Earnshaw']",F,White,2171,309,0.49990624440644293
+324,wuthering heights - bronte,35,"['Master Heathcliff', 'Mr. Heathcliff', 'Heathcliff']",M,"White, Black",2012,211,0.4738452321022324
+325,wuthering heights - bronte,55,"['Mr. Linton', 'Master Linton', 'Linton', 'Edgar Linton']",M,White,911,88,0.5921729319195751
+326,wuthering heights - bronte,39,"['Earnshaw', 'Hareton', 'Hareton Earnshaw']",M,White,602,47,0.6332410191319083
+1214,written in the sky - kaopio,0_116_71,"['The boy', 'the boy', 'Ikau']",M,Pacific Islander,2461,304,0.3149333561154051
+1459,world war z - brooks,0,"['Max Brooks', 'Max']",M,White,3907,138,0.3890960970661442
+896,women of brewster place - naylor,64,"['Mattie', 'Mattie Michael']",F,Black,1630,226,0.8027516331009232
+897,women of brewster place - naylor,119,['Lorraine'],F,Black,734,69,0.6353284845993061
+898,women of brewster place - naylor,99,['Kiswana'],F,Black,536,130,0.7592101128403155
+899,women of brewster place - naylor,77,['Etta'],F,Black,473,91,0.791022539
+900,women of brewster place - naylor,106,"['Cora Lee', 'Cora']",F,Black,366,88,0.8216879597191438
+901,women of brewster place - naylor,120,['Theresa'],F,Black,363,85,0.7491529056530939
+902,women of brewster place - naylor,62,"['Ben', 'Daddy Ben', 'Daddy']",M,Black,352,49,0.7433745683032993
+903,women of brewster place - naylor,85,['Ciel'],F,Black,323,23,0.7842851719375151
+859,woman warrior - kingston,0,"['Maxine', 'Maxine Hong Kingston']",F,Asian,2496,200,0.8195353942283495
+858,woman warrior - kingston,4304_99,"['my mother', 'Brave Orchid', 'My mother']",F,Asian,1878,452,0.583036853
+860,woman warrior - kingston,108,['Moon Orchid'],F,Asian,463,134,0.38325030891503886
+747,woman at point zero - saadawi,0_8,['Firdaus'],F,MENA,3249,187,0.11949452341758224
+748,woman at point zero - saadawi,187,"['my uncle', 'My uncle']",M,MENA,200,14,0.6962233761303906
+1025,with the fire on high - acevedo,0_98,['Emoni'],F,"Black, Latino/a/x",5410,391,0.1282482109059309
+1026,with the fire on high - acevedo,115,['Malachi'],M,Black,1149,176,0.6375130391291087
+1027,with the fire on high - acevedo,99,['Buela'],F,"Latino/a/x, Black",905,165,0.5585587612712671
+1028,with the fire on high - acevedo,97,['Angelica'],F,Black,596,105,0.5836291910364927
+1029,with the fire on high - acevedo,94,['Babygirl'],F,"Black, Latino/a/x",586,22,0.4733597007915195
+40,wise blood - o'connor,46,"['Haze', 'Haze Motes']",M,White (unmarked),1907,316,0.6741048987596909
+41,wise blood - o'connor,58,"['Enoch', 'Enoch Emery']",M,White (unmarked),1365,196,0.8125591132261469
+42,wise blood - o'connor,431,"['the blind man', 'The blind man']",M,White (unmarked),368,57,0.7667668431258083
+43,wise blood - o'connor,222,"['The boy', 'the boy']",M,White (unmarked),303,17,0.757600105
+44,wise blood - o'connor,164,"['The man', 'the man']",M,White (unmarked),275,94,0.6110263452087902
+507,wild - strayed,0_372_401,"['Cheryl', 'Cheryl Strayed']",F,White,10946,625,0.10421050385415997
+508,wild - strayed,471,"['my mother', 'My mother']",F,White,847,50,0.7056482570665173
+1518,wide sargasso sea - rhys,409_0,"['Antoinette Cosway', 'Bertha', 'Annette', 'Miss Antoinette', 'Antoinette']",F,White,2771,251,0.651175162
+1520,wide sargasso sea - rhys,450_0,"['Mr Rochester', 'Rochester', 'Mr. Rochester']",M,White,2111,247,0.7043757513066627
+1519,wide sargasso sea - rhys,386,['Christophine'],F,Black,560,86,0.6668501442720048
+593,who has seen the wind - mitchell,115,"['Uncle Sean', 'Sean', 'Sean O’Connal', 'Brian', 'Brian O’Connal']",M,White,3553,658,0.6048653532127903
+594,who has seen the wind - mitchell,127,"['Mr. Digby', 'Digby']",M,White,638,198,0.6913152435900534
+595,who has seen the wind - mitchell,146,"['The Young Ben', 'Ben', 'the Ben', 'The Ben', 'the Young Ben']",M,White,600,28,0.6486141032570627
+807,white teeth - smith,436,"['Samad', 'Samad Miah Iqbal', 'Samad Miah', 'Samad Iqbal']",M,Asian,2364,532,0.767905242
+808,white teeth - smith,424,"['Jones', 'Archibald', 'Arch', 'Archibald Jones', 'Archie Jones', 'Archie']",M,White,2018,437,0.771050367
+809,white teeth - smith,501,"['Jones', 'Ambrosia', 'Irie', 'Irie Ambrosia', 'Irie Jones']",F,"Black, White",1568,295,0.7480487490791553
+810,white teeth - smith,498,"['Millat Iqbal', 'Millat', 'Brother Millat']",M,Asian,1314,256,0.6956922201714432
+811,white teeth - smith,451,"['Clara Bowden', 'Clara']",F,Black,782,142,0.7223122739309363
+812,white teeth - smith,437,['Alsana'],F,Asian,766,230,0.723297493
+1120,where the crawdads sing - owens,125,"['Miss Kya', 'Kya']",F,White,4901,358,0.513822442
+1121,where the crawdads sing - owens,166,['Tate'],M,White,1220,189,0.6812557608108455
+1122,where the crawdads sing - owens,123,"['Mr. Chase', 'Chase', 'Chase Andrews']",M,White (unmarked),957,112,0.7266526442666584
+149,when they call you a terrorist - cullors,0_240,"['Patrisse Khan-Cullors', 'Patrisse']",F,Black,2967,0,0.3957110046277725
+150,when they call you a terrorist - cullors,230,['Monte'],M,Black,530,0,0.6116339097841225
+151,when they call you a terrorist - cullors,351,"['My father', 'my father']",M,Black,322,0,0.6464514197763919
+152,when they call you a terrorist - cullors,337,"['my mother', 'My mother']",F,Black,290,0,0.5684390527318743
+677,when the emperor was divine - otsuka,1628_189_293,"['Our mother', 'His mother', 'The woman', 'the woman', 'his mother', 'our mother']",F,Asian,749,139,0.654402052
+678,when the emperor was divine - otsuka,230,"['The boy', 'the boy']",M,Asian,696,101,0.5734179503491191
+679,when the emperor was divine - otsuka,235,"['the girl', 'The girl']",F,Asian,579,144,0.676739958
+676,when the emperor was divine - otsuka,0_309,['his father'],M,Asian,372,25,0.6458071781904766
+1427,when i was puerto rican - santiago,0_120,['Esmeralda'],F,Latino/a/x,3691,211,0.34855045105837146
+1428,when i was puerto rican - santiago,110,['Mami'],F,Latino/a/x,1917,578,0.44388612293927093
+1429,when i was puerto rican - santiago,111,['Papi'],M,Latino/a/x,739,133,0.6143374239751654
+275,we were the mulvaneys - oates,434,"['Marianne', 'Marianne Mulvaney']",F,White,3723,298,0.6432197923850597
+276,we were the mulvaneys - oates,433,"['Patrick Mulvaney', 'Mulvaney', 'Patrick']",M,White,2952,340,0.694813069
+273,we were the mulvaneys - oates,431_441,"['my mom', 'Corinne', 'Mulvaney', 'Mom', 'Corinne Hausmann', 'his mom', 'Corinne Mulvaney']",F,White,2805,376,0.5497124246480742
+272,we were the mulvaneys - oates,0_435,['Judd'],M,White,2532,135,0.5220688022333316
+274,we were the mulvaneys - oates,438_439,"['Mike Jr.', 'Michael Mulvaney', 'Mike Mulvaney', 'my dad', 'Michael', 'Michael Mulvaney Sr .', 'Dad', 'Mike', 'Michael Mulvaney Sr', 'his dad', 'Michael Sr .', 'Michael Sr']",M,White,2123,214,0.584386117
+1397,we the animals - torres,0,['narrator'],M,"Latino/a/x, White",762,60,0.5032732222072692
+1398,we the animals - torres,20,"['Paps', 'our Paps']",M,Latino/a/x,647,95,0.6042589535369954
+1399,we the animals - torres,19,['Ma'],F,White,643,94,0.6660723497896095
+1400,we the animals - torres,17,['Manny'],M,"Latino/a/x, White",281,118,0.39881082412597524
+1401,we the animals - torres,18,['Joel'],M,"Latino/a/x, White",203,98,0.34571571687907565
+591,we need new names - bulawayo,0_188_658,['Darling'],F,Black,3342,0,0.41722856050664114
+592,we need new names - bulawayo,187,"['Fostalina', 'Aunt Fostalina']",F,Black,374,0,0.6394707007242719
+979,we beat the street - jenkins,92_0,"['SAMPSON', 'Sam', 'Sampson']",M,Black,1425,257,0.6389177303057928
+980,we beat the street - jenkins,97_0,"['DOCTOR RAMECK', 'RAMECK', 'Rameck']",M,Black,1394,265,0.6681441157393334
+981,we beat the street - jenkins,102_0,['George'],M,Black,653,147,0.5561849242316349
+1202,way we live now - trollope,365,"['Felix Carbury', 'Sir Felix', 'SIR FELIX', 'Carbury', 'Felix', 'Sir Felix Carbury']",M,White,3708,393,0.718157289
+1203,way we live now - trollope,362,"['Mr. Paul Montague', 'Montague', 'Paul', 'Paul Montague', 'PAUL MONTAGUE', 'Mr. Montague']",M,White,2933,267,0.8019154716604331
+1204,way we live now - trollope,364,"['Carbury', 'Lady Carbury']",F,White,2687,582,0.7867811395085633
+1205,way we live now - trollope,361,"['Roger', 'ROGER CARBURY', 'Carbury', 'Mr. Carbury', 'Roger Carbury']",M,White,2453,364,0.7580673024317746
+1206,way we live now - trollope,375,"['Hetta Carbury', 'Hetta']",F,White,2015,293,0.7682296448290024
+1207,way we live now - trollope,370,"['MR . MELMOTTE', 'Mr. Melmotte']",M,White,1750,111,0.7081694965074725
+380,warmth of other suns - wilkerson,980,"['Robert', 'Robert Foster', 'Pershing', 'Robert Joseph Pershing Foster', 'Dr. Foster', 'Pershing Foster', 'Foster']",M,Black,3916,401,0.7663119633929549
+381,warmth of other suns - wilkerson,978,"['George', 'Lil George', 'George Starling', 'George Swanson Starling']",M,Black,2593,362,0.677513108
+382,warmth of other suns - wilkerson,969,"['Ida Mae', 'Ida', 'ida mae']",F,Black,1951,201,0.7394125240457493
+938,walden - thoreau,0_289,"['Henry David Thoreau', 'Henry']",M,White,3176,42,0.33179153892096613
+298,vicar of wakefield - goldsmith,0_62,"['Charles Primrose', 'Charles']",M,White,2374,254,0.3898230810067653
+299,vicar of wakefield - goldsmith,133,"['my wife', 'My wife']",F,White,306,64,0.5532102396811402
+257,utopia - more,0,"['Thomas', 'Thomas More']",M,White,118,19,0.7606539885295298
+153,unwind - shusterman,113,"['Connor', 'Connor Lassiter']",M,White,3316,455,0.713959749
+154,unwind - shusterman,125,['Lev'],M,White,2334,315,0.7929099078694588
+155,unwind - shusterman,121,['Risa'],F,White (unmarked),1473,292,0.6822553933795963
+156,unwind - shusterman,143,['Roland'],M,White (unmarked),705,100,0.7103461124939868
+1351,undocumented americans - villavicencio,0_2747,"['Karla', 'Karla Cornejo Villavicencio']",F,Latino/a/x,1987,40,0.3861001164475382
+1352,undocumented americans - villavicencio,259,"['My father', 'my father']",M,Latino/a/x,298,9,0.6765238344677392
+698,uncle tom s cabin - stowe,109,"['Uncle Tom', 'Tom', 'Tom Loker']",M,Black,1886,284,0.658841423
+699,uncle tom s cabin - stowe,186,"['St. Clare', 'Marie', 'Marie St. Clare']",F,White,1248,470,0.7984769635582046
+700,uncle tom s cabin - stowe,183,"['Miss Eva', 'Eva']",F,White,957,171,0.7348814894414695
+701,uncle tom s cabin - stowe,188,['Miss Ophelia'],F,White,941,303,0.7803719654739298
+1115,typical american - jen,84,"['Ralph', 'Ralph Chang']",M,Asian,3891,746,0.519347459
+1116,typical american - jen,86,['Helen'],F,Asian,1649,399,0.7652710683792062
+1117,typical american - jen,87,['Theresa'],F,Asian,1353,226,0.7487464968477592
+1118,typical american - jen,83,"['Grover Ding', 'Uncle Grover', 'Grover']",M,Asian,835,251,0.8233191018933511
+1119,typical american - jen,92,['Old Chao'],M,Asian,441,111,0.6402896998076995
+964,turn of the screw - james,0,['narrator'],F,White (unmarked),2794,352,0.2248615125816059
+965,turn of the screw - james,14,['Mrs. Grose'],F,White (unmarked),507,214,0.547505816
+966,turn of the screw - james,15,"['little Miles', 'Miles']",F,White (unmarked),351,35,0.576441245
+967,turn of the screw - james,16,['Flora'],F,White (unmarked),271,20,0.5316764160171321
+968,turn of the screw - james,1065,['the boy'],F,White (unmarked),266,65,0.6706880492161281
+1418,trial - kafka,7,"['K.', 'Josef', 'Mr. K.', 'Josef K.']",M,White,4959,609,0.3841421562574462
+1419,trial - kafka,3165,"['the lawyer', 'The lawyer']",M,White,489,74,0.6815453301512747
+188,tree grows in brooklyn - smith,209,"['Mary', 'Frances', 'Francie Nolan', 'Francie', 'Nolan', 'Frances Nolan']",F,White,5523,811,0.5416089487995097
+189,tree grows in brooklyn - smith,238,"['Rommely', 'Katie Rommely', 'Katie']",F,White,2218,474,0.6122680161167511
+190,tree grows in brooklyn - smith,218,"['Johnny Nolan', 'Johnny']",M,White,1370,160,0.7387576837122668
+191,tree grows in brooklyn - smith,221,"['Sissy', 'Aunt Sissy']",F,White (unmarked),1181,190,0.6941809721471747
+192,tree grows in brooklyn - smith,210,['Neeley'],M,White (unmarked),996,177,0.6208353695091949
+996,tracks - erdrich,70_0,['Pauline'],F,"Native/Indigenous, White",1952,73,0.803706553
+995,tracks - erdrich,58_0,['Nanapush'],M,Native/Indigenous,1610,220,0.7477944297467558
+992,tracks - erdrich,48,"['Fleur Pillager', 'Fleur']",F,Native/Indigenous,1186,57,0.5402885757272345
+993,tracks - erdrich,74,"['Eli Kashpaw', 'Eli']",M,Native/Indigenous,868,41,0.6320161253532599
+994,tracks - erdrich,76,"['Margaret Kashpaw', 'Margaret']",F,Native/Indigenous,614,87,0.5996455724062213
+526,tom jones - fielding,171,"['Jones', 'Jenny Jones', 'Mr Jones', 'young Jones', 'poor Jones', 'Here Jones']",M,White,5870,614,0.6920531017521244
+527,tom jones - fielding,175,"['poor Sophia', 'the charming Sophia', 'Sophy', 'my Sophia', 'Sophia', 'Madam Sophia', 'Miss Western', 'Poor Sophia', 'his Sophia']",F,White,3542,347,0.8112903600956003
+528,tom jones - fielding,0,"['Henry', 'Henry Fielding']",M,White,2687,210,0.4711230938119193
+529,tom jones - fielding,161,"['Squire Allworthy', 'Allworthy', 'Mr Allworthy']",M,White (unmarked),2070,275,0.7683196241251601
+973,to the lighthouse - woolf,60,"['Ramsay', 'Mrs. Ramsay']",F,White (unmarked),1370,77,0.6323852840077563
+972,to the lighthouse - woolf,162_62,"['her husband', 'Mr. Ramsay']",M,White (unmarked),1183,56,0.6671861835970977
+974,to the lighthouse - woolf,78,"['Lily Briscoe', 'Lily']",F,White (unmarked),1045,35,0.689819348
+6,to kill a mockingbird - lee,0_161,['Scout'],F,White,3077,445,0.3764711070512838
+7,to kill a mockingbird - lee,114,"['Finch', 'Atticus', 'Atticus Finch']",M,White,2365,643,0.48688807281159213
+8,to kill a mockingbird - lee,108,"['Jem', 'JEM', 'Uncle Jimmy', 'Jem Finch']",M,White,2339,691,0.49541914245071894
+9,to kill a mockingbird - lee,110,['Dill'],M,White,716,141,0.7055097368772566
+256,thus spoke zarathustra - nietzsche,0_97,"['O Zarathustra', 'ZARATHUSTRA', 'Zarathustra']",M,MENA,5322,467,0.3741692947495652
+405,thousand splendid suns - hosseini,236,['Laila'],F,MENA,3277,350,0.538796392
+406,thousand splendid suns - hosseini,189,"['Mariam', 'Mariam jo', 'Khala Mariam']",F,MENA,3110,259,0.7467588951960966
+407,thousand splendid suns - hosseini,216,['Rasheed'],M,MENA,1458,280,0.7255184546753473
+408,thousand splendid suns - hosseini,232,['Tariq'],M,MENA,1097,160,0.6760309279260267
+943,thousand acres - smiley,0_178,"['Ginny Cook Smith', 'Ginny']",F,White (unmarked),5762,770,0.22728861020470095
+944,thousand acres - smiley,160,"['Rose', 'Linda']",F,White (unmarked),1854,484,0.505008516
+945,thousand acres - smiley,172,['Ty'],M,White (unmarked),1204,238,0.5465339313048287
+946,thousand acres - smiley,171,['Daddy'],M,White (unmarked),1165,74,0.49280341
+947,thousand acres - smiley,163,"['Jess', 'Jess Clark']",M,White,1034,197,0.5954879427566381
+948,thousand acres - smiley,164,"['Harold', 'Harold Clark']",M,White (unmarked),695,54,0.6507949706411504
+949,thousand acres - smiley,168,['Caroline'],F,White (unmarked),622,82,0.627454551
+950,thousand acres - smiley,170,['Pete'],M,White,560,54,0.5401132823341195
+1174,thirteen reasons why - asher,0_35,"['Clay Jensen', 'Clay']",M,White,4957,232,0.089042131
+1175,thirteen reasons why - asher,32,"['Hannah Baker', 'Hannah']",F,White,563,19,0.323989541
+1176,thirteen reasons why - asher,42,['Tony'],M,White (unmarked),400,100,0.8091130610289995
+552,things they carried - o'brien,0,"[""Tim O'Brien"", 'Tim']",M,White,1717,97,0.6897700690984578
+553,things they carried - o'brien,123,"['Jimmy Cross', 'Lieutenant Cross', 'Jimmy', 'Lieutenant Jimmy Cross', 'First Lieutenant Jimmy Cross']",M,White (unmarked),441,18,0.7539033169224789
+554,things they carried - o'brien,130,"['Rat', 'Rat Kiley']",M,White (unmarked),419,82,0.6870148861160438
+555,things they carried - o'brien,129,"['Norman Bowker', 'Bowker']",M,White (unmarked),367,98,0.7546764549217958
+556,things they carried - o'brien,152,"['Mary Anne', 'Linda', 'Mary Anne Bell']",F,White (unmarked),334,28,0.852703182
+557,things they carried - o'brien,131,['Kiowa'],M,Native/Indigenous,266,67,0.5968989653206415
+1141,things fall apart - achebe,41,['Okonkwo'],M,Black,1280,129,0.5459340645496086
+1142,things fall apart - achebe,68,['Ekwefi'],F,Black,346,38,0.7747301987665856
+1143,things fall apart - achebe,69,['Ezinma'],F,Black,320,49,0.6846295021306563
+329,there there - orange,224_0,"['Opal Viola Victoria Bear Shield', 'Opal']",F,Native/Indigenous,1055,82,0.8150142931850952
+332,there there - orange,236_0,"['Edwin Black', 'Ed', 'Edwin']",M,"Native/Indigenous, White (unmarked)",741,82,0.8675893706461101
+327,there there - orange,229_0,"['Jacquie', 'Jacquie Red Feather']",F,Native/Indigenous,693,97,0.8355416418333164
+328,there there - orange,219_0,"['Dene Oxendene', 'Dene']",M,Native/Indigenous,588,69,0.8523343504689914
+331,there there - orange,210_0,"['Tony Loneman', 'Tony']",M,Native/Indigenous,567,32,0.859459135
+334,there there - orange,258_0,['Blue'],F,Native/Indigenous,522,99,0.8178356012068858
+330,there there - orange,247_0,"['Orvil Red Feather', 'Orvil']",M,Native/Indigenous,490,76,0.8086258265660992
+333,there there - orange,259_0,"['Calvin', 'Calvin Johnson']",M,Native/Indigenous,339,28,0.8355237859463515
+611,their eyes were watching god - hurston,96,['Janie'],F,"Black, White",2079,216,0.5258814787601768
+612,their eyes were watching god - hurston,94,"['Tea Cake', 'Cake']",M,Black,871,131,0.8684665896827245
+613,their eyes were watching god - hurston,114,"['Jody', 'Joe', 'Joe Starks', 'Starks']",M,Black,732,101,0.6417506048531543
+45,tess of the d urbervilles - hardy,187,"['Tess', 'Tess Durbeyfield', 'Durbeyfield']",F,White,5471,482,0.5311396140941487
+46,tess of the d urbervilles - hardy,210,"['Clare', 'Mr Clare', 'Angel Clare', 'Angel', 'Mrs Angel Clare', 'Mrs Clare']",F,White,2725,310,0.8271095280271659
+533,tattooed soldier - tobar,274,['Antonio'],M,Latino/a/x,2505,241,0.7277562919341092
+534,tattooed soldier - tobar,285,"['Guillermo', 'Sergeant Longoria', 'Longoria']",M,Latino/a/x,2150,98,0.8264852000523587
+535,tattooed soldier - tobar,280,['Elena'],F,Latino/a/x,1009,106,0.7300611047301729
+1347,tale of two cities - dickens,131,"['Lorry', 'Jarvis Lorry', 'Mr. Lorry', 'Mr. Jarvis Lorry', 'Jerry']",M,White,1816,400,0.781616345
+1348,tale of two cities - dickens,139,"['Defarge', 'Monsieur Defarge', 'Madame Defarge']",M,White,1086,358,0.7946975907910105
+1349,tale of two cities - dickens,158,"['Sydney Carton', 'Carton', 'Sydney']",M,White,929,201,0.8387324676207923
+1350,tale of two cities - dickens,148,"['Darnay', 'Charles Darnay', 'Charles', 'Mr. Darnay']",M,White,868,111,0.7394169320529628
+560,symptoms of being human - garvin,0_114_131,"['Alix', 'Riley Cavanaugh', 'Riley']",NB,White,7245,617,0.13814132826571462
+561,symptoms of being human - garvin,138,['Bee'],F,White,1478,418,0.6602500638663181
+562,symptoms of being human - garvin,120,['Solo'],M,Pacific Islander,891,238,0.6911255844878638
+563,symptoms of being human - garvin,117,"['my dad', 'My dad', 'Dad', 'your dad']",M,White (unmarked),550,168,0.5538858894817411
+503,surfacing - atwood,0,['narrator'],F,White,3333,248,0.1763327482566808
+504,surfacing - atwood,39,['Anna'],F,White,765,173,0.597102284
+505,surfacing - atwood,38,['David'],M,White (unmarked),710,225,0.570659559
+506,surfacing - atwood,40,['Joe'],M,White (unmarked),523,52,0.5124307918491021
+520,sun also rises - hemingway,0_206,"['Jake', 'Jake Barnes']",M,White (unmarked),2088,613,0.36157600521161903
+521,sun also rises - hemingway,212,['Brett'],F,White,1210,648,0.6645468288993004
+522,sun also rises - hemingway,201,"['Robert Cohn', 'Hubert', 'Cohn', 'Robert']",M,White (unmarked),1011,231,0.6523095189776252
+523,sun also rises - hemingway,225,"['Bill', 'Bill Gorton']",M,White (unmarked),848,593,0.5369279928515777
+524,sun also rises - hemingway,217,"['Michael', 'Mike']",M,White (unmarked),667,325,0.6742929040153341
+525,sun also rises - hemingway,249,"['Romero', 'Pedro Romero']",M,White (unmarked),434,62,0.7030046104489268
+376,sula - morrison,71,['Sula'],F,Black,1015,184,0.6947293786281081
+377,sula - morrison,77,['Nel'],F,Black,685,128,0.6985938463352247
+378,sula - morrison,83,['Eva'],F,Black,578,65,0.6404877374915836
+379,sula - morrison,72,['Shadrack'],M,Black,388,4,0.7881599126231655
+690,stride toward freedom - king,0_163,"['Martin', 'Martin Luther King Jr.']",M,Black,1452,86,0.6013609043936732
+210,street - petry,89,"['Lutie Johnson', 'Mrs. Johnson', 'Lutie']",F,Black,2452,198,0.7654238574672655
+211,street - petry,94,['Jones'],M,Black,1612,139,0.8467539447579628
+212,street - petry,90,['Bub'],M,Black,1470,177,0.7715040133713803
+213,street - petry,113,['Min'],F,Black,1223,96,0.8248127787793111
+214,street - petry,97,['Mrs. Hedges'],F,Black,852,151,0.7258266783198549
+215,street - petry,124,"['Old Man Junto', 'Junto', 'the Junto', 'Mr. Junto']",M,White,515,69,0.7321140481233823
+1283,stranger - camus,0,['Meursault'],M,White (unmarked),2243,61,0.19039174590192573
+1284,stranger - camus,18,['Raymond'],M,White (unmarked),339,24,0.6824979826134675
+1285,stranger - camus,16,['Marie'],F,White,260,12,0.6120674770703468
+1534,story of edgar sawtelle - wroblewski,154,"['Edgar', 'Edgar Sawtelle']",M,White,8289,220,0.4770137154020793
+1535,story of edgar sawtelle - wroblewski,173,['Claude'],M,White (unmarked),2102,274,0.7959291338935918
+1536,story of edgar sawtelle - wroblewski,597,"['his mother', 'His mother']",F,White (unmarked),946,239,0.641526655
+1537,story of edgar sawtelle - wroblewski,191,"['Glen', 'Glen Papineau']",M,White (unmarked),943,93,0.8664368863512497
+1538,story of edgar sawtelle - wroblewski,162,['Almondine'],F,Non-human,935,8,0.7380924629722331
+1539,story of edgar sawtelle - wroblewski,160,['Trudy'],F,White,925,119,0.785195631
+1540,story of edgar sawtelle - wroblewski,232,"['Henry', 'Henry Lamb']",M,White (unmarked),829,210,0.7978141743358654
+267,stone angel - laurence,0_2940_75_91,"['Hagar', 'Hagar Shipley']",F,White,5430,479,0.21270158457166483
+268,stone angel - laurence,106,['John'],M,White,804,234,0.7434371736278896
+269,stone angel - laurence,77,"['Marvin', 'Marv']",M,White,780,207,0.6449557105877091
+270,stone angel - laurence,78,['Doris'],F,White (unmarked),666,198,0.6807984760682768
+271,stone angel - laurence,101,['Bram'],M,White,546,61,0.7686833881435516
+767,step from heaven - na,0_1671_200_46,"['Young Ju', 'Young']",F,Asian,2664,90,0.1925830586258551
+768,step from heaven - na,48,['Uhmma'],F,Asian,1123,7,0.5084295955215615
+769,step from heaven - na,64,"['Joon Ho', 'Joon']",M,Asian,698,69,0.6261446108957373
+770,step from heaven - na,47,"['Apa', 'Your Apa']",M,Asian,665,21,0.4800228420605788
+259,speak - anderson,0_111,['Melinda'],F,White,3051,88,0.2225718365404611
+260,speak - anderson,108,['Heather'],F,White (unmarked),463,50,0.7296011512198707
+261,speak - anderson,105,"['Rachelle', 'Rachel']",F,White (unmarked),278,22,0.6230492302189201
+262,speak - anderson,109,['Mr. Freeman'],M,White (unmarked),238,46,0.6203949979858125
+486,spare parts - davis,267,"['OSCAR', 'Oscar', 'Oscar Vazquez']",M,Latino/a/x,1291,154,0.7350127091525224
+487,spare parts - davis,266,['Lorenzo'],M,Latino/a/x,863,108,0.7192504713736898
+488,spare parts - davis,264,['Cristian'],M,Latino/a/x,529,77,0.628848624
+489,spare parts - davis,283,['Fredi'],M,MENA,525,103,0.6186529332965469
+1291,sound of things falling - vasquez,0_230_3705,"['Antonio', 'Antonio Yammara']",M,Latino/a/x,2556,337,0.7394543779826313
+1292,sound of things falling - vasquez,222,"['Laverde', 'Ricardo Laverde', 'Ricardo']",M,Latino/a/x,1176,156,0.6308996487868491
+1293,sound of things falling - vasquez,244,"['Elaine', 'Elaine Fritts']",F,White ,1101,148,0.7499862377297027
+1294,sound of things falling - vasquez,242,"['Maya Fritts', 'Maya']",F,"Latino/a/x, White ",855,222,0.8184192413633704
+1295,sound of things falling - vasquez,229,['Aura'],F,Latino/a/x,360,114,0.7790539729333088
+856,sound and the fury - faulkner,77_0,"['Miss Quentin', 'Quentin']",M,White,2188,264,0.6843976095640142
+857,sound and the fury - faulkner,88_0,"['Mr Jason', 'Jason']",M,White (unmarked),2012,592,0.89834054
+852,sound and the fury - faulkner,66,['Caddy'],F,White,1758,624,0.5383788679266147
+855,sound and the fury - faulkner,63_0,"['Benjamin', 'Ben', 'Benjy']",M,White,1358,23,0.6817377965427894
+853,sound and the fury - faulkner,71,['Dilsey'],F,Black,1318,569,0.7405968200170882
+854,sound and the fury - faulkner,59,['Luster'],M,Black,909,375,0.8365265464173364
+402,sorrows of young werther - goethe,0_25,['Werther'],M,White (unmarked),2549,135,0.3339288123684691
+403,sorrows of young werther - goethe,30,['Charlotte'],F,White (unmarked),838,76,0.5937611240961204
+404,sorrows of young werther - goethe,32,['Albert'],M,White (unmarked),281,19,0.6053248057062015
+1523,sophie s choice - styron,0_680,['Stingo'],M,White (unmarked),8632,632,0.6077328694455001
+1524,sophie s choice - styron,719,['Sophie'],F,White,6511,565,0.6493641762591152
+1525,sophie s choice - styron,716,"['Nat Turner', 'Nathan', 'Nathan Landau']",M,White,2821,319,0.7879211228061681
+625,song of solomon - morrison,214,['Milkman'],M,Black,3969,686,0.7358394245895861
+626,song of solomon - morrison,206,['Guitar'],M,Black,1326,497,0.7308519856075707
+627,song of solomon - morrison,211,"['Macon', 'Macon Dead']",M,Black,1016,141,0.6620522447062813
+628,song of solomon - morrison,218,['Pilate'],F,Black,940,146,0.6437751549527996
+629,song of solomon - morrison,255,"['Winnie Ruth', 'Ruth', 'Freddie']",F,Black,852,104,0.8007077937926915
+1410,something about america - testa,0,"['Maria', 'Maria Testa']",F,White,303,8,0.10157458088018252
+1411,something about america - testa,14,"['My father', 'my father']",M,White,119,24,0.276324
+1412,something about america - testa,22,"['my mother', 'My mother']",F,White,53,3,0.3204206481958611
+530,sold - mccormick,0_20,['Lakshmi'],F,Asian,2298,124,0.2307587710730543
+531,sold - mccormick,30,['Mumtaz'],F,Asian,284,66,0.41120469129617526
+532,sold - mccormick,18,['Ama'],F,Asian,226,51,0.5732216272120096
+233,snow flower and the secret fan - see,0_37,['Lily'],F,Asian,5868,244,0.3146648789244149
+234,snow flower and the secret fan - see,57,['Snow Flower'],F,Asian,2234,230,0.4160261840820331
+497,snow falling on cedars - guterson,345,"['Ishmael', 'Ishmael Chambers']",M,White (unmarked),2419,319,0.8444369949082582
+498,snow falling on cedars - guterson,347,"['Hatsue Miyamoto', 'Hatsue']",F,Asian,1733,248,0.8447825338942878
+499,snow falling on cedars - guterson,339,"['Kabuo Miyamoto', 'Miyamoto', 'Kabuo']",M,Asian,1513,210,0.7430624884898486
+500,snow falling on cedars - guterson,340,"['Carl Heine', 'Carl', 'Carl junior']",M,White,1344,146,0.7861145214335247
+501,snow falling on cedars - guterson,348,"['Art', 'Art Moran', 'Arthur']",M,White (unmarked),675,183,0.7894859225259048
+502,snow falling on cedars - guterson,360,"['Nels Gudmundsson', 'Nels']",M,White (unmarked),646,392,0.7875191893014294
+578,snow - pamuk,276,"['Kars Border Television', 'Ka', 'Kars']",M,MENA,6458,636,0.5244900972620858
+579,snow - pamuk,0,['Orhan'],M,MENA,2717,385,0.5232671926034757
+580,snow - pamuk,279,"['Ipek', 'ipek']",F,MENA,1307,189,0.6643007586640307
+581,snow - pamuk,307,['Kadife'],F,MENA,1119,209,0.7674572433342953
+582,snow - pamuk,299,['Blue'],M,MENA,880,159,0.7279290111995601
+986,slaughterhouse five - vonnegut,205,"['Billy', 'Pilgrim', 'Billy Pilgrim']",M,White,2052,170,0.41910538847711093
+987,slaughterhouse five - vonnegut,0,"['Kurt', 'Kurt Vonnegut']",M,White,328,38,0.6965101486997815
+988,slaughterhouse five - vonnegut,213,"['Weary', 'Roland Weary']",M,White,234,35,0.7342935983483535
+1586,sky is not the limit - tyson,0_2176_322,"['Neil', 'Neil deGrasse Tyson']",M,"Black, Latino/a/x",1801,46,0.4276465468616445
+304,skin i m in - flake,0_17,"['Maleeka Madison', 'Maleeka']",F,Black,2453,141,0.28719604082846556
+305,skin i m in - flake,15,['Miss Saunders'],F,Black,691,107,0.7007624521322773
+306,skin i m in - flake,20,['Char'],F,Black,642,93,0.6543374927406086
+307,skin i m in - flake,18,['Momma'],F,Black,334,34,0.5171461656354639
+308,skin i m in - flake,16,"['John - John', 'John - John McIntyre', 'John']",M,Black,237,37,0.720052866
+309,skin i m in - flake,21,['Caleb'],M,Black,208,32,0.7094418321691232
+1195,sister of my heart - divakaruni,81_0,"['Didi', 'Sudha']",F,Asian,5206,330,0.48149948855561375
+1197,sister of my heart - divakaruni,76_0,['Anju'],F,Asian,3872,291,0.6512009204829986
+1196,sister of my heart - divakaruni,107,['Sunil'],M,Asian,930,134,0.6247702303704824
+911,sister carrie - dreiser,275,"['Carrie', 'Sister Carrie', 'Miss Madenda', 'Carrie Madenda']",F,White (unmarked),7081,1003,0.6151111960136941
+912,sister carrie - dreiser,251,"['Mr. Hurstwood', 'Hurstwood']",M,White (unmarked),4122,774,0.7126626886494378
+913,sister carrie - dreiser,233,"['Mrs. Drouet', 'Mr. Drouet', 'Drouet']",M,White (unmarked),1985,521,0.7695727910787056
+33,sing unburied sing - ward,71_0,['Jojo'],M,"Black, White",2607,174,0.5857988914528797
+32,sing unburied sing - ward,66_0,['Leonie'],F,Black,2393,232,0.6037710782653377
+28,sing unburied sing - ward,63,['Pop'],M,Black,945,128,0.5971817032145339
+29,sing unburied sing - ward,68,['Michael'],M,White,920,126,0.6273227146168344
+34,sing unburied sing - ward,76_0,['Richie'],M,Black,875,86,0.7927478475245452
+30,sing unburied sing - ward,65,['Kayla'],F,"Black, White",782,77,0.6918229509084768
+31,sing unburied sing - ward,69,"['his mama', 'my mama', 'Mama', 'your mama']",F,Black,692,95,0.6251103686921823
+35,sing unburied sing - ward,82,['Misty'],F,White,460,98,0.7411415258137599
+1208,silas marner - eliot,36,"['Silas Marner', 'Silas', 'Marner']",M,White,1666,156,0.7582351772242675
+1209,silas marner - eliot,53,"['Godfrey', 'Master Godfrey', 'Mr. Cass', 'Mr. Godfrey', 'Godfrey Cass', 'Mr. Godfrey Cass']",M,White,1193,156,0.7276109014022576
+1210,silas marner - eliot,54,"['Nancy', 'Nancy Lammeter', 'Miss Nancy', 'Miss Nancy Lammeter']",F,White,707,89,0.7410281879185638
+1211,silas marner - eliot,96,['Eppie'],F,White,572,72,0.5870243876191916
+763,siddhartha - hesse,16,"['Siddhartha', 'Quoth Siddhartha']",M,Asian,2282,159,0.3921727996761002
+764,siddhartha - hesse,17,"['Quoth Govinda', 'Govinda']",M,Asian,439,60,0.7482126656330094
+765,siddhartha - hesse,26,['Kamala'],F,Asian,302,30,0.6408075575543923
+766,siddhartha - hesse,29,['Vasudeva'],M,Asian,218,25,0.44048660460330774
+1047,set this house on fire - styron,0_569,"['Peter Leverett', 'Peter']",M,White (unmarked),6834,621,0.6023694060706335
+1048,set this house on fire - styron,568,"['Cassius', 'Cass', 'Cass Kinsolving']",M,White (unmarked),3821,546,0.8118205220609881
+1049,set this house on fire - styron,567,"['Flagg', 'Mason Flagg', 'Mason']",M,White (unmarked),2639,388,0.85044565
+835,separate peace - knowles,0_102,"['Gene Forrester', 'Gene']",M,White (unmarked),2348,289,0.2725905845071531
+836,separate peace - knowles,95_96,"['Finny', 'Phineas']",M,White,1630,407,0.5867383129110256
+837,separate peace - knowles,97,"['Leper', 'Leper Lepellier']",M,White,596,114,0.6953312348616214
+838,separate peace - knowles,114,"['Brinker Hadley', 'Brinker']",M,White,480,197,0.6540092777102847
+161,sent for you yesterday - wideman,0_150,"['Albert', 'Wilkes', 'Albert Wilkes']",M,Black,2137,53,0.4586404965322555
+162,sent for you yesterday - wideman,143,"['Brother', 'Brother Tate']",M,Black,1175,11,0.611604572
+163,sent for you yesterday - wideman,165,"['Lucy Tate', 'Lucy']",F,Black,820,9,0.6638756696388232
+164,sent for you yesterday - wideman,145,"['Carl French', 'Carl']",M,Black,770,5,0.6271621818386501
+165,sent for you yesterday - wideman,153,"['French', 'John French']",M,Black,364,4,0.7234992079888323
+166,sent for you yesterday - wideman,148,"['Sam', 'Mama', 'Samantha']",F,Black,347,5,0.7174992455051125
+1389,sense and sensibility - austen,88,['Elinor'],F,White,3394,428,0.45892949890581713
+1390,sense and sensibility - austen,89,"['Miss Marianne', 'Marianne']",F,White,2025,225,0.5638884830167812
+1391,sense and sensibility - austen,93,"['Mr. Ferrars', 'Edward', 'Edward Ferrars']",M,White,1259,59,0.7407540165993939
+1392,sense and sensibility - austen,105,"['Mr. Willoughby', 'Willoughby']",M,White,905,87,0.7367816690762684
+1393,sense and sensibility - austen,118,"['Miss Steele', 'Lucy Steele', 'Lucy']",F,White,793,107,0.7997445361402756
+1394,sense and sensibility - austen,101,['Mrs. Jennings'],F,White,704,115,0.5459230993165343
+1395,sense and sensibility - austen,87,"['Mrs. John Dashwood', 'John Dashwood', 'Mrs. Dashwood', 'John']",F,White,579,80,0.6189084053426168
+1396,sense and sensibility - austen,102,"['Colonel Brandon', 'Brandon']",M,White,569,30,0.6620175103147206
+709,secret life of bees - kidd,0_127,"['Lily', 'Lily Melissa Owens']",F,White,5891,513,0.19192480874902856
+710,secret life of bees - kidd,148,"['August Boatwright', 'August']",F,Black,1387,396,0.4172598519989598
+711,secret life of bees - kidd,123,['Rosaleen'],F,Black,1261,216,0.587550014
+712,secret life of bees - kidd,151,['May'],F,Black,600,49,0.6048241999762293
+713,secret life of bees - kidd,154,['Zach'],M,Black,531,97,0.6176049477627443
+714,secret life of bees - kidd,150,"['June', 'June Boatwright']",F,Black,509,79,0.5185955401224788
+715,secret life of bees - kidd,125,"['Ray', 'T. Ray']",M,White,492,68,0.6697848899824453
+1241,secret garden - burnett,34,"['Mistress Mary', 'Miss Mary', 'Mary', 'Mary Lennox']",F,White,3578,761,0.43899594638991973
+1240,secret garden - burnett,63_73,"['Mester Colin', 'Colin', 'Master Colin']",M,White,2040,380,0.5522604234860075
+1242,secret garden - burnett,52,"['Dickon', 'Our Dickon']",M,White,1062,205,0.5984156011197467
+1243,secret garden - burnett,53,"['Weatherstaff', 'Ben', 'Ben Weatherstaff']",M,White (unmarked),687,155,0.7049746499496967
+1244,secret garden - burnett,48,['Martha'],F,White (unmarked),683,232,0.7733779932180436
+614,scratch beginnings - shepard,0_229,"['Adam', 'Adam Shepard']",M,White,4328,120,0.2857272922459753
+615,scratch beginnings - shepard,287,['BG'],M,White,455,40,0.6433174354428383
+1370,scarlet letter - hawthorne,93,"['Hester', 'Hester Prynne']",F,White (unmarked),1364,159,0.711083297
+1371,scarlet letter - hawthorne,85,"['little Pearl', 'Pearl', 'Little Pearl']",F,White,666,56,0.8017276247103357
+1372,scarlet letter - hawthorne,130,"['The minister', 'the minister', 'THE MINISTER']",M,White (unmarked),656,84,0.7656256484594787
+1373,scarlet letter - hawthorne,98,"['Mr. Dimmesdale', 'the Reverend Mr. Dimmesdale']",M,White (unmarked),411,32,0.6914560903578922
+1374,scarlet letter - hawthorne,0,['narrator'],M,White (unmarked),396,2,0.3364550753094688
+1076,saturday - mcewan,210,"['Henry', 'Perowne', 'Henry Perowne']",M,White,3505,240,0.37809615417922726
+1077,saturday - mcewan,246,['Baxter'],M,White,677,107,0.7838785758940786
+1078,saturday - mcewan,214,['Daisy'],F,White,621,57,0.6520366719271854
+1079,saturday - mcewan,211,['Rosalind'],F,White,567,53,0.647752844
+1080,saturday - mcewan,228,['Theo'],M,White,461,50,0.6315996028880466
+1229,salvage the bones - ward,0_71,['Esch'],F,Black,2959,247,0.3737466056376538
+1230,salvage the bones - ward,56,['Skeetah'],M,Black,1865,420,0.4704980233432522
+1231,salvage the bones - ward,50,['China'],F,Non-human,1118,32,0.547582566
+1232,salvage the bones - ward,55,['Randall'],M,Black,1081,285,0.48215233708047367
+1233,salvage the bones - ward,54,['Daddy'],M,Black,1049,188,0.5888888889273045
+1234,salvage the bones - ward,53,['Junior'],M,Black,1021,126,0.5377294481551251
+1235,salvage the bones - ward,58,['Manny'],M,White,738,101,0.6893927730364469
+1236,salvage the bones - ward,65,['Big Henry'],M,Black,447,73,0.627907182
+1011,round house - erdrich,0_111,"['Joe', 'Joe Coutts']",M,Native/Indigenous,6829,0,0.33571679822495054
+1012,round house - erdrich,226,"['My father', 'my father']",M,Native/Indigenous,1084,0,0.5888462206845357
+1013,round house - erdrich,234,"['my mother', 'My mother']",F,Native/Indigenous,803,0,0.5532951011460322
+1014,round house - erdrich,121,['Cappy'],M,Native/Indigenous,750,0,0.6564765824220568
+1015,round house - erdrich,133,['Sonja'],F,White,586,0,0.7252352678973278
+1130,room with a view - forster,123,"['Miss Honeychurch', 'Lucy']",F,White,2488,518,0.38649102950415287
+1131,room with a view - forster,122,"['Miss Bartlett', 'Charlotte']",F,White (unmarked),897,216,0.6298066392165678
+1132,room with a view - forster,124,['Cecil'],M,White,809,162,0.8331391373826752
+1133,room with a view - forster,120,"['George', 'Mr. George Emerson', 'George Emerson', 'Mr. Emerson', 'old Mr. Emerson', 'Emerson']",M,White,713,138,0.6404017942537932
+1134,room with a view - forster,126,['Mr. Beebe'],M,White,577,141,0.6041813436707734
+1135,room with a view - forster,128,['Freddy'],M,White,355,97,0.6067435570697921
+847,robinson crusoe - defoe,0_114,"['Robinson Crusoe', 'Robinson']",M,White,8767,144,0.27585716191600795
+848,robinson crusoe - defoe,129,['Friday'],M,Native/Indigenous,791,75,0.6860100982745906
+998,road - mccarthy,34,"['The boy', 'the boy']",M,White (unmarked),2166,1,0.3722866669296909
+997,road - mccarthy,17_73,"['The man', 'Papa', 'the man']",M,White (unmarked),1448,0,0.5194522845371135
+1456,river runs through it - maclean,0,"['Norman', 'Norman Maclean']",M,White,3933,338,0.32672157064568336
+1455,river runs through it - maclean,144_190,"['My brother', 'my brother', 'Paul']",M,White,1045,176,0.5034897646501103
+1457,river runs through it - maclean,174,"['Bill', 'Bill Bell', 'Annabelle']",M,White (unmarked),622,99,0.8457884616010664
+1458,river runs through it - maclean,196,"['My father', 'my father']",M,White,320,71,0.7324869455876261
+861,return of the native - hardy,167,"['Eustacia Vye', 'Eustacia', 'Miss Eustacia']",F,White (unmarked),2493,384,0.6170790013537181
+862,return of the native - hardy,149,"['Clym', 'Mr. Clym', 'Clym Yeobright']",M,White (unmarked),1824,281,0.7232985371415567
+863,return of the native - hardy,151,"['Yeobright', 'Mrs. Yeobright']",F,White (unmarked),1346,355,0.6915583365253742
+864,return of the native - hardy,141,"['Wildeve', 'Mr. Wildeve']",M,White (unmarked),1330,287,0.6829776351148238
+865,return of the native - hardy,138,"['Thomasin Yeobright', 'Thomasin']",F,White (unmarked),1192,212,0.6553543915728292
+866,return of the native - hardy,152,"['Venn', 'Diggory Venn', 'Diggory']",M,White (unmarked),704,127,0.7687637568310188
+1331,reservation blues - alexie,230,"['Checkers Warm Water', 'Checkers', 'Chess']",M,Native/Indigenous,1961,679,0.531935506
+1332,reservation blues - alexie,185,"['Thomas Builds - the - Fire', 'Thomas']",M,Native/Indigenous,1818,519,0.559949811
+1333,reservation blues - alexie,195,"['Victor', 'Victor Joseph']",M,Native/Indigenous,1307,401,0.5581188039853018
+1334,reservation blues - alexie,196,"['Junior Polatkin', 'Junior']",M,Native/Indigenous,923,205,0.5092032741274932
+1335,reservation blues - alexie,194,"['Arnold', 'Father Arnold', 'Father']",M,White (unmarked),603,156,0.7996219695380006
+1336,reservation blues - alexie,190,"['Big Mom', 'Mom']",F,Native/Indigenous,553,174,0.69187603
+1092,remains of the day - ishiguro,0_82,"['Stevens', 'Mr Stevens']",M,White (unmarked),3933,366,0.22266091983695085
+1093,remains of the day - ishiguro,83,['Miss Kenton'],F,White (unmarked),1116,263,0.7462507217912459
+1094,remains of the day - ishiguro,502,"['My father', 'my father']",M,White (unmarked),333,27,0.767044107
+1570,redefining realness - mock,0_202_271_292,"['Janet', 'Janet Mock']",F,"Black, Asian, Pacific Islander, White",5900,146,0.23458077001067182
+1571,redefining realness - mock,199,"['Dad', 'your dad']",M,Black,528,64,0.7455210190613694
+1572,redefining realness - mock,198,['Mom'],F,"Asian, Pacific Islander, White",491,41,0.6006313970287674
+1573,redefining realness - mock,257,['Wendi'],F,Asian,477,54,0.6882077637138948
+232,red badge of courage - crane,10_2520_74,"['Henry Fleming', 'The youth', 'the youth', 'Henry']",M,White (unmarked),2344,131,0.4182522321143283
+839,rain god - islas,36,"['Miguel Angel', 'Miguel Grande', 'Miguel Chico', 'Miguel']",M,Latino/a/x,1386,128,0.6288962954073072
+840,rain god - islas,48,['Juanita'],F,Latino/a/x,722,113,0.6896257084632247
+841,rain god - islas,34,['Mama Chona'],F,Latino/a/x,565,68,0.7517014863364363
+842,rain god - islas,60,['JoEl'],M,Latino/a/x,512,40,0.8108762588071557
+843,rain god - islas,43,['Nina'],F,Latino/a/x,479,91,0.6974971301544882
+844,rain god - islas,40,['Felix'],M,Latino/a/x,468,25,0.7079474360521125
+845,rain god - islas,65,['Lola'],F,Latino/a/x,414,30,0.7214790780696048
+846,rain god - islas,46,"['Maria', 'Jesus Maria', 'Jesus']",F,Latino/a/x,320,22,0.7168871993680102
+1097,ragtime - doctorow,330,['Father'],M,White (unmarked),760,0,0.6771575074240777
+1098,ragtime - doctorow,341,"['Houdini', 'Harry Houdini']",M,White,639,0,0.8503199391874352
+1099,ragtime - doctorow,337,"['Evelyn Nesbit', 'Evelyn']",F,White,552,0,0.8785811955402597
+1100,ragtime - doctorow,332,"['Mother', 'his mother']",F,White,485,0,0.59602379
+1101,ragtime - doctorow,382,"['Coalhouse', 'Walker', 'Coalhouse Walker', 'Coalhouse Walker Jr.']",M,Black,434,0,0.6129165993310881
+1102,ragtime - doctorow,345,['Tateh'],M,White,364,0,0.7967966789744051
+1103,ragtime - doctorow,360,"['Pierpont Morgan', 'Morgan']",M,White,355,0,0.766488703
+657,push - sapphire,0,"['Claireece', 'Claireece Precious Jones']",F,Black,3539,151,0.24358189041763262
+658,push - sapphire,111,['Mama'],F,Black,333,54,0.569029663
+569,purple hibiscus - adichie,0_116_2939,"['Kambili Achike', 'Kambili']",F,Black,3413,227,0.30320053138237324
+570,purple hibiscus - adichie,94,"['Nnukwu', 'Papa - Nnukwu', 'Papa']",M,Black,1749,273,0.6021151308003915
+571,purple hibiscus - adichie,107,"['Ifeoma', 'Aunty Ifeoma', 'Aunty']",F,Black,1255,357,0.7128945747053582
+572,purple hibiscus - adichie,93,['Jaja'],M,Black,977,139,0.41805872996296495
+573,purple hibiscus - adichie,95,"['Mama Joe', 'Mama']",F,Black,821,174,0.6670816490949191
+574,purple hibiscus - adichie,141,['Amaka'],F,Black,766,227,0.5176426157236291
+575,purple hibiscus - adichie,156,"['Father Amadi', 'Father']",M,Black,720,139,0.645987991
+564,purple heart - mccormick,46,"['Matt', 'Duffy']",M,White (unmarked),2892,396,0.20810866692938904
+565,purple heart - mccormick,50,['Justin'],M,White,407,96,0.5636786655900148
+566,purple heart - mccormick,67,['Charlene'],F,White (unmarked),259,72,0.6759572445614909
+567,purple heart - mccormick,75,"['Meaghan Finnerty', 'Meaghan']",F,White,251,86,0.7463798554371357
+1578,professor s house - cather,0_143,"['Tom', 'Tom Outland', 'Outland']",M,White,1227,42,0.6781264127122683
+1579,professor s house - cather,139,['St. Peter'],M,White,482,112,0.6595965320106408
+1580,professor s house - cather,150,"['Louie', 'Marsellus']",M,White,448,68,0.8029899678063879
+1581,professor s house - cather,202,"['The Professor', 'the Professor']",M,White,378,31,0.7282743775543027
+1582,professor s house - cather,160,"['Blake', 'Roddy']",M,White (unmarked),275,26,0.7255548286041023
+1583,professor s house - cather,149,"['Scott McGregor', 'Scott', 'McGregor']",M,White,256,29,0.7596886001945222
+1405,prime of miss jean brodie - spark,97,"['Jean Brodie', 'Miss Brodie', 'the Brodie', 'Brodie']",F,White,1355,229,0.3023105151001793
+1406,prime of miss jean brodie - spark,135,['Sandy'],F,White (unmarked),902,209,0.4226892495700017
+1407,prime of miss jean brodie - spark,103,['Jenny'],F,White (unmarked),265,71,0.42775622568884136
+1408,prime of miss jean brodie - spark,100,"['Rose', 'Rose Stanley']",F,White,261,19,0.4921449303807638
+1409,prime of miss jean brodie - spark,112,['Mr. Lowther'],M,White,201,3,0.6377416806755871
+1061,pride and prejudice - austen,81,"['Miss Elizabeth Bennet', 'Eliza', 'Lizzy', 'Miss Eliza', 'Miss Elizabeth', 'Elizabeth', 'Miss Bennet']",F,White,4327,500,0.42251513520163275
+1062,pride and prejudice - austen,88,"['the late Mr. Darcy', 'Mr. Darcy', 'Darcy']",M,White (unmarked),1767,131,0.6305215717191808
+1063,pride and prejudice - austen,82,['Jane'],F,White (unmarked),906,113,0.5501104040656213
+1064,pride and prejudice - austen,78,"['Bingley', 'Mr. Bingley']",M,White (unmarked),714,31,0.6984735108908648
+1065,pride and prejudice - austen,114,['Mr. Collins'],M,White (unmarked),663,44,0.774819336
+1066,pride and prejudice - austen,84,['Mrs. Bennet'],F,White (unmarked),654,125,0.7059836536639156
+1067,pride and prejudice - austen,118,"['George Wickham', 'Wickham', 'Mr. Wickham']",M,White (unmarked),617,37,0.579162074
+426,prayer for owen meany - irving,0_753_758,"['John Wheelwright', 'John']",M,White (unmarked),8384,829,0.3739423553164298
+427,prayer for owen meany - irving,751,"['Owen Meany', 'Owen', 'Meany']",M,White (unmarked),7806,1510,0.5330935547077871
+428,prayer for owen meany - irving,806,"['HESTER', 'Hester the Molester', 'Hester']",F,White (unmarked),1386,216,0.7175492489491159
+429,prayer for owen meany - irving,1044,"['my mother', 'My mother']",F,White (unmarked),1276,129,0.6512137440128706
+430,prayer for owen meany - irving,798,"['DAN', 'Dan', 'Dan Needham']",M,White,1229,240,0.5834962145437683
+969,power of one - courtenay,0_381,['Peekay'],M,White,9549,585,0.33768759547539834
+970,power of one - courtenay,380,['Doc'],M,White,1921,242,0.6942784407474099
+971,power of one - courtenay,468,"['Levy', 'Morrie Levy', 'Morrie']",M,White,1165,367,0.7434014346115597
+1088,power broker - caro,2570_2577,"['Bob Moses', 'Mr. Robert', 'moses', 'Moses', 'Mary Moses', 'Dr. Moses', 'Robert', 'the Moses', 'Moses Men', 'Commissioner Moses', 'Mr. Moses', 'MOSES', 'Robert Moses', 'the Moses family', 'Emanuel Moses', 'Bella Moses', 'Bob']",M,White,17133,1603,0.5488574220305006
+277,portrait of the artist as a young man - joyce,0_153,"['Stevie', 'Stephen', 'Dedalus', 'Stephen Dedalus']",M,White,3491,15,0.5893296815145677
+730,portrait of a lady - james,178,"['Isabel', 'Isabel Archer']",F,White,10020,1444,0.6439557472235534
+731,portrait of a lady - james,175,"['Mr. Touchett', 'Ralph Touchett', 'Poor Ralph', 'Ralph', 'Touchett']",M,White,3606,673,0.7446007307696075
+732,portrait of a lady - james,207,['Madame Merle'],F,White,1952,469,0.77341087
+733,portrait of a lady - james,171,"['Lord Warburton', 'Warburton']",M,White,1848,313,0.7300114184814055
+734,portrait of a lady - james,211,"['Osmond', 'Gilbert', 'Mr. Osmond', 'Gilbert Osmond']",M,White,1820,329,0.689105903
+735,portrait of a lady - james,186,"['Caspar Goodwood', 'Goodwood', 'Caspar', 'Mr. Goodwood']",M,White,1406,162,0.7989078888201676
+736,portrait of a lady - james,190,"['Henrietta', 'Henrietta Stackpole']",F,White,1186,248,0.7489598010136889
+490,poisonwood bible - kingsolver,0_320_325,"['a mother', 'Our mother', 'Reverend', 'your mother', 'our mother', 'Orleanna', 'The mother', 'the mother', 'Mother', 'mother', 'Orleanna Price', 'My mother', 'his mother', 'my mother']",F,White,3622,280,0.5882000558105496
+495,poisonwood bible - kingsolver,332_0,"['Adah Price', 'Adah']",F,White,2561,118,0.6930861706253764
+493,poisonwood bible - kingsolver,323_0,"['Leah Price', 'Leah']",F,White,1764,122,0.6427378894658161
+491,poisonwood bible - kingsolver,329,"['my father', 'his father', 'thy father', 'the Father', 'Our Father', 'Father', 'your father', 'My father', 'father']",M,White,1316,143,0.4842561858243633
+494,poisonwood bible - kingsolver,327_0,"['Rachel Price', 'Rachel']",F,White,922,90,0.5709077919193526
+492,poisonwood bible - kingsolver,413,['Anatole'],M,Black,880,155,0.6866085947521974
+1514,pocho - villarreal,157,"['Richard Rubio', 'Richard', 'Ricky']",M,Latino/a/x,2643,403,0.6552294938367903
+1515,pocho - villarreal,133,"['Juan', 'Juan Rubio', 'Juan Manuel', 'don Juan']",M,Latino/a/x,841,178,0.7335718407822276
+335,plague - camus,58,"['Bernard', 'Dr. Rieux', 'Rieux']",M,MENA,1666,286,0.585540099
+336,plague - camus,62,"['Jeanne', 'Tarrou']",M,White,786,196,0.6744791633805796
+337,plague - camus,61,['Rambert'],M,White (unmarked),784,123,0.7602643297534529
+338,plague - camus,65,"['Grand', 'Joseph Grand']",M,White (unmarked),645,115,0.7648908913628173
+339,plague - camus,66,['Cottard'],M,White (unmarked),405,91,0.715251311
+340,plague - camus,188,"['the doctor', 'The doctor']",M,White (unmarked),361,44,0.43820465416885074
+616,picture of dorian gray - wilde,108_248,"['Dorian', 'Dorian Gray', 'the lad', 'Mr. Gray', 'The lad', 'Mr. Dorian Gray']",M,White,3515,431,0.5340621159036474
+617,picture of dorian gray - wilde,111,"['Harry', 'Lord Henry', 'Lord Henry Wotton']",M,White (unmarked),1587,447,0.64041301
+618,picture of dorian gray - wilde,112,"['Basil', 'Hallward', 'Basil Hallward']",M,White (unmarked),863,141,0.6798955257957392
+1050,persuasion - austen,95,"['Miss Elliot', 'Anne', 'Miss Anne Elliot', 'Anne Elliot', 'Miss Anne']",F,White,2602,203,0.4162735030194504
+1051,persuasion - austen,102,"['Elliot', 'Mr Elliot']",M,White,774,20,0.8371586411490644
+1052,persuasion - austen,117,['Captain Wentworth'],M,White,727,64,0.6805471461973488
+1053,persuasion - austen,96,['Mary'],F,White,437,49,0.6326672169914253
+1054,persuasion - austen,157,['Mrs Smith'],F,White,365,74,0.7469988964978037
+184,perks of being a wallflower - chbosky,0_69,['Charlie'],M,White (unmarked),5137,183,0.20817368995458166
+185,perks of being a wallflower - chbosky,83,['Sam'],F,White,645,108,0.5430478789522337
+186,perks of being a wallflower - chbosky,78,['Patrick'],M,White (unmarked),617,91,0.5446193080643968
+187,perks of being a wallflower - chbosky,175,"['My sister', 'my sister']",F,White (unmarked),567,69,0.5506497463642686
+227,pearl - steinbeck,20,['Kino'],M,"Latino/a/x, Native/Indigenous",1547,131,0.27698251909609184
+228,pearl - steinbeck,22,['Juana'],F,"Latino/a/x, Native/Indigenous",519,45,0.4571341629182501
+229,pearl - steinbeck,1157,"['the doctor', 'The doctor']",M,White,173,26,0.6264935895929928
+775,patron saints of nothing - ribay,0_133_158,"['Jay Reguero', 'Jay']",M,Asian,5146,645,0.1834086766910989
+776,patron saints of nothing - ribay,132,"['Jun', 'Kuya']",M,Asian,795,19,0.39814961131755044
+777,patron saints of nothing - ribay,138,['Mia'],F,Asian,581,192,0.7455373297873699
+778,patron saints of nothing - ribay,130,"['Maning', 'Tito', 'Tito Maning']",M,Asian,527,110,0.6127070947911251
+779,patron saints of nothing - ribay,145,['Grace'],F,Asian,412,117,0.6495102612492655
+799,passing - larsen,40,"['Irene', 'Irene Redfield']",F,Black,1913,242,0.43752065675822865
+800,passing - larsen,41,"['Clare', 'Clare Kendry']",F,"Black, White",1116,117,0.567860088
+801,passing - larsen,44,['Brian'],M,Black,366,58,0.7233114503020719
+717,passage to india - forster,177,"['Dr. Aziz', 'Aziz']",M,Asian,1709,319,0.5988861721595621
+718,passage to india - forster,180,"['Mr. Fielding', 'Fielding']",M,White,1227,255,0.6356230173207179
+716,passage to india - forster,203_205,"['Adela', 'Miss Quested']",F,White,1182,183,0.5832941119446683
+719,passage to india - forster,190,['Mrs. Moore'],F,White,558,109,0.5904423377286283
+720,passage to india - forster,197,['Ronny'],M,White,510,119,0.6920300929295954
+94,parable of the sower - butler,0_152,"['Lauren', 'Lauren Oya Olamina']",F,Black,4617,749,0.27255386746944466
+95,parable of the sower - butler,138,['Harry'],M,White,679,143,0.741341009
+96,parable of the sower - butler,194,['Bankole'],M,Black,622,152,0.4851733752164381
+97,parable of the sower - butler,148,['Zahra'],F,Black,496,165,0.8058516649651242
+98,parable of the sower - butler,112,['Dad'],M,Black,479,114,0.7853593863022384
+1180,paper towns - green,0_230,"['Quentin Jacobsen', 'Quentin']",M,White,4794,704,0.16646900439633885
+1181,paper towns - green,227,"['Margo Roth Spiegelman', 'Margo']",F,White,1566,291,0.6122270978283005
+1182,paper towns - green,241,"['Ben', 'Bloody Ben', 'Ben Starling']",M,White,1188,350,0.6998923871148374
+1183,paper towns - green,239,['Radar'],M,Black,743,246,0.6667086584264464
+1184,paper towns - green,244,"['Lacey', 'Lacey Pemberton']",F,White,553,131,0.6512393953553353
+1249,panther baby - joseph,0_295_342_370,"['Jamal', 'Jamal Joseph']",M,"Black, Latino/a/x",3224,249,0.38724137690170557
+1250,panther baby - joseph,265,['Noonie'],F,Black,309,55,0.7109356626622638
+1171,pale fire - nabokov,0_360_372_642,"['Charles', 'Charles Kinbote']",M,White,1915,87,0.5317981802059852
+1172,pale fire - nabokov,283,"['Shade', 'John Shade', 'John', 'Sybil Shade']",M,White,625,60,0.5282374138190505
+1173,pale fire - nabokov,316,['Gradus'],M,White (unmarked),508,27,0.6897650149245754
+1489,outsiders - hinton,0_1694_46,['Ponyboy'],M,White,3078,388,0.23253032757698416
+1490,outsiders - hinton,43,['Johnny'],M,White,1028,190,0.501539393
+1491,outsiders - hinton,35,['Darry'],M,White,694,116,0.5731189702611745
+1492,outsiders - hinton,49,"['Dally Winston', 'Dally']",M,White,584,116,0.5657084818103291
+1493,outsiders - hinton,34,['Soda'],M,White,401,63,0.4251474914964176
+249,out of africa - dinesen,0,"['Karen', 'Karen Blixen']",F,White,3356,139,0.33920005395450037
+250,out of africa - dinesen,223,['Kamante'],M,Black,625,44,0.8502573743235661
+1505,other wes moore - moore,0_214,"['Wes', 'Wes Moore']",M,Black,3845,157,0.4390214750928814
+1506,other wes moore - moore,226,['Mary'],F,Black,375,26,0.7695182912169578
+1507,other wes moore - moore,318,"['my mother', 'My mother']",F,Black,325,20,0.6489373256383419
+1364,other - guterson,0_636,"['Neil', 'Neil Countryman']",M,White,3768,292,0.5128117500788926
+1365,other - guterson,632,['John William'],M,White,1712,329,0.5326785692045654
+1366,other - guterson,672,"['Jamie', 'James']",F,White,486,120,0.7093971782264621
+1367,other - guterson,645,"['Rand', 'Rand Barry']",M,White (unmarked),450,44,0.8275248666313961
+927,oryx and crake - atwood,147_151,"['Snowman', 'Jimmy']",M,White,5361,687,0.46885565233124116
+928,oryx and crake - atwood,148,['Crake'],M,White,1364,412,0.7039974384595729
+929,oryx and crake - atwood,149,['Oryx'],F,Asian,879,137,0.7457532943751938
+792,orlando - woolf,151,"['Orlando', 'ORLANDO']",M,White,2184,147,0.38441195992610944
+341,oranges are not the only fruit - winterson,0_112,['Jeanette'],F,White (unmarked),2373,260,0.402587232
+342,oranges are not the only fruit - winterson,176,"['my mother', 'My mother']",F,White (unmarked),997,281,0.5689026474076854
+343,oranges are not the only fruit - winterson,170,['Winnet'],F,White (unmarked),295,27,0.7146273849919014
+344,oranges are not the only fruit - winterson,156,['Melanie'],F,White (unmarked),249,32,0.7713366627910719
+951,one hundred years of solitude - marquez,112,['Ursula'],F,Latino/a/x,2562,272,0.5225326291931969
+952,one hundred years of solitude - marquez,115,['Aureliano'],M,Latino/a/x,2112,136,0.5478054987148336
+953,one hundred years of solitude - marquez,110,['Jose Arcadio Buendia'],M,Latino/a/x,1342,104,0.6530239693235688
+954,one hundred years of solitude - marquez,113,['Aureliano Segundo'],M,Latino/a/x,1171,49,0.8380925713133817
+955,one hundred years of solitude - marquez,166,['Fernanda'],F,Latino/a/x,827,27,0.5560635685475369
+956,one hundred years of solitude - marquez,160,['Jose Arcadio Segundo'],M,Latino/a/x,672,23,0.7151655552537096
+941,one flew over the cuckoo s nest - kesey,129,"['McMurphy', 'Randle', 'Mr. McMurphy']",M,White,2658,426,0.6236283952800191
+939,one flew over the cuckoo s nest - kesey,0_107_130_4437,"['Chief', 'Chief Bromden', 'Bromden']",M,"Native/Indigenous, White",2150,74,0.4802915461490835
+940,one flew over the cuckoo s nest - kesey,211_622,"['the nurse', 'The nurse', 'The Big Nurse', 'the Big Nurse']",F,White,1196,198,0.6056324263487295
+942,one flew over the cuckoo s nest - kesey,126,"['Mr. Harding', 'Harding']",M,White,718,157,0.5967671036128918
+1470,one day in the life of ivan denisovich - solzhenitsyn,50,"['Shukhov', 'Ivan Denisovich']",M,White,1693,149,0.4255294500600998
+1471,one day in the life of ivan denisovich - solzhenitsyn,54,"['Tsezar', 'Tsezar Markovich']",M,White,219,27,0.6532201602669023
+1472,one day in the life of ivan denisovich - solzhenitsyn,59,['Tiurin'],M,White,206,50,0.589884326
+1473,one day in the life of ivan denisovich - solzhenitsyn,60,['Pavlo'],M,White,203,38,0.5974784952798695
+55,oliver twist - dickens,125,"['Oliver', 'Oliver Twist', 'OLIVER TWIST', 'little Oliver', 'OLIVER']",M,White,3086,255,0.8013972711130802
+54,oliver twist - dickens,1125_153,"['The Jew', 'Mr. Fagin', 'the Jew', 'Fagin']",M,White,1686,510,0.7686650148290248
+56,oliver twist - dickens,130,"['Bumble', 'Mr. Bumble']",M,White (unmarked),1001,257,0.8364552047307215
+57,oliver twist - dickens,1778,"['the girl', 'The girl']",F,White (unmarked),958,204,0.8276170472185141
+58,oliver twist - dickens,149,"['Bill Sikes', 'Sikes', 'Bill']",M,White,780,294,0.7485161282996706
+84,old school - wolff,0,['narrator'],M,White (unmarked),2317,0,0.45953328867131854
+85,old school - wolff,221,['Arch'],M,White (unmarked),495,0,0.3697291348128467
+86,old school - wolff,170,"['Mr. Ramsey', 'Ramsey']",M,White (unmarked),252,0,0.6468748189875095
+235,of mice and men - steinbeck,16,['Lennie'],M,White (unmarked),1293,295,0.5204210445557725
+236,of mice and men - steinbeck,18,['George'],M,White (unmarked),1245,368,0.4547241149907818
+237,of mice and men - steinbeck,27,['Curley'],M,White,328,33,0.6376640404618663
+238,of mice and men - steinbeck,26,['Slim'],M,White (unmarked),307,106,0.6793779271874547
+239,of mice and men - steinbeck,37,['Crooks'],M,Black,294,98,0.7635309058297846
+240,of mice and men - steinbeck,33,"['old Candy', 'Candy', 'Old Candy']",M,White (unmarked),249,69,0.5714438726770728
+241,of mice and men - steinbeck,676,['Curley ’s wife'],F,White (unmarked),241,54,0.8272175960468565
+293,of beetles and angels - asgedom,0_2435,"['Mawi', 'Mawi Asgedom']",M,Black,996,33,0.3252754451702423
+294,of beetles and angels - asgedom,216,"['My father', 'my father']",M,Black,290,0,0.579093592
+295,of beetles and angels - asgedom,155,['Tewolde'],M,Black,137,12,0.3926734931380406
+1070,octopus - norris,370,"['Annixter', 'Mr. Annixter', 'Buck Annixter']",M,White (unmarked),2514,505,0.6967858209313592
+1071,octopus - norris,361,"['Presley', 'Mr. Presley']",M,White (unmarked),2396,309,0.717482681
+1072,octopus - norris,368,"['Derrick', 'Magnus Derrick', 'Magnus']",M,White (unmarked),1265,179,0.6773385607307537
+1073,octopus - norris,386,['Vanamee'],M,White (unmarked),1131,78,0.8261968853248377
+1074,octopus - norris,400,"['Hilma', 'Hilma Tree']",F,White,1100,132,0.7714669576157599
+1075,octopus - norris,384,['Buck'],M,White (unmarked),789,84,0.7824070380145366
+784,obasan - kogawa,0_200,"['Naomi', 'Naomi Nakane']",F,Asian,2497,171,0.29109946216835525
+785,obasan - kogawa,193,"['Nomura - obasan', 'Aya Obasan', 'Aya', 'Obasan']",F,Asian,900,163,0.5478474909689085
+786,obasan - kogawa,201,['Stephen'],M,Asian,686,95,0.5195282338585827
+787,obasan - kogawa,191,['Aunt Emily'],F,Asian,488,139,0.6787867938004088
+196,o pioneers - cather,64,"['Alexandra', 'Alexandra Bergson']",F,White,1729,223,0.5571173804612076
+197,o pioneers - cather,63,"['Emil', 'Emil Bergson']",M,White,983,111,0.6014649371394133
+198,o pioneers - cather,94,"['Frank', 'Frank Shabata']",M,White,639,25,0.7092327064207221
+199,o pioneers - cather,91,"['Marie', 'Marie Shabata']",F,White,590,61,0.7472427591032935
+200,o pioneers - cather,66,"['Carl', 'Carl Linstrum']",M,White,580,75,0.7785464386677294
+201,o pioneers - cather,80,['Ivar'],M,White,354,25,0.7047003550536255
+849,northanger abbey - austen,75,"['Morland', 'Catherine']",F,White,3499,391,0.3698588980979554
+850,northanger abbey - austen,85,"['Henry', 'Henry Tilney', 'Mr. Tilney']",M,White,882,87,0.6169533515785502
+851,northanger abbey - austen,90,"['Isabella', 'Thorpe']",F,White,679,110,0.7134647870371281
+87,noah s compass - tyler,80,"['Liam Pennywell', 'Liam']",M,White (unmarked),5007,1122,0.23153800711494307
+88,noah s compass - tyler,115,['Eunice'],F,White (unmarked),1277,355,0.7005114289304144
+89,noah s compass - tyler,83,['Kitty'],F,White (unmarked),896,275,0.6995770202760998
+90,noah s compass - tyler,92,['Barbara'],F,White,425,139,0.694884992
+826,no disrespect - souljah,0,"['Souljah', 'Sister Souljah', 'Sister']",F,Black,7009,567,0.470990949
+827,no disrespect - souljah,176,['Chance'],M,Black,831,99,0.8062033095303264
+828,no disrespect - souljah,140,['Nikki'],F,Black,693,83,0.5426686898496751
+829,no disrespect - souljah,122,"['Nathan', 'Nate']",M,Black,671,84,0.8201639641206787
+246,no country for old men - mccarthy,0_128,"['Ed', 'Ed Tom Bell', 'Sheriff Bell', 'Bell', 'Sheriff']",M,White (unmarked),3468,90,0.5358165762132436
+247,no country for old men - mccarthy,129,['Moss'],M,White,1174,19,0.7502072380958453
+248,no country for old men - mccarthy,126,['Chigurh'],M,White (unmarked),838,9,0.7709127850329267
+1314,no ashes in the fire - moore,0_243,"['Darnell', 'Darnell L. Moore']",M,Black,3985,52,0.25244491420298176
+1531,nineteen eighty four - orwell,130,"['Smith', 'Winston Smith', 'Winston']",M,White,3487,246,0.6614444071365495
+1532,nineteen eighty four - orwell,132,['O’Brien'],M,White (unmarked),864,241,0.7954079029324604
+1533,nineteen eighty four - orwell,154,['Julia'],F,White,444,89,0.6185147291648193
+230,night - wiesel,0,"['Elie Wiesel', 'Elie']",M,White,1369,78,0.39748077996673026
+231,night - wiesel,116,"['My father', 'my father']",M,White,456,70,0.5109501432929303
+399,nigger - gregory,0_194_211,"['Gregory', 'Dick Gregory', 'Dick']",M,Black,4252,193,0.23285302700711566
+400,nigger - gregory,174,"['my Momma', 'My Momma', 'Momma']",F,Black,516,81,0.65398096
+401,nigger - gregory,235,"['Lillian', 'Lil']",F,Black,350,46,0.547374449
+1574,never let me go - ishiguro,0_60,['Kathy'],F,White,3967,324,0.29472971056225566
+1575,never let me go - ishiguro,62,['Tommy'],M,White,1897,275,0.6603195163346128
+1576,never let me go - ishiguro,61,['Ruth'],F,White,1591,250,0.7015621390684239
+1577,never let me go - ishiguro,80,['Madame'],F,White,425,49,0.7631477077709194
+680,nervous conditions - dangarembga,0_64,['Tambu'],F,Black,4039,123,0.3578014251490548
+681,nervous conditions - dangarembga,58,['Nyasha'],F,Black,1578,198,0.7151632929483599
+682,nervous conditions - dangarembga,61,['Babamukuru'],M,Black,1274,195,0.5148048
+683,nervous conditions - dangarembga,57,['Maiguru'],F,Black,830,145,0.6021531116605823
+684,nervous conditions - dangarembga,56,"['Lucia', 'Mainini']",F,Black,550,91,0.8264123431690753
+685,nervous conditions - dangarembga,124,"['my mother', 'My mother']",F,Black,496,76,0.5771725205471988
+113,native speaker - lee,0_229,['Henry'],M,Asian,4785,451,0.28836760357034097
+114,native speaker - lee,237,"['Kwang', 'John Kwang', 'John']",M,Asian,1301,118,0.7340342687641024
+115,native speaker - lee,226,['Lelia'],F,White (unmarked),1203,260,0.7279893036978968
+116,native speaker - lee,380,"['My father', 'my father']",M,Asian,738,59,0.5977249084835871
+117,native speaker - lee,234,['Jack'],M,White,706,203,0.7148333957811074
+1553,native son - wright,119,"['Bigger Thomas', 'Thomas', 'Bigger']",M,Black,8194,1127,0.6805616378606663
+1554,native son - wright,162,"['Max', 'Mr. Max']",M,White,1329,269,0.9118753779255215
+1555,native son - wright,158,"['Jan Erlone', 'Jan', 'Erlone', 'Mr. Jan']",M,White,1030,148,0.7209676646028859
+1556,native son - wright,141,"['Mary Dalton', 'Mary', 'Dalton']",F,White,868,106,0.5826084101153303
+1557,native son - wright,129,"['Dalton', 'Mr. Dalton']",M,White,800,261,0.7143528928286927
+886,narrative of the life of frederick douglass - douglass,0_82,"['Frederick', 'Frederick Douglass']",M,Black,1882,27,0.46318990359315787
+887,narrative of the life of frederick douglass - douglass,95,"['Covey', 'Mr. Covey']",M,White,324,4,0.77278129
+1145,namesake - lahiri,357,"['Gogol Ganguli', 'Gogol', 'Nikolai Gogol']",M,Asian,3670,182,0.7011599598931009
+1144,namesake - lahiri,332_632,"['his mother', 'Ashima', 'His mother', 'Ganguli']",F,Asian,1941,170,0.7429427858270115
+1146,namesake - lahiri,383,['Moushumi'],F,Asian,1453,98,0.9104117600016345
+1147,namesake - lahiri,333,['Ashoke'],M,Asian,734,65,0.7989904188659935
+1002,my name is asher lev - potok,0_215,"['Asher Lev', 'my Asher', 'Asher']",M,White,9048,600,0.1407988172285741
+1003,my name is asher lev - potok,349,"['my mother', 'My mother']",F,White,1807,705,0.5494090081951873
+1004,my name is asher lev - potok,324,"['My father', 'my father']",M,White,1743,509,0.5483859460016961
+1005,my name is asher lev - potok,266,"['Jacob', 'Jacob Kahn']",M,White,735,266,0.6070754871523516
+181,my ántonia - cather,0_123_126,['Jim'],M,White,2564,163,0.39523891645990866
+182,my ántonia - cather,124,"['Antonia', 'Tony']",F,White,1144,131,0.5766319618309694
+183,my ántonia - cather,122,"['Lena', 'Lena Lingard']",F,White,687,96,0.8515890169776027
+316,mrs dalloway - woolf,159,"['Dalloway', 'Clarissa', 'Clarissa Dalloway']",F,White,1212,82,0.6857545752561602
+317,mrs dalloway - woolf,161,"['Peter Walsh', 'Peter']",M,White (unmarked),657,42,0.7107419796415343
+318,mrs dalloway - woolf,180,['Septimus'],M,White,391,16,0.7748748226415058
+319,mrs dalloway - woolf,167,"['Elizabeth', 'Ellie Henderson']",F,White,313,7,0.6794038857916185
+320,mrs dalloway - woolf,172,"['Richard Dalloway', 'Richard']",M,White,299,16,0.6631502138377713
+321,mrs dalloway - woolf,178,['Miss Kilman'],F,White,289,14,0.8443409254199702
+907,moor s last sigh - rushdie,0_506_575,"['Moraes', 'Moraes Zogoiby', 'Moor']",M,"White, MENA, Asian",4480,318,0.5120420245588961
+908,moor s last sigh - rushdie,507,"['Aurora da Gama', 'Aurora', 'Aurora Zogoiby']",F,"White, Asian",1504,208,0.6555213423032763
+909,moor s last sigh - rushdie,562,"['Zogoiby', 'Abraham', 'Abraham Zogoiby', 'Abie']",M,"White, MENA, Asian",1131,170,0.6173831059354189
+910,moor s last sigh - rushdie,503,"['Vasco', 'Vasco Miranda', 'Miranda']",M,"Asian, White",841,128,0.7120446629349811
+1191,moon of the crusted snow - rice,28,"['Evan', 'Ev']",M,Native/Indigenous,2056,351,0.49305096997351655
+1192,moon of the crusted snow - rice,68,"['Justin Scott', 'Scott']",M,White,511,119,0.5744353103799746
+1193,moon of the crusted snow - rice,32,['Nicole'],F,Native/Indigenous,455,111,0.6466786573158971
+1194,moon of the crusted snow - rice,38,['Isaiah'],M,Native/Indigenous,279,89,0.47722779493547746
+265,monkey bridge - cao,0_185,['Mai'],F,Asian,3135,144,0.3268415913005953
+266,monkey bridge - cao,241,"['my mother', 'My mother']",F,Asian,1195,144,0.5917123297007653
+568,moll flanders - defoe,0_141,"['Moll Flanders', 'Moll']",F,White (unmarked),9716,437,0.30712972532527005
+300,moby dick - melville,0_565,['Ishmael'],M,White (unmarked),2094,160,0.6074783897446413
+301,moby dick - melville,598,"['Captain Ahab', 'Ahab', 'old Ahab']",M,White (unmarked),1754,230,0.7145599628128285
+302,moby dick - melville,610,"['Mr. Stubb', 'Stubb']",M,White (unmarked),898,175,0.6729680989410474
+303,moby dick - melville,578,['Queequeg'],M,Pacific Islander,786,39,0.7309336092203054
+1217,mill on the floss - eliot,123,"['Maggie Tulliver', 'Magsie', 'Maggie']",F,White,6781,745,0.7197261529086291
+1218,mill on the floss - eliot,121,"['Tom', 'Mr. Tom', 'Tom Tulliver', 'Master Tom', 'cousin Tom', 'Poor Tom']",M,White,4043,505,0.6979270538101622
+1219,mill on the floss - eliot,130,"['Phil', 'Philip Wakem', 'Philip', 'Wakem']",M,White (unmarked),1900,235,0.7890851190172914
+1220,mill on the floss - eliot,226,"['Mr. Stephen Guest', 'Stephen', 'Mr. Guest']",M,White (unmarked),1174,189,0.8595220836047172
+1221,mill on the floss - eliot,132,['Lucy'],F,White (unmarked),963,192,0.7697149639108926
+1222,mill on the floss - eliot,125,"['Poor Mrs. Tulliver', 'Tulliver', 'poor Mrs. Tulliver', 'Mrs. Tulliver']",F,White (unmarked),935,208,0.6920005606024299
+1223,mill on the floss - eliot,127,"['Bob Jakin', 'Bob']",M,White (unmarked),921,163,0.8556599332339944
+1016,midnight s children - rushdie,0,['Saleen'],M,Asian,6225,289,0.4460546039762403
+1466,middlesex - eugenides,0_678_683_854_921,"['Cal', 'Callie', 'Calliope']",NB,White,6354,386,0.48334710161200806
+1467,middlesex - eugenides,680,"['Desdemona', 'Desdemona Stephanides']",F,White,1949,398,0.8400250115007243
+1468,middlesex - eugenides,685,"['Milton', 'Milton Stephanides', 'Milt', 'Stephanides']",M,White,1604,344,0.7301124005201887
+1469,middlesex - eugenides,717,"['Lefty Stephanides', 'Lefty', 'Stephanides']",M,White,1218,183,0.8425251826673936
+47,middlemarch - eliot,191,"['Dorothea', 'Poor Dorothea', 'Brooke']",F,White (unmarked),5343,588,0.8675722960556518
+48,middlemarch - eliot,249,"['Lydgate', 'Mr. Lydgate', 'Captain Lydgate']",F,White (unmarked),3780,417,0.8058283464748663
+49,middlemarch - eliot,241,"['Will Ladislaw', 'young Ladislaw', 'Ladislaw', 'Will']",M,White (unmarked),2897,282,0.8084148827875566
+50,middlemarch - eliot,253,"['Rosamond', 'Rosamond Vincy', 'Poor Rosamond']",F,White (unmarked),2444,340,0.8067566224376552
+51,middlemarch - eliot,280,"['Fred', 'Fred Vincy']",M,White (unmarked),1905,237,0.8213138276348182
+52,middlemarch - eliot,245,"['Mr. Bulstrode', 'Bulstrode']",M,White (unmarked),1892,174,0.7762420653214017
+53,middlemarch - eliot,205,"['Poor Mr. Casaubon', 'Mr. Casaubon', 'Casaubon']",M,White (unmarked),1848,136,0.8059454114604906
+1034,metamorphosis - kafka,5,['Gregor'],M,White,1471,25,0.4189988530302077
+1035,metamorphosis - kafka,45,"['his sister', 'His sister']",F,White,216,13,0.45176521123672625
+1036,metamorphosis - kafka,44,"['His father', 'his father']",M,White,176,16,0.470286778
+1037,metamorphosis - kafka,38,"['his mother', 'His mother']",F,White,110,7,0.4359898803877739
+442,men we reaped - ward,0_5470,['Jesmyn'],F,Black,4115,203,0.28282258742154737
+443,men we reaped - ward,157,"['Joshua', 'Josh']",M,Black,772,99,0.6200177111760993
+444,men we reaped - ward,233,"['my mother', 'My mother']",F,Black,749,32,0.5620153735613636
+445,men we reaped - ward,235,"['My father', 'my father']",M,Black,640,33,0.6008465391591629
+446,men we reaped - ward,169,"['J.', 'C. J.']",M,Black,384,33,0.7601260914618276
+21,memory keeper s daughter - edwards,141,"['Honey', 'Norah', 'Norah Henry']",F,White,3260,515,0.7286744538312332
+22,memory keeper s daughter - edwards,144,"['David', 'David Henry']",M,White (unmarked),2998,403,0.7559181044411543
+23,memory keeper s daughter - edwards,139,"['Caroline Gill', 'Linda', 'Caroline']",F,White (unmarked),2806,399,0.7906942605980705
+24,memory keeper s daughter - edwards,138,['Paul'],M,White,2805,316,0.7146574274979679
+25,memory keeper s daughter - edwards,137,['Phoebe'],F,White,1301,158,0.7212893015574527
+26,memory keeper s daughter - edwards,154,['Al'],M,White (unmarked),665,153,0.8062440633971097
+27,memory keeper s daughter - edwards,147,['Bree'],F,White (unmarked),656,172,0.7418283380389955
+202,member of the wedding - mccullers,78_92,"['Frankie', 'Frankie Addams', 'Frances', 'The old Frankie', 'Jasmine', 'the old Frankie', 'F. Jasmine']",F,White,3463,567,0.24290799938799618
+203,member of the wedding - mccullers,79,"['God', 'Berenice']",F,Black,1181,392,0.6288832330884767
+204,member of the wedding - mccullers,80,"['John Henry', 'John Henry West']",M,White,622,127,0.5741533526553292
+930,mayor of casterbridge - hardy,118,"['Michael Henchard', 'Michael', 'Susan Henchard', 'Henchard', 'Mike', 'Mr. Henchard']",M,White (unmarked),2558,451,0.5190588466737867
+931,mayor of casterbridge - hardy,117,"['Elizabeth', 'Jane', 'Elizabeth - Jane']",F,White,2022,294,0.6570414431637016
+932,mayor of casterbridge - hardy,146,['Lucetta'],F,White (unmarked),1057,155,0.72743635
+933,mayor of casterbridge - hardy,134,"['Donald Farfrae', 'Farfrae', 'Donald']",M,White,1055,157,0.5053315967840685
+934,mayor of casterbridge - hardy,119,['Susan'],F,White (unmarked),749,67,0.7615019191304626
+1136,marrow thieves - dimaline,0_60,['Frenchie'],M,Native/Indigenous,2699,207,0.38060558942965733
+1137,marrow thieves - dimaline,70,['Miig'],M,Native/Indigenous,750,197,0.5118723120614975
+1138,marrow thieves - dimaline,84,['Rose'],F,Native/Indigenous,499,98,0.49363441108294104
+1139,marrow thieves - dimaline,72,['Minerva'],F,Native/Indigenous,355,20,0.4672605410421575
+1140,marrow thieves - dimaline,71,['RiRi'],F,Native/Indigenous,276,66,0.5703097810689975
+659,mansfield park - austen,105,"['Fanny', 'Fanny Price']",F,White,5852,325,0.5703771542418996
+660,mansfield park - austen,100,"['Mr. Bertram', 'Bertram', 'Edmund']",M,White,1915,260,0.5905560060106304
+661,mansfield park - austen,92,"['Sir Thomas', 'Tom', 'Sir Thomas Bertram', 'Tom Bertram']",M,White,1353,129,0.6095259840452344
+662,mansfield park - austen,115,"['Miss Crawford', 'Crawford']",F,White,1200,168,0.6045513953251574
+663,mansfield park - austen,96,"['Mrs. Norris', 'aunt Norris', 'Norris']",F,White,875,108,0.6497943567639195
+664,mansfield park - austen,120,"['Mr. Crawford', 'Crawford']",M,White,806,57,0.5998220184370238
+1431,mama day - naylor,188_196,"['Mama', 'Miss Miranda', 'Miranda', 'Mama Day']",F,Black,2500,400,0.6540739173116527
+1430,mama day - naylor,0_195_210,"['Cocoa', 'Ophelia']",F,Black,2394,88,0.598645526
+1432,mama day - naylor,197_0,['George'],M,Black,2271,174,0.7382058176028906
+1433,mama day - naylor,225,"['Bernice Duvall', 'Bernice']",F,Black,601,47,0.7286528165803001
+1434,mama day - naylor,187,"['Abby', 'Miss Abigail', 'Abigail']",F,Black,593,177,0.5981499385054634
+291,main street - lewis,476,"['Carol', 'Carrie', 'Doc Kennicott', 'Carol Kennicott', 'Dr. Kennicott', 'Will Kennicott', 'Kennicott', 'Dr. Will Kennicott']",F,White (unmarked),5880,821,0.44805304465149975
+292,main street - lewis,494,"['Vida', 'Vida Sherwin', 'Miss Sherwin']",F,White,768,95,0.6718263267848815
+1200,maggie a girl of the streets - crane,12,['Jimmie'],M,White (unmarked),507,61,0.6832436710502864
+1201,maggie a girl of the streets - crane,15,['Pete'],M,White (unmarked),447,75,0.6949060265615006
+1199,maggie a girl of the streets - crane,11_282,"['the girl', 'Maggie', 'The girl']",F,White,413,22,0.566368885
+1198,maggie a girl of the streets - crane,153_20,"['Mary Johnson', 'Mary', 'The mother', 'the mother']",F,White,156,31,0.6011581715306862
+1286,madame bovary - flaubert,178,['Emma'],F,White,3314,355,0.5859211181734065
+1287,madame bovary - flaubert,173,['Charles'],M,White (unmarked),1706,169,0.6593252818791389
+1288,madame bovary - flaubert,168,"['Madame Bovary', 'Madame']",F,White,729,86,0.45978844296228893
+1289,madame bovary - flaubert,201,"['Monsieur Leon', 'Leon']",M,White (unmarked),696,75,0.7628831781738653
+1290,madame bovary - flaubert,218,"['Monsieur Boulanger', 'Rodolphe']",M,White (unmarked),679,140,0.7443665868762738
+176,love medicine - erdrich,117_0,['Marie'],F,Native/Indigenous,1830,134,0.8664262889114042
+178,love medicine - erdrich,112_0,"['Lamartine', 'the Lamartine', 'Lulu', 'Lulu Lamartine']",F,Native/Indigenous,1456,83,0.7905082711526861
+177,love medicine - erdrich,122_0,"['Kashpaw', 'Nector Kashpaw', 'Nector']",M,Native/Indigenous,1172,60,0.8691824451579341
+180,love medicine - erdrich,99_0,"['Lipsha', 'Lipsha Morrissey']",M,Native/Indigenous,1122,91,0.8765228454587285
+175,love medicine - erdrich,104_0,['Albertine'],F,Native/Indigenous,790,48,0.8554414017068286
+173,love medicine - erdrich,91,['Gordie'],M,Native/Indigenous,627,64,0.7682914690086521
+179,love medicine - erdrich,144_0,['Lyman'],M,Native/Indigenous,568,56,0.8206412255450501
+174,love medicine - erdrich,93,"['King', 'King Junior']",M,Native/Indigenous,541,97,0.8665791115929846
+642,lord of the flies - golding,25,['Ralph'],M,White,2488,668,0.48010410596112557
+643,lord of the flies - golding,30,"['Jack Merridew', 'Jack', 'Merridew', 'Johnny']",M,White,1016,374,0.5817339658418729
+644,lord of the flies - golding,26,['Piggy'],M,White (unmarked),891,311,0.5545000375392583
+645,lord of the flies - golding,39,['Simon'],M,White (unmarked),420,33,0.5704618178750827
+1021,lord jim - conrad,0_115,['Marlow'],M,White,3067,271,0.5112149386099716
+1022,lord jim - conrad,116,"['Tuan', 'Jim', 'Tuan Jim']",M,White,2884,299,0.6613734232537722
+1023,lord jim - conrad,171,['Brown'],M,White,594,72,0.5492229355016139
+1024,lord jim - conrad,154,"['Mr. Stein', 'Stein']",M,White,594,78,0.712260395
+935,look homeward angel - wolfe,542,"['Gene', 'Bessie Gant', 'Brother Gant', 'Gant', 'Eugene Gant', 'Mr. Gant', 'Eugene']",M,White,7130,1014,0.5548077898036778
+936,look homeward angel - wolfe,560,"['Elizabeth', 'Mrs. Gant', 'Eliza']",F,White,2432,604,0.6836711705600164
+937,look homeward angel - wolfe,554,"['Poor old Ben', 'Ben', 'Ben Jonson', 'Old Ben']",M,White,1085,281,0.64866775
+496,long way gone - beah,0_130,"['Ishmael', 'Ishmael Beah']",M,Black,4183,98,0.41897647011805494
+59,lolita - nabokov,0_355_360_398,['Humbert'],M,White,5280,225,0.19894460781699808
+60,lolita - nabokov,350,"['Lo', 'Lola', 'Dolly', 'Lolita', 'Dolores', 'my Lolita']",F,White,1479,181,0.614359899
+71,little women - alcott,131,"['Jo', 'Miss Jo', 'Poor Jo']",F,White,5408,872,0.6316155657446831
+72,little women - alcott,130,"['Mr. Laurence', 'Laurie']",M,White,3068,519,0.6931128016426426
+73,little women - alcott,247,['Amy'],F,White,2501,329,0.6753341916556765
+74,little women - alcott,139,"['Margaret', 'Meg']",F,White,2118,348,0.6725962673923576
+75,little women - alcott,136,"['Beth', 'my Beth']",F,White,1312,137,0.6155669673749607
+1498,linden hills - naylor,164,"['White', 'Willie']",M,Black,1987,434,0.7277501098850494
+1499,linden hills - naylor,166,"['Les', 'Lester']",M,Black,1105,389,0.6973553175327988
+1500,linden hills - naylor,155,"['Luther Nedeed', 'Nedeed', 'Luther', 'Mr. Nedeed']",M,Black,913,112,0.6940566272235097
+1501,linden hills - naylor,224,"['Laurel Dumont', 'Laurel']",F,Black,768,76,0.7646457977825613
+1502,linden hills - naylor,190,"['Reverend Hollis', 'Hollis']",M,Black,608,64,0.8597318162507585
+1123,like water for chocolate - esquivel,29,['Tita'],F,Latino/a/x,2525,84,0.4375216411412935
+1124,like water for chocolate - esquivel,34,['Pedro'],M,Latino/a/x,625,44,0.5762293147257233
+1125,like water for chocolate - esquivel,31,['Rosaura'],F,Latino/a/x,510,16,0.6457380267082814
+1126,like water for chocolate - esquivel,28,"['Mama Elena', 'Mama']",F,Latino/a/x,462,56,0.5075100040891347
+1127,like water for chocolate - esquivel,48,"['Dr. Brown', 'John', 'John Brown']",M,Latino/a/x,331,21,0.53653402
+1128,like water for chocolate - esquivel,32,['Gertrudis'],F,Latino/a/x,327,11,0.6354788260816242
+1129,like water for chocolate - esquivel,33,['Chencha'],F,Latino/a/x,272,8,0.5264377956789237
+449,light in august - faulkner,72,"['Byron', 'Byron Bunch', 'Bunch']",M,White (unmarked),1364,234,0.8818327822269376
+450,light in august - faulkner,75,"['Joey', 'Joe Brown', 'Brown']",M,White (unmarked),1259,103,0.8676427103476702
+451,light in august - faulkner,96,['Joe'],M,"Black, White",1128,106,0.8715360869706424
+452,light in august - faulkner,73,"['Christmas', 'Joe Christmas']",M,"White, Black",935,54,0.7485638913743616
+453,light in august - faulkner,79,['Hightower'],M,White,899,121,0.8678284944397706
+688,life of pi - martel,0,['Pi'],M,Asian,4754,220,0.5268353461945718
+689,life of pi - martel,174,['Richard Parker'],M,Non-human,1052,54,0.7351491047950726
+918,lesson before dying - gaines,0_58_99,"['Grant Wiggins', 'Grant']",M,Black,4480,677,0.5384741581765158
+919,lesson before dying - gaines,53,['Jefferson'],M,Black,1261,168,0.7436714332287749
+920,lesson before dying - gaines,68,['Vivian'],F,White,703,290,0.7812257519786181
+921,lesson before dying - gaines,56,"['Miss Emma', 'Emma']",F,White (unmarked),611,153,0.6629364112602711
+922,lesson before dying - gaines,153,"['my aunt', 'My aunt']",F,White (unmarked),509,124,0.6102916508374637
+475,left to tell - ilibagiza,0_85,"['Immaculee', 'Immaculee Ilibagiza']",F,Black,5158,220,0.3226540997797386
+476,left to tell - ilibagiza,80,['God'],M,Non-human,444,3,0.3689101867078888
+1378,latehomecomer - yang,0,"['Kao Kalia Yang', 'Kao']",F,Asian,4391,84,0.346735094
+1379,latehomecomer - yang,121,"['my grandma', 'My grandma', 'Grandma']",F,Asian,1184,42,0.6147546535495622
+1380,latehomecomer - yang,164,"['my mother', 'My mother']",F,Asian,1004,34,0.5683712983815784
+1381,latehomecomer - yang,165,"['My father', 'my father']",M,Asian,815,35,0.47801129500015543
+1382,latehomecomer - yang,123,['Dawb'],F,Asian,529,20,0.5527793917635351
+110,last of the mohicans - cooper,127_129,"['Heyward', 'Duncan', 'Major Heyward']",M,White,2034,419,0.572798886
+111,last of the mohicans - cooper,121_708,"['The scout', 'Hawkeye', 'the scout']",M,White,1760,512,0.6726336480593136
+112,last of the mohicans - cooper,144,['Magua'],M,Native/Indigenous,651,93,0.7194394408622993
+92,know my name - miller,0_156,"['Chanel Miller', 'Chanel']",F,"Asian, White",9826,24,0.1735601889340719
+93,know my name - miller,166,"['Brock', 'Turner', 'Brock Turner', 'TURNER']",M,White,565,7,0.5519243812543336
+1068,knock at the door - ahnert,0_120,"['Margaret Ajemian Ahnert', 'Margaret']",F,MENA,3859,214,0.2732796645900938
+1069,knock at the door - ahnert,102,"['your mother', 'mother', 'Mother', 'My mother', 'my mother']",F,MENA,958,213,0.7005462827931727
+278,kite runner - hosseini,0_244,['Amir'],M,MENA,6121,660,0.18278384262875652
+279,kite runner - hosseini,234,['Baba'],M,MENA,1583,259,0.6447493133753506
+280,kite runner - hosseini,233,['Hassan'],M,MENA,1229,140,0.612661099
+281,kite runner - hosseini,263,"['Sohrab', 'Sohrab jan']",M,MENA,1030,144,0.8070371931887669
+743,kindred - butler,0_65,['Dana'],F,Black,7669,1133,0.14100737197547325
+744,kindred - butler,73,"['Mister Rufus', 'Rufus', 'Marse Rufe', 'Mr. Weylin', 'Mister Rufe', 'Rufe']",M,White,2790,571,0.5769488109258507
+745,kindred - butler,64,['Kevin'],M,White,1532,424,0.6448204880314198
+746,kindred - butler,72,['Alice'],F,Black,908,199,0.713121838
+547,kafka on the shore - murakami,0_171,"['Kafka Tamura', 'Kafka']",M,Asian,6683,703,0.646596365
+548,kafka on the shore - murakami,183,"['Mr. Nakata', 'Nakata', 'a normal Nakata']",M,Asian,2638,445,0.7485504928815622
+549,kafka on the shore - murakami,228,"['Hoshino', 'Mr. Hoshino']",M,Asian,2448,862,0.7585404220082517
+550,kafka on the shore - murakami,174,['Oshima'],M,Asian,1542,678,0.7493996065141495
+551,kafka on the shore - murakami,177,['Miss Saeki'],F,Asian,1119,210,0.7627053267697032
+1038,just mercy - stevenson,0_147_152,"['Bryan Stevenson', 'Bryan']",M,Black,2050,147,0.6491654391268811
+1039,just mercy - stevenson,150,"['McMillian', 'Walter McMillian', 'Walter']",M,Black,1194,64,0.709098673
+1040,just mercy - stevenson,162,"['Ralph', 'Myers', 'Ralph Myers']",M,White,365,26,0.684540537
+296,jungle - sinclair,141,"['Jurgis Rudkus', 'Jurgis', 'poor Jurgis']",M,White,5840,466,0.6498521164436054
+297,jungle - sinclair,142,['Ona'],F,White,629,13,0.734560059
+1375,jumped in - flores-scott,0_149,"['SAM', 'Sam', 'Samuel']",M,White (unmarked),3386,195,0.23814499006378173
+1376,jumped in - flores-scott,150,"['LUIS', 'Luis', 'Luis Cardenas']",M,Latino/a/x,1176,158,0.5050854489149088
+1377,jumped in - flores-scott,148,"['Ms. Cassidy', 'Cassidy']",F,Black,326,86,0.592555098
+1564,jude the obscure - hardy,154,"['Fawley', 'Jude Fawley', 'Jude']",M,White (unmarked),5564,743,0.5386301681566149
+1565,jude the obscure - hardy,161,"['Sue', 'Sue Bridehead', 'Susanna', 'dear Sue']",F,White (unmarked),3101,520,0.7573124266713551
+1566,jude the obscure - hardy,157,"['Donn', 'Arabella']",F,White (unmarked),1128,312,0.7209024185615286
+982,joys of motherhood - emecheta,87,['Nnu Ego'],F,Black,3156,332,0.678449898
+983,joys of motherhood - emecheta,100,"['Owulum', 'Nnaife']",M,Black,1934,177,0.5345755842610047
+984,joys of motherhood - emecheta,88,"['Agbadi', 'Nwokocha Agbadi']",M,Black,739,79,0.7579657773344408
+985,joys of motherhood - emecheta,118,['Oshia'],M,Black,676,48,0.5675514780828208
+880,joy luck club - tan,0_157,"['Jing - mei', 'Jing-mei Woo', 'Jing - mei Woo', 'Jing-mei']",F,Asian,1529,97,0.8876569052570148
+882,joy luck club - tan,149_0,"['Auntie Lindo', 'Lindo']",F,Asian,1394,77,0.8350876672312263
+883,joy luck club - tan,159_0,['Waverly'],F,Asian,995,93,0.8352635365276262
+881,joy luck club - tan,147_0,"['An-mei', 'An - mei', 'Auntie An - mei']",F,Asian,842,31,0.8938553508206518
+884,joy luck club - tan,160_0,['Lena'],F,"Asian, White (unmarked)",812,49,0.8439869122456133
+885,joy luck club - tan,153_0,['Rose'],F,Asian,702,49,0.8694995281322484
+668,jasmine - mukherjee,0_219_220_244_247_315,"['Jase', 'Jyoti', 'Jasmine', 'Jane']",F,Asian,2958,210,0.19005201229483878
+669,jasmine - mukherjee,221,['Bud'],M,White,541,65,0.7447139200925608
+670,jasmine - mukherjee,234,['Du'],M,Asian,355,77,0.7066653416519203
+1516,jane eyre - bronte,0_151,"['Jane', 'Jane Eyre']",F,White,9850,898,0.3919028656984613
+1517,jane eyre - bronte,211,"['Rochester', 'Mr. Rochester']",M,White,2048,407,0.7122064274277349
+91,invisible man - ellison,0,['narrator'],M,Black,10194,1387,0.3667606174946826
+576,into the wild - krakauer,494_496,"['Chris McCandless', 'Alex', 'McCandless', 'Chris']",M,White,2421,127,0.7135132496591367
+577,into the wild - krakauer,0,"['Jon Krakauer', 'Jon']",M,White,968,11,0.6126207004747585
+1320,inheritance of loss - desai,445,['Sai'],F,"Asian, MENA",1009,134,0.6064409454228752
+1321,inheritance of loss - desai,449,['Biju'],M,Asian,968,123,0.7296155344986209
+1322,inheritance of loss - desai,608,"['the judge', 'The judge']",M,Asian,827,133,0.7093155974418559
+1323,inheritance of loss - desai,448,['Gyan'],M,Asian,754,106,0.7029165819499291
+1324,inheritance of loss - desai,611,"['the cook', 'The cook']",M,Asian,710,199,0.6399396097346324
+893,in the time of the butterflies - alvarez,198_0,"['Minerva Mirabal', 'Minerva']",F,Latino/a/x,2634,331,0.4972833417600592
+895,in the time of the butterflies - alvarez,253_0,"['Patria Mercedes', 'Patria']",F,Latino/a/x,1790,203,0.6817524490796215
+892,in the time of the butterflies - alvarez,191,"['Mama Dede', 'Mama', 'Dede']",F,Latino/a/x,1595,198,0.5707519427644352
+894,in the time of the butterflies - alvarez,199_0,['Maria Teresa'],F,Latino/a/x,1527,33,0.7931583568165376
+891,in the time of the butterflies - alvarez,0_192_193_194,"['Ded£', 'Ded6', 'Dedd', 'Mami', 'Dedé']",F,Latino/a/x,1067,133,0.6959022204597763
+454,in the lake of the woods - o'brien,218_230,"['Wade', 'Sorcerer', 'John', 'John Wade']",M,White (unmarked),2920,480,0.4604103336854659
+455,in the lake of the woods - o'brien,217,['Kathy'],F,White,1434,211,0.5698851080476769
+456,in the lake of the woods - o'brien,0,['narrator'],M,White (unmarked),376,7,0.6657751727266137
+457,in the lake of the woods - o'brien,222,"['Tony Carbo', 'Anthony L.', 'Tony', 'Tony ) Carbo']",M,White (unmarked),360,182,0.7123930629647178
+695,in cold blood - capote,396,"['Perry Edward Smith', 'Teddy', 'Smith', 'Perry', 'Tex John Smith', 'Perry Smith', 'Harrison Smith']",M,"White, Native/Indigenous",2163,288,0.5987382464798423
+696,in cold blood - capote,397,"['Richard Eugene Hickock', 'Richard Hickock', 'Dick', 'Hickock']",M,White,1558,321,0.6353169728210433
+697,in cold blood - capote,456,"['Al Dewey', 'Dewey', 'Alvin', 'Alvin Dewey', 'Al']",M,White,575,107,0.7197595672421274
+1337,immortal life of henrietta lacks - skloot,238,['Deborah'],F,Black,2484,414,0.7871306912527466
+1338,immortal life of henrietta lacks - skloot,234,"['Henrietta', 'Henrietta Lacks', 'Lacks']",F,Black,1256,42,0.5118978657478914
+1339,immortal life of henrietta lacks - skloot,0,"['Rebecca Skloot', 'Rebecca']",F,White,1238,104,0.6130930965743716
+1089,i rigoberta menchu - menchu,0,"['Rigoberta', 'Rigoberta Menchú']",F,"Native/Indigenous, Latino/a/x",3278,139,0.5524542862317319
+1090,i rigoberta menchu - menchu,194,"['My father', 'my father']",M,"Native/Indigenous, Latino/a/x",841,60,0.640452953
+1091,i rigoberta menchu - menchu,139,"['my mother', 'My mother']",F,"Native/Indigenous, Latino/a/x",700,41,0.633833004
+876,i know why the caged bird sings - angelou,0_197,"['Maya Angelou', 'Maya']",F,Black,3545,106,0.3533748778630248
+877,i know why the caged bird sings - angelou,155,"['Bailey', 'Daddy', 'Junior', 'Daddy Bailey', 'Bailey Johnson']",M,Black,906,110,0.5313009677571493
+878,i know why the caged bird sings - angelou,152,['Momma'],F,Black,697,157,0.5157795526951748
+879,i know why the caged bird sings - angelou,182,"['her mother', 'our mother', 'Mother', 'Mother Dear', 'his mother', 'my mother']",F,Black,510,64,0.7283487408639053
+1474,i am not your perfect mexican daughter - sanchez,0_119,['Julia'],F,Latino/a/x,6618,568,0.15973924898140648
+1475,i am not your perfect mexican daughter - sanchez,117,['Ama'],F,Latino/a/x,890,160,0.5608502913493593
+1476,i am not your perfect mexican daughter - sanchez,126,['Lorena'],F,Latino/a/x,800,188,0.680159071
+1477,i am not your perfect mexican daughter - sanchez,116,['Olga'],F,Latino/a/x,566,7,0.4801559056050691
+1478,i am not your perfect mexican daughter - sanchez,174,['Connor'],M,White,507,109,0.7730919165669939
+721,i am malala - yousafzai,0_318,['Malala'],F,MENA,3756,135,0.3355328680034558
+722,i am malala - yousafzai,8437,"['My father', 'my father']",M,MENA,1604,222,0.39423901133194733
+1157,hunger games - collins,0_54,['Katniss'],F,White,7365,578,0.16425070239721837
+1158,hunger games - collins,61,"['Peeta Mellark', 'Peeta']",M,White,1902,402,0.5833413944056607
+1159,hunger games - collins,60,['Haymitch'],M,White,531,108,0.6064197281961982
+1160,hunger games - collins,74,['Rue'],F,Black,452,87,0.6346076899771701
+1369,human being died that night - gobodo-madikizela,126,"['De Kock', 'de Kock']",M,White,1060,135,0.668624884
+1368,human being died that night - gobodo-madikizela,0_148,"['Pumla Gobodo-Madikizela', 'Pumla']",F,Black,1034,41,0.500377558
+348,howards end - forster,251,"['Margaret', 'Meg']",F,White,3047,914,0.47566982226077653
+349,howards end - forster,250,['Helen'],F,White,1693,493,0.5477697659339958
+350,howards end - forster,304,['Henry'],M,White (unmarked),842,160,0.8208113920324354
+351,howards end - forster,254,['Mr. Wilcox'],M,White,718,184,0.6102865576614976
+352,howards end - forster,286,"['Leonard Bast', 'Len', 'Leonard']",M,White (unmarked),689,112,0.7782448993305147
+1178,how the garcia girls lost their accents - alvarez,0_111_121_140_141,"['Yosita', 'Yolanda', 'Yoyo', 'Yo', 'Joe']",F,Latino/a/x,1919,187,0.6980756207668475
+1177,how the garcia girls lost their accents - alvarez,0_136_137,"['Sandra', 'Sandi']",F,Latino/a/x,797,60,0.6904765448668125
+1179,how the garcia girls lost their accents - alvarez,135_0,['Carla'],F,Latino/a/x,694,92,0.6923383790276435
+77,how does it feel to be a problem - bayoumi,471,['Lina'],F,MENA,1013,59,0.3210642494982717
+78,how does it feel to be a problem - bayoumi,392,['Sami'],M,MENA,959,76,0.8779927644984343
+79,how does it feel to be a problem - bayoumi,506,"['Rami', 'Abu Rami']",M,MENA,881,106,0.37107394471279226
+80,how does it feel to be a problem - bayoumi,424,['Yasmin'],F,MENA,845,73,0.26118503343085064
+81,how does it feel to be a problem - bayoumi,444,['Akram'],M,MENA,638,81,0.867037282
+82,how does it feel to be a problem - bayoumi,488,['Omar'],M,MENA,573,58,0.7762452199613299
+76,how does it feel to be a problem - bayoumi,0_394,"['Moustafa Bayoumi', 'Moustafa']",M,MENA,543,33,0.386036786
+83,how does it feel to be a problem - bayoumi,395,['Rasha'],F,MENA,488,31,0.5718757413502038
+373,housekeeping a novel - robinson,50,['Sylvie'],F,White (unmarked),1489,390,0.539276909
+372,housekeeping a novel - robinson,0_65,"['Ruth Stone', 'Ruth', 'Ruthie']",F,White (unmarked),1222,70,0.36017348423988393
+374,housekeeping a novel - robinson,53,['Lucille'],F,White,720,183,0.5635886385782642
+375,housekeeping a novel - robinson,95,"['my grandmother', 'My grandmother']",F,White (unmarked),181,3,0.5479558824090789
+1264,house on mango street - cisneros,0_46,"['Esperanza Cordero', 'Esperanza']",F,Latino/a/x,855,0,0.41000445101313476
+1265,house on mango street - cisneros,83,['Sally'],F,Latino/a/x,167,0,0.602206824
+1266,house on mango street - cisneros,45,['Nenny'],F,Latino/a/x,88,0,0.4853023270302222
+1449,house of the spirits - allende,0_159,['Alba'],F,Latino/a/x,3655,104,0.7924468427826563
+1450,house of the spirits - allende,111,"['Esteban Trueba', 'Esteban Garcia', 'Trueba', 'Esteban']",M,Latino/a/x,2144,75,0.721082981
+1451,house of the spirits - allende,101,['Clara'],F,Latino/a/x,2082,85,0.6928847719201011
+1452,house of the spirits - allende,141,['Blanca'],F,Latino/a/x,1771,44,0.684371979
+1453,house of the spirits - allende,145,['Jaime'],M,Latino/a/x,947,44,0.6741626822171306
+1454,house of the spirits - allende,143,"['Pedro Tercero', 'Pedro', 'old Pedro Garcia', 'Pedro Garcia', 'Pedro Tercero Garcia']",M,Latino/a/x,820,30,0.6839521374043346
+286,house of the scorpion - farmer,83,['Matt'],M,Latino/a/x,6307,672,0.14915720265726837
+287,house of the scorpion - farmer,94,['Maria'],F,Latino/a/x,1147,309,0.6545134320484645
+288,house of the scorpion - farmer,84,['Celia'],F,Latino/a/x,785,206,0.5450371155991444
+289,house of the scorpion - farmer,99,['El Patron'],M,Latino/a/x,745,86,0.48238367970174384
+290,house of the scorpion - farmer,112,"['Lin', 'Tam Lin']",M,White,578,147,0.5000629849015349
+434,house of seven gables - hawthorne,77_89,"['old Hepzibah', 'Miss Hepzibah Pyncheon', 'poor Hepzibah', 'Miss Hepzibah', 'Hepzibah', 'Cousin Hepzibah', 'Poor Hepzibah']",F,White,1294,148,0.6844989471766223
+435,house of seven gables - hawthorne,93,"['Cousin Phoebe', 'Phoebe', 'Miss Phoebe']",F,White,1192,163,0.7976429369270184
+436,house of seven gables - hawthorne,97,"['Clifford', 'Cousin Clifford']",M,White,1035,74,0.7930048715068236
+437,house of seven gables - hawthorne,66,"['Mr. Holgrave', 'Holgrave']",M,White (unmarked),414,77,0.7271714608024366
+438,house of seven gables - hawthorne,74,['Judge Pyncheon'],M,White,365,25,0.6760343320437913
+752,house of mirth - wharton,118,"['Lily', 'Lily Bart', 'Miss Bart', 'Miss Lily']",F,White,6604,454,0.4740792682134379
+753,house of mirth - wharton,117,"['Lawrence Selden', 'Mr. Selden', 'Selden', 'Lawrence']",M,White (unmarked),1879,152,0.7478503082058764
+754,house of mirth - wharton,131,"['Rosedale', 'Mr. Rosedale']",M,White,691,62,0.7165992235634078
+755,house of mirth - wharton,121,"['Gerty Farish', 'Gerty']",F,White (unmarked),594,47,0.7319642350849751
+1443,house made of dawn - momaday,121_0,['Ben'],M,Native/Indigenous,693,2,0.6880967597186797
+1440,house made of dawn - momaday,94,['Abel'],M,Native/Indigenous,662,9,0.7966278339023517
+1441,house made of dawn - momaday,123,['Milly'],F,White,240,2,0.6335314059504563
+1442,house made of dawn - momaday,104,['Father Olguin'],M,Latino/a/x,214,22,0.7738564936630015
+1402,house for mr biswas - naipaul,230,"['Alec', 'Biswas', 'Mr Biswas']",M,Asian,6803,1121,0.4399944472061486
+1403,house for mr biswas - naipaul,231,['Shama'],F,Asian,1808,325,0.6990343876449993
+1404,house for mr biswas - naipaul,328,['Anand'],M,Asian,1797,185,0.6773060231707875
+818,homegoing - gyasi,264_268,"['Sonny', 'Carson']",F,Black,919,57,0.8137571333712792
+819,homegoing - gyasi,158,"['James Collins', 'Richard', 'James']",M,White,866,51,0.8772225067456756
+820,homegoing - gyasi,288,['Marjorie'],F,Black,788,73,0.7375418304223764
+821,homegoing - gyasi,262,"['Ma Willie', 'Willie']",F,Black,726,56,0.7877195596961857
+822,homegoing - gyasi,145,['Effia'],F,Black,723,39,0.8413847046541373
+823,homegoing - gyasi,247,['Akua'],F,Black,699,29,0.8648182939088921
+824,homegoing - gyasi,170,['Esi'],F,Black,667,43,0.811971891
+825,homegoing - gyasi,260,['Yaw'],M,Black,665,52,0.8737031004801943
+1267,home to harlem - mckay,191,['Jake'],M,Black,1587,403,0.5593686569072274
+1268,home to harlem - mckay,202,['Zeddy'],M,Black,481,116,0.7356849913059128
+1269,home to harlem - mckay,250,['Ray'],M,Black,426,80,0.6195743440190972
+1270,home to harlem - mckay,212,"['Rose', 'Rosalind', 'the Congo']",F,Black,309,44,0.7432152311804927
+1271,home to harlem - mckay,219,['Susy'],F,"Black, White",268,44,0.7886781469215418
+544,holes - sachar,37,"['Stanley Yelnats', 'Stanley']",M,White (unmarked),3137,299,0.5325475392537744
+545,holes - sachar,55,['Zero'],M,"Black, MENA",1020,216,0.6067021914012093
+546,holes - sachar,107,"['The Warden', 'the Warden']",F,White,287,131,0.5651032950690804
+989,high wind in jamaica - hughes,103,['Emily'],F,White,1426,153,0.6162622030506054
+990,high wind in jamaica - hughes,129,"['Jonsen', 'Captain Jonsen']",M,Latino/a/x,562,57,0.5684174445741706
+991,high wind in jamaica - hughes,107,['Rachel'],F,White,244,52,0.5452444966689421
+1590,hen who dreamed she could fly - hwang,7,['Sprout'],F,Asian,1775,152,0.19514780554028358
+1591,hen who dreamed she could fly - hwang,13,['Greentop'],M,Asian,352,32,0.42224956928837226
+1592,hen who dreamed she could fly - hwang,10,['Straggler'],M,Asian,311,38,0.5701945867041697
+1593,hen who dreamed she could fly - hwang,1051,"['The weasel', 'the weasel']",F,Asian,217,18,0.4822079831361987
+604,help - stockett,240_0,"['Skeeter', 'Miss Skeeter']",F,White,5591,754,0.7488930541860475
+600,help - stockett,239_0,['Aibileen'],F,Black,4129,656,0.761889941
+601,help - stockett,237_0,"['Minny', 'Minny Jackson', 'Jackson']",F,Black,3760,565,0.738692944
+598,help - stockett,245,"['Miss Celia', 'Celia', 'Celia Foote']",F,White,1775,339,0.8179904191039948
+599,help - stockett,241,"['Hilly ’s', 'Hilly', 'Hilly Holbrook', 'Miss Hilly']",F,White,1538,293,0.6106616415200916
+602,help - stockett,285,"['my mother', 'Mother', 'his mother', 'your mother']",F,White,1094,260,0.7640410443587223
+603,help - stockett,233,['Miss Leefolt'],F,White,991,163,0.7403260554882222
+1261,heart of darkness - conrad,0_36,['Marlow'],M,White,1591,140,0.2901800174547933
+1262,heart of darkness - conrad,39,"['Kurtz', 'Mr. Kurtz']",M,White,636,76,0.5490511524402711
+1263,heart of darkness - conrad,542,"['the manager', 'The manager']",M,White,141,30,0.4351922336924045
+118,haunting of hill house - jackson,0_31,"['Eleanor Vance', 'Eleanor', 'Helen']",F,White (unmarked),3082,578,0.4460496825075109
+119,haunting of hill house - jackson,32,"['Theodora', 'Theo']",F,White (unmarked),1482,633,0.698958973
+120,haunting of hill house - jackson,178,"['the doctor', 'The doctor']",M,White (unmarked),1005,463,0.7443489334839464
+121,haunting of hill house - jackson,33,['Luke'],M,White (unmarked),770,327,0.6962749078788613
+1308,hate u give - thomas,0_101,['Starr'],F,Black,5352,826,0.2456763558579141
+1309,hate u give - thomas,123,"['Daddy', 'my daddy', 'your daddy']",M,Black,1518,608,0.6618578850201905
+1310,hate u give - thomas,129,"['his momma', 'Your momma', 'Momma', 'my momma', 'your momma']",F,Black,1145,490,0.5570940809318767
+1311,hate u give - thomas,119,"['Khalil Harris', 'Khalil']",M,Black,890,84,0.531234305
+1312,hate u give - thomas,109,['Chris'],M,White,868,217,0.6647519538474785
+1313,hate u give - thomas,103,['Seven'],M,Black,803,249,0.6379596009108379
+635,hard times - dickens,69,"['Mr. Bounderby', 'Bounderby', 'Josiah Bounderby', 'old Bounderby', 'Loo Bounderby']",M,White,1630,452,0.6591801759063899
+636,hard times - dickens,75,"['Tom', 'Mr. Gradgrind', 'young Tom', 'young Mr. Tom', 'Thomas Gradgrind', 'Thomas', 'Tom Gradgrind']",M,White,1461,409,0.7037538591019694
+637,hard times - dickens,83,"['Miss Louisa', 'Louisa']",F,White,1015,178,0.6969208922081903
+638,hard times - dickens,103,['Mrs. Sparsit'],F,White (unmarked),947,269,0.7762016581242074
+639,hard times - dickens,72,"['Stephen', 'Stephen Blackpool']",M,White (unmarked),871,115,0.836536668
+640,hard times - dickens,74,"['Harthouse', 'Mr. James Harthouse', 'James Harthouse', 'Jem', 'Mr. Harthouse']",M,White (unmarked),638,146,0.8433395496249754
+641,hard times - dickens,71,"['Cecilia Jupe', 'Sissy Jupe', 'Sissy', 'Jupe']",F,White,571,91,0.7828355975282213
+1343,handmaid s tale - atwood,0_4315,['Offred'],F,White,4869,198,0.335463936
+1344,handmaid s tale - atwood,177,"['The Commander', 'the Commander']",M,White,667,130,0.6245382430448564
+1345,handmaid s tale - atwood,85,['Moira'],F,White (unmarked),462,28,0.6307299471113388
+1346,handmaid s tale - atwood,93,"['Serena', 'Serena Joy']",F,White,417,52,0.6430871821638904
+1521,gulliver s travels - swift,0,['Gulliver'],M,White,5367,0,0.44573992729400025
+1522,gulliver s travels - swift,416,"['My master', 'my master']",M,Non-human,463,0,0.8391868011326512
+957,grendel - gardner,0_21,['Grendel'],M,Non-human,2018,158,0.37898134863418725
+958,grendel - gardner,20,['Hrothgar'],M,White,242,5,0.5234718926322616
+959,grendel - gardner,130,['the dragon'],M,Non-human,199,71,0.8146672604744967
+1484,great gatsby - fitzgerald,0_147,"['Nick', 'Nick Carraway']",M,White,1367,155,0.37380939700398574
+1485,great gatsby - fitzgerald,143,"['Jay Gatsby', 'Mr. Gatsby', 'Gatsby']",M,White,910,217,0.5823302952241842
+1486,great gatsby - fitzgerald,144,['Daisy'],F,White,669,183,0.658994163
+1487,great gatsby - fitzgerald,145,"['Tom Buchanan', 'Tom']",M,White,628,239,0.7275596850286097
+1488,great gatsby - fitzgerald,148,"['Jordan', 'Jordan Baker']",F,White,223,86,0.5955841579841824
+480,great expectations - dickens,0_142_143,"['Pip', 'Philip', 'Philip Pirrip']",M,White (unmarked),9837,783,0.29077836389113193
+481,great expectations - dickens,146,"['Joseph', 'dear Joe', 'Gargery', 'Joe', 'Joe Gargery', 'Mrs. Joe']",M,White,1204,361,0.71935829
+482,great expectations - dickens,195,"['Herbert Pocket', 'Herbert', 'Mr. Herbert']",M,White,1201,286,0.6620062950095924
+483,great expectations - dickens,165,"['Havisham', 'Miss Havisham']",F,White (unmarked),1163,224,0.683137778
+484,great expectations - dickens,166,"['Miss Estella', 'Estella']",F,White,1033,180,0.7238374073496286
+485,great expectations - dickens,187,"['Wemmick', 'Mr. Wemmick']",M,White (unmarked),1008,310,0.7846403427015296
+999,grapes of wrath - steinbeck,211_226,"['Tom Joad', 'Tom', 'Thomas', 'Joad', 'Tommy']",M,White (unmarked),4123,1496,0.6725414108334465
+1000,grapes of wrath - steinbeck,216,"['Ma', 'your ma']",F,White (unmarked),2963,1201,0.648923645
+1001,grapes of wrath - steinbeck,219,['Pa'],M,White (unmarked),1217,460,0.5476650179487519
+67,graffiti girl - parra,0_33,"['Angel Rodriguez', 'Angel']",F,Latino/a/x,4826,516,0.070538984
+68,graffiti girl - parra,41,"['Miguel Badalin', 'Miguel', 'Badalin']",M,Latino/a/x,1077,209,0.5142587668150731
+69,graffiti girl - parra,38,"['Nathan', 'Ramos']",M,Latino/a/x,941,208,0.7023735529542727
+70,graffiti girl - parra,34,['Beth'],F,White,770,164,0.6494126848983488
+814,good soldier - ford,178,"['Edward', 'Edward Ashburnham', 'Ashburnham']",M,White,2067,45,0.5898004109416157
+813,good soldier - ford,0_3580,"['John Dowell', 'John']",M,White,1971,18,0.43665041457494747
+815,good soldier - ford,175,['Leonora'],F,White,1845,102,0.5661509508095577
+816,good soldier - ford,174,"['Miss Hurlbird', 'Hurlbird', 'Florence']",M,White,1021,34,0.7410484429168254
+817,good soldier - ford,207,"['Nancy', 'Nancy Rufford']",F,White,639,27,0.792150347
+665,goldfinch - tartt,0_793,"['Theodore Decker', 'Theodore', 'Theo']",M,White (unmarked),14796,1701,0.23332808821375325
+666,goldfinch - tartt,889,['Boris'],M,White,3906,1652,0.8071590581226888
+667,goldfinch - tartt,786,"['Hobie', 'Hobie ’s']",M,White,1525,500,0.75391111
+605,golden bowl - james,93,['Maggie'],F,White (unmarked),5431,684,0.636296026
+606,golden bowl - james,143,"['the Prince', 'The Prince']",M,White,1528,248,0.6638096662295314
+607,golden bowl - james,127,"['Charlotte', 'Charlotte Stant']",F,White (unmarked),1460,176,0.5664849854832547
+608,golden bowl - james,96,['Mrs. Assingham'],F,White (unmarked),1159,387,0.720688702
+609,golden bowl - james,98,"['Fanny', 'Fanny Assingham']",F,White (unmarked),1136,253,0.6804072910534896
+610,golden bowl - james,210,"['Her father', 'her father']",M,White (unmarked),791,74,0.6484606980333179
+1081,going after cacciato - o'brien,316,"['Berlin', 'Paul Berlin', 'Private First Class Paul Berlin']",M,White,1358,198,0.4344386297233514
+1082,going after cacciato - o'brien,324,"['Spec Four Paul Berlin', 'Spec Four']",M,White (unmarked),810,68,0.8249681824179486
+1083,going after cacciato - o'brien,388,"['The lieutenant', 'the lieutenant']",M,White (unmarked),768,252,0.5831621908357936
+1084,going after cacciato - o'brien,320,"['Doc', 'Doc Peret']",M,White (unmarked),701,399,0.39576338592484384
+1085,going after cacciato - o'brien,314,"['Oscar', 'Oscar Johnson']",M,Black,661,334,0.4268858792286392
+1086,going after cacciato - o'brien,318,['Cacciato'],M,White (unmarked),594,51,0.5637475245468222
+1087,going after cacciato - o'brien,311,"['Stink', 'Stink Harris']",M,White (unmarked),462,141,0.5974395054072605
+1420,god of small things - roy,249,['Ammu'],F,Asian,1252,167,0.6473263145524193
+1421,god of small things - roy,243,"['Ambassador Rahel', 'Rahel']",F,Asian,1046,156,0.5641728441530236
+1422,god of small things - roy,245,"['Estha', 'Ambassador Estha']",M,Asian,960,123,0.5888233963676147
+1423,god of small things - roy,252,['Chacko'],M,Asian,878,122,0.6311304145062062
+1424,god of small things - roy,244,"['Baby Kochamma', 'Kochamma']",F,Asian,804,113,0.6223947984194356
+1425,god of small things - roy,255,['Velutha'],M,Asian,715,35,0.7166337060090741
+1426,god of small things - roy,254,['Mammachi'],F,Asian,447,43,0.6046506689354457
+652,go tell it on the mountain - baldwin,41,['John'],M,Black,1914,97,0.8193870178200671
+651,go tell it on the mountain - baldwin,107_60,"['Elizabeth', 'his mother', 'His mother']",F,Black,1482,139,0.6897560561537073
+653,go tell it on the mountain - baldwin,62,['Gabriel'],M,Black,942,88,0.733004662
+654,go tell it on the mountain - baldwin,57,"['Aunt Florence', 'Florence']",F,Black,490,114,0.6731827546533391
+655,go tell it on the mountain - baldwin,47,"['Elisha', 'Brother Elisha']",M,Black,467,102,0.7683470190013125
+656,go tell it on the mountain - baldwin,48,"['our God', 'God']",M,Non-human,422,22,0.3815477075933702
+1444,glass castle - walls,0,"['Jeanette', 'Jeanette Walls']",F,White,4015,388,0.3853492446014037
+1445,glass castle - walls,201,"['his dad', 'Dad']",M,White,2445,399,0.48425772635606623
+1446,glass castle - walls,200,['Mom'],F,White,2021,365,0.47512576228409675
+1447,glass castle - walls,204,['Lori'],F,White,592,95,0.4182326852484468
+1448,glass castle - walls,203,['Brian'],M,White,561,55,0.4135436155284209
+889,giver - lowry,12,['Jonas'],M,White (unmarked),3115,385,0.19603961712381038
+888,giver - lowry,1862_42,"['The Giver', 'Giver']",M,White (unmarked),562,213,0.5940639626599897
+890,giver - lowry,13,['Lily'],F,White (unmarked),305,57,0.6491308209664678
+133,girls burn brighter an unrestored women - rao,160,['Poornima'],F,Asian,3979,354,0.7409842080222013
+134,girls burn brighter an unrestored women - rao,161,['Savitha'],F,Asian,3032,260,0.6735120649028068
+135,girls burn brighter an unrestored women - rao,187,['Mohan'],M,Asian,547,122,0.6944706317037752
+1417,girl on the train - hawkins,109_0,"['RACHEL', 'Rachel']",F,White (unmarked),6308,351,0.7173321018606597
+1416,girl on the train - hawkins,112_0,"['MEGAN', 'Megan Hipwell', 'Megan']",F,White,2627,110,0.6800737513399864
+1415,girl on the train - hawkins,106_0,"['Anna Watson', 'ANNA', 'Anna', 'Mrs. Watson']",F,White (unmarked),1645,100,0.7181187820911994
+1413,girl on the train - hawkins,114,"['Scott Hipwell', 'Scott']",M,White,1426,265,0.655708228
+1414,girl on the train - hawkins,103,['Tom'],M,White (unmarked),1281,228,0.6250410745884292
+1561,gesture life - lee,0_114,"['Doc', 'Doc Hata']",M,Asian,5979,467,0.1739877370882052
+1562,gesture life - lee,124,"['Sunny', 'Sunny Medical Supply']",F,Asian,1384,241,0.7602699320100544
+1563,gesture life - lee,133,"['Mary', 'Mary Burns']",F,White,549,65,0.7844923303648514
+36,germinal - zola,162,['Étienne'],M,White (unmarked),2356,224,0.6810726294399717
+37,germinal - zola,171,['Catherine'],F,White,1465,93,0.6914622538465617
+38,germinal - zola,184,['Maheude'],F,White (unmarked),747,140,0.6712797071330887
+39,germinal - zola,191,['Chaval'],M,White (unmarked),734,93,0.6953474679513462
+630,gathering of old men - gaines,111,['Mapes'],M,White,1332,391,0.7379587580873768
+631,gathering of old men - gaines,90,['Candy'],F,White,771,154,0.7236540348327712
+632,gathering of old men - gaines,174,['Gil'],M,White,569,122,0.8252695659037805
+633,gathering of old men - gaines,99,['Mathu'],M,Black,510,49,0.6515356557586531
+634,gathering of old men - gaines,103,['Charlie'],M,Black,480,65,0.7771872827826541
+1041,gabi a girl in pieces - quintero,0_118_68,"['Gabi', 'Gabriela']",F,Latino/a/x,4487,154,0.21039217453715756
+1042,gabi a girl in pieces - quintero,69,"['Cindy', 'CINDY']",F,Latino/a/x,558,28,0.4700473238252081
+1043,gabi a girl in pieces - quintero,140,"['my mom', 'My mom']",F,Latino/a/x,536,39,0.4200315679921223
+1044,gabi a girl in pieces - quintero,82,"['MARTIN', 'Martin']",M,Latino/a/x,446,35,0.5907615035017505
+1045,gabi a girl in pieces - quintero,70,['Sebastian'],M,Latino/a/x,350,22,0.41525905920450473
+1046,gabi a girl in pieces - quintero,256,"['my dad', 'My dad']",M,Latino/a/x,340,7,0.5667828759760343
+468,friday night lights - bissinger,481,"['Boobie', 'Boobie Miles']",M,Black,1037,65,0.791865015
+469,friday night lights - bissinger,491,"['Winchell', 'Mike', 'Mike Winchell']",M,White,476,17,0.7806310203010153
+470,friday night lights - bissinger,495,"['Ivory', 'Ivory Christian']",M,Black,445,27,0.7353174378144303
+1251,free life a novel - jin,435,"['Nan Wu', 'NAN', 'Nan']",M,Asian,7946,1099,0.3896507114167083
+1252,free life a novel - jin,434,"['Pingping', 'Both Pingping']",F,Asian,2059,485,0.5876927006214612
+749,frankenstein - shelley,0_124,"['Victor', 'Victor Frankenstein']",M,White,3902,81,0.8551192896069382
+750,frankenstein - shelley,1205,['The being'],M,Non-human,1069,150,0.907379143
+751,frankenstein - shelley,121,['Elizabeth'],F,White,376,30,0.7416112570369165
+422,for whom the bell tolls - hemingway,255,"['Robert Jordan', 'Jordan', 'ROBERT JORDAN']",M,White,3984,1496,0.6703850667272045
+423,for whom the bell tolls - hemingway,260,['Pablo'],M,White,1854,599,0.6883972791537043
+424,for whom the bell tolls - hemingway,280,"['the Pilar', 'Pilar']",F,White,1356,771,0.6712272396151515
+425,for whom the bell tolls - hemingway,266,"['Maria', 'the Maria']",F,White,1205,405,0.6731530523549131
+263,flight - alexie,0_51,['Zits'],M,Native/Indigenous,3178,319,0.3618994999553096
+264,flight - alexie,80,['Jimmy'],M,White,338,44,0.7184820089113936
+193,fixer - malamud,102,"['Yakov', 'Yakov Shepsovitch', 'Bok', 'Yakov Ivanovitch Dologushev', 'Yakov Ivanovitch', 'Yakov Bok']",M,White,3248,354,0.4240851037595162
+194,fixer - malamud,245,"['The fixer', 'the fixer']",M,White,1425,162,0.47205361598419454
+195,fixer - malamud,125,['Dologushev'],M,White,770,37,0.6020153756941498
+1272,fist stick knife gun - canada,0,"['Geoffrey', 'Geoffrey Canada']",M,Black,2512,79,0.4188394114578355
+383,first they killed my father - ung,0_98,"['Loung', 'Loung Ung']",F,Asian,4763,243,0.4182335488131462
+384,first they killed my father - ung,94,['Ma'],F,Asian,1130,122,0.5495290886191424
+385,first they killed my father - ung,95,"['PA', 'Pa']",M,Asian,982,101,0.543532969
+386,first they killed my father - ung,99,['Kim'],M,Asian,603,37,0.546298435
+1245,fine balance - mistry,129,"['Dina', 'Dina Aunty', 'Dina Dalal', 'Aunty']",F,Asian,3302,871,0.8107376361108101
+1246,fine balance - mistry,116,"['Maneck Kohlah', 'Maneck', 'Kohlah']",M,Asian,3216,632,0.8558689887415886
+1247,fine balance - mistry,117,['Ishvar'],M,Asian,2362,928,0.7718229250078934
+1248,fine balance - mistry,118,['Om'],M,Asian,1637,590,0.7690022494802112
+1530,fifth business - davies,0,"['Dunstan', 'Dunstan Ramsey']",M,White (unmarked),4640,170,0.37172991772318176
+788,felix ever after - callender,0_79,"['Felix', 'Felix Love']",M,Black,7293,603,0.20396509482161615
+789,felix ever after - callender,78,['Ezra'],M,"Asian, Black",2389,575,0.5334721256525495
+790,felix ever after - callender,81,"['Declan Keane', 'Declan']",M,"Black, Latino/a/x, White",1708,271,0.6521876713798858
+791,felix ever after - callender,83,['Leah'],F,White,549,184,0.6734553879832392
+10,feed - anderson,0_110,['Titus'],M,White (unmarked),2898,314,0.2857328318154645
+11,feed - anderson,113,['Violet'],F,White (unmarked),1272,244,0.5478827585687616
+1273,farewell to arms - hemingway,0_4637,"['Frederic Henry', 'Frederic']",M,White (unmarked),4021,1256,0.23611005860240358
+1274,farewell to arms - hemingway,214,"['Catherine Barkley', 'Cat', 'Catherine']",F,White,1390,768,0.7957941153892034
+1275,farewell to arms - hemingway,205,['Rinaldi'],M,White,426,229,0.7446122309771588
+1185,fahrenheit 451 - bradbury,56,"['Montag', 'Mr. Montag']",M,White,1620,298,0.4347851022032532
+1186,fahrenheit 451 - bradbury,52,"['Mildred', 'Millie']",F,White,349,118,0.6206146938206234
+1187,fahrenheit 451 - bradbury,66,['Faber'],M,White,299,98,0.6433236423699022
+1188,fahrenheit 451 - bradbury,58,"['Beatty', 'Captain Beatty']",M,White,296,106,0.5945579959843219
+596,extremely loud and incredibly close - foer,0_200,"['Oskar', 'Oskar Schell']",M,White,7480,1324,0.519883389
+597,extremely loud and incredibly close - foer,190,"['my dad', 'My dad', 'Dad', 'your dad']",M,White,466,81,0.5861068272805985
+1541,evicted - desmond,269,['Arleen'],F,Black,1179,159,0.7888978512283044
+1542,evicted - desmond,271,['Sherrena'],F,Black,919,176,0.738057526
+1543,evicted - desmond,312,['Scott'],M,White,691,78,0.8592879543631565
+1544,evicted - desmond,301,"['Crystal', 'Tina', 'Chris']",F,Black,669,84,0.8382229369151079
+1545,evicted - desmond,304,['Larraine'],F,White,664,83,0.8178860307106262
+509,everything i never told you - ng,95,['Lydia'],F,"Asian, White",2458,176,0.7135801007315646
+510,everything i never told you - ng,96,['Marilyn'],F,White,2105,207,0.6309990688755471
+511,everything i never told you - ng,104,['James'],M,Asian,1599,184,0.605858976
+512,everything i never told you - ng,99,['Nath'],M,"Asian, White",1580,131,0.634333928
+513,everything i never told you - ng,100,['Hannah'],F,"Asian, White",652,45,0.6392407446359967
+514,everything i never told you - ng,113,['Jack'],M,White,611,90,0.7390096862715773
+691,eva luna - allende,0_101,"['Eva', 'Eva Luna']",F,"Native/Indigenous, White, Latino/a/x",3300,104,0.6897444346144017
+692,eva luna - allende,112,"['Rolf Carle', 'Carle', 'Rolf']",M,White,1019,40,0.802739819
+693,eva luna - allende,120,"['Huberto Naranjo', 'Naranjo', 'Huberto']",M,Latino/a/x,554,53,0.731126363
+694,eva luna - allende,129,"['Santa Maria', 'Mimi']",F,Latino/a/x,490,69,0.7761552343179635
+727,ethan frome - wharton,30,"['Ethan Frome', 'Frome', 'Ethan']",M,White,2033,248,0.24190617051169408
+726,ethan frome - wharton,276_39,"['the girl', 'Mattie', 'Mattie Silver', 'Matt']",F,White,993,129,0.46564028670920427
+728,ethan frome - wharton,37,['Zeena'],F,White (unmarked),537,79,0.6435330426101198
+729,ethan frome - wharton,0,['narrator'],M,White (unmarked),195,16,0.839132954
+740,enrique s journey - nazario,145,['Enrique'],M,Latino/a/x,2822,124,0.5466953880703208
+741,enrique s journey - nazario,144,"['Aunt Lourdes', 'Lourdes']",F,Latino/a/x,938,74,0.7966310285873277
+742,enrique s journey - nazario,165,['Maria Isabel'],F,Latino/a/x,303,19,0.7715502951055815
+477,english patient - ondaatje,320,"['Caravaggio', 'David']",M,White,1141,67,0.7138570123789266
+478,english patient - ondaatje,322,['Hana'],F,White,1061,65,0.6032968403803922
+479,english patient - ondaatje,339,['Kip'],M,Asian,614,49,0.7565027328091994
+392,ender s game - card,93,"['Ender', 'Ender Wiggin', 'Wiggin']",M,White,5706,806,0.5324177041413201
+393,ender s game - card,94,"['Peter', 'Peter Wiggin']",M,White,862,140,0.7226768585050861
+394,ender s game - card,97,"['Valentine', 'Val']",F,White,621,156,0.718527957
+1276,emma - austen,79,"['Emma Woodhouse', 'dear Emma', 'Emma']",F,White,4376,577,0.45891979580145853
+1277,emma - austen,107,"['Harriet', 'Harriet Smith']",F,White,1775,137,0.6795184540475768
+1278,emma - austen,87,"['Knightley', 'John', 'John Knightley', 'Mr. John Knightley', 'Mr. Knightley']",M,White,1768,296,0.6169674083062715
+1279,emma - austen,120,"['Miss Fairfax', 'Jane', 'Jane Fairfax']",F,White,1285,65,0.7733211880752069
+1280,emma - austen,97,"['Frank', 'Mr. Churchill', 'Mr. Frank Churchill', 'Frank Churchill']",M,White,1095,98,0.7446805664762826
+1281,emma - austen,90,"['Elton', 'Mr. Elton']",M,White,933,77,0.6934063126587836
+1282,emma - austen,84,"['Weston', 'Mrs. Weston']",F,White,790,124,0.615489295
+671,elmet - mozley,0_42,['Daniel'],M,White,2375,142,0.37960677603117526
+672,elmet - mozley,40,"['my Daddy', 'Daddy', 'your Daddy', 'Your Daddy']",M,White,1478,86,0.4717969303174937
+673,elmet - mozley,41,['Cathy'],F,White,1074,152,0.49712344254078755
+674,elmet - mozley,56,"['Price', 'Mr Price']",M,White,664,91,0.6589766858876422
+675,elmet - mozley,55,['Vivien'],F,White,314,33,0.7039715300187739
+363,educated - westover,0_174_3706,"['Tara', 'Tara Westover']",F,White (unmarked),7881,228,0.22883169977671092
+364,educated - westover,159,['Dad'],M,White (unmarked),1603,241,0.5169986199344196
+365,educated - westover,162,"['her mother', 'your mother', 'Mother', 'My mother', 'his mother', 'my mother']",F,White (unmarked),1394,166,0.5265072389724904
+366,educated - westover,179,['Shawn'],M,White (unmarked),1255,154,0.7365356562234736
+1384,east of eden - steinbeck,271,"['Adam Trask', 'Mr. Trask', 'Adam', 'Trask']",M,White (unmarked),5629,1381,0.7724683947333063
+1383,east of eden - steinbeck,307_341,"['Kate', 'Miss Kate', 'Cathy']",F,White (unmarked),3286,595,0.8176454564379889
+1385,east of eden - steinbeck,321,"['Lee', 'Roy']",M,Asian,2801,931,0.7769474355620244
+1386,east of eden - steinbeck,356,"['Cal', 'Caleb']",M,White (unmarked),2426,693,0.803338494
+1387,east of eden - steinbeck,267,"['Sam', 'Sam Hamilton', 'Samuel Hamilton', 'Samuel']",M,White,2202,590,0.8172039211914972
+1388,east of eden - steinbeck,363,['Aron'],M,White (unmarked),1240,261,0.7473805885033212
+226,dreams from my father - obama,0_352,"['Barack Obama', 'Barack']",M,"Black, White",5960,278,0.4181092512995643
+1479,dreaming in cuban - garcia,254_0,"['Abuela Celia', 'Celia', 'Abuela']",F,Latino/a/x,1460,62,0.6908188210530042
+1480,dreaming in cuban - garcia,265,['Lourdes'],F,Latino/a/x,1117,93,0.7900478897713955
+1481,dreaming in cuban - garcia,264,['Felicia'],F,Latino/a/x,1051,59,0.7556184347055315
+1482,dreaming in cuban - garcia,261_0,['Pilar'],F,Latino/a/x,1030,31,0.7703351487603032
+1483,dreaming in cuban - garcia,258_0,['Ivanito'],M,Latino/a/x,442,13,0.7004686207320147
+464,dracula - stoker,223_0,"['JONATHAN HARKER', 'Harker', 'Jonathan', 'Jonathan Harker']",M,White (unmarked),2535,97,0.7872417146345828
+465,dracula - stoker,226_0,"['Seward', 'John', 'Dr. Seward', 'friend John']",M,White (unmarked),2290,176,0.7888751763909099
+461,dracula - stoker,229_0,"['Mina', 'Madam Mina', 'Mina Murray', 'MINA HARKER', 'Mina Harker']",F,White (unmarked),2255,126,0.7521682791884425
+459,dracula - stoker,228_4815,"['VAN HELSING', 'Dr. Van Helsing', 'the Professor', 'Van Helsing', 'The Professor']",M,White (unmarked),2146,357,0.8649534014979214
+460,dracula - stoker,224_0,"['Lucy', 'Miss Lucy', 'Miss Westenra', 'Lucy Westenra', 'poor Lucy']",F,White,1376,48,0.758611267
+462,dracula - stoker,347,"['The Count', 'the Count']",M,White,664,26,0.7991599853113687
+463,dracula - stoker,253,"['Arthur Holmwood', 'Art', 'Arthur']",M,White (unmarked),656,69,0.6046850537752471
+1168,down these mean streets - thomas,0_204,"['Piri Thomas', 'Piri']",M,"Latino/a/x, Black",7594,1186,0.2616096274216043
+1169,down these mean streets - thomas,192,['Poppa'],M,"Latino/a/x, Black",607,142,0.7394209634146945
+1170,down these mean streets - thomas,278,['Brew'],M,Black,565,263,0.8155483932910842
+466,don quixote - cervantes,527,"['brother Sancho', 'friend Sancho', 'Don Sancho Panza', 'SANCHO PANZA', 'Sancho Panza', 'Panza', 'Sancho']",M,White,8858,1447,0.7667952253385425
+467,don quixote - cervantes,509,"['Don Quixote', 'Don Quixote of La Mancha', 'La Mancha']",M,White,8172,1541,0.6968374041533576
+1215,doctor zhivago - pasternak,1913_491,"['the doctor', 'Yuri Andreevich', 'The doctor']",M,White,3198,386,0.7508116646587133
+1216,doctor zhivago - pasternak,407,['Lara'],F,White,889,85,0.7890461075077133
+583,divergent - roth,0_54,"['Tris Prior', 'Tris']",F,White,9696,805,0.15787166513859896
+584,divergent - roth,47_55,"['Tobias', 'Four']",M,White,1933,431,0.6490763774858993
+585,divergent - roth,48,['Christina'],F,Black,710,184,0.6521484722455014
+216,distance between us - grande,0_210,['Reyna'],F,Latino/a/x,6539,304,0.2689928759999732
+217,distance between us - grande,211,['Mago'],F,Latino/a/x,1852,375,0.4369212568124065
+218,distance between us - grande,214,"['my papi', 'Papi']",M,Latino/a/x,1282,162,0.5592866596043186
+219,distance between us - grande,212,['Mami'],F,Latino/a/x,1067,136,0.6437279722727061
+220,distance between us - grande,209,['Carlos'],M,Latino/a/x,1034,151,0.5019565149624026
+867,dispatches - herr,0,"['Michael', 'Michael Herr']",M,White,1385,57,0.42255854502737367
+868,dispatches - herr,404,"['Page', 'Tim Page']",M,White,283,36,0.8305394032130712
+1551,discovering wes moore - moore,0_123,"['Wes', 'Wes Moore']",M,Black,2513,121,0.2599092945824287
+1552,discovering wes moore - moore,182,"['my mother', 'My mother']",F,Black,225,28,0.5969740324876923
+242,diary of a young girl - frank,0_163,"['Anne', 'Anne Frank']",F,White,5272,193,0.3675813671073707
+243,diary of a young girl - frank,212,"['Peter', 'Peter van Daan']",M,White,1250,79,0.63060237
+244,diary of a young girl - frank,169,"['a mother', 'my mother', 'Mother', 'his mother']",F,White,482,26,0.3114210817885098
+245,diary of a young girl - frank,189,['Father'],M,White,473,37,0.3608577392956904
+1504,death in venice - mann,49,['Aschenbach'],M,White,1113,47,0.523015955
+1503,death in venice - mann,485_53,"['the boy', 'Tadzio']",M,White,272,2,0.47875211795093014
+367,dear martin - stone,0_69_71,"['Jus', 'Justyce McAllister', 'Justyce']",M,Black,2953,545,0.1668267325481195
+368,dear martin - stone,72,"['Emmanuel', 'Manny', 'Emmanuel Rivers']",M,Black,696,189,0.5023477315151416
+369,dear martin - stone,79,['SJ'],F,White,465,98,0.6100632220711785
+370,dear martin - stone,92,"['Jared', 'Jared Christensen']",M,White,337,46,0.6704915210506083
+371,dear martin - stone,91,['Doc'],M,"Black, White (unmarked)",301,79,0.6727326654229747
+869,david copperfield - dickens,0_248,"['David', 'David Copperfield']",M,White,17341,1464,0.2963694458938763
+870,david copperfield - dickens,523,"['my aunt', 'My aunt']",F,White,2132,638,0.8285997024332055
+871,david copperfield - dickens,247,"['Mr. Peggotty', 'Peggotty']",F,White,2126,499,0.7604988637636813
+872,david copperfield - dickens,315,"['Mr. Micawber', 'Master Micawber', 'Micawber']",M,White,2099,352,0.8614548746975607
+702,darius the great is not okay - khorram,0_164,"['Darius', 'Darius Kellner']",M,"MENA, White",4660,528,0.10202128186281599
+703,darius the great is not okay - khorram,212,['Sohrab'],M,MENA,1411,489,0.5592305762823655
+704,darius the great is not okay - khorram,170,"['My dad', 'Your dad', 'my dad', 'your dad', 'Dad']",M,White,915,261,0.5050253641636689
+705,darius the great is not okay - khorram,169,"['my mom', 'his mom', 'Mom', 'your mom']",F,MENA,594,180,0.4416760974743699
+706,darius the great is not okay - khorram,180,['Laleh'],F,"MENA, White",545,69,0.537675319
+707,darius the great is not okay - khorram,185,['Babou'],M,MENA,520,150,0.5932286464379104
+708,darius the great is not okay - khorram,186,['Mamou'],F,MENA,379,123,0.4300781720018197
+258,dancing in the mosque - qaderi,0,['Homeria'],F,MENA,3417,202,0.2079136840020418
+1,daisy miller - james,43,"['Winterbourne', 'Mr. Winterbourne']",M,White,1048,209,0.22277936167314777
+0,daisy miller - james,147_42,"['Daisy Miller', 'Miss Miller', 'the young girl', 'Daisy', 'Miss Daisy Miller', 'Miss Daisy', 'The young girl']",F,White (unmarked),1043,225,0.3088378265666015
+2,daisy miller - james,54,"['Mr. Giovanelli', 'Giovanelli']",M,White,170,16,0.2966653336573579
+3,daisy miller - james,51,['Mrs. Miller'],F,White,155,44,0.58981605
+4,daisy miller - james,53,['Mrs. Walker'],F,White,149,41,0.5588335695477638
+5,daisy miller - james,44,['Randolph'],M,White,130,26,0.5502151888865131
+167,crying in h mart - zauner,0_1881_220,"['Michelle', 'Michelle Zauner']",F,"White, Asian",4451,171,0.18605131298507455
+168,crying in h mart - zauner,297,"['my mother', 'My mother']",F,Asian,1514,135,0.43173279021886185
+169,crying in h mart - zauner,454,"['My father', 'my father']",M,White,549,67,0.5220397237538064
+391,cry the beloved country - paton,177,"['Kumalo', 'Stephen Kumalo']",M,Black,711,0,0.5960278762845033
+724,crossing - mccarthy,284_907,"['Billy', 'Billy Parham', 'the man', 'Parham', 'The man']",M,White (unmarked),3075,25,0.673778788
+723,crossing - mccarthy,283_422,"['The boy', 'the boy', 'Boyd']",M,White (unmarked),2634,19,0.6223197505530366
+725,crossing - mccarthy,8955,"['the old man', 'The old man']",M,White (unmarked),821,9,0.8182403556687139
+794,crime and punishment - dostoevsky,107,"['Rodion Romanovitch', 'Raskolnikov', 'Rodion']",M,White,6361,1007,0.6266980199224336
+793,crime and punishment - dostoevsky,132_161,"['Porfiry Petrovitch', 'Porfiry', 'Luzhin', 'Pyotr Petrovitch Luzhin', 'Pyotr Petrovitch']",M,White,2660,407,0.8459940266516808
+795,crime and punishment - dostoevsky,139,"['Mr. Razumihin', 'Razumihin']",M,White,1692,390,0.7936824924053291
+796,crime and punishment - dostoevsky,113,['Sonia'],F,White,1653,211,0.8501266351181246
+797,crime and punishment - dostoevsky,130,"['Mr. Svidrigaïlov', 'Svidrigaïlov']",M,White,1185,187,0.8743982121246213
+798,crime and punishment - dostoevsky,129,['Dounia'],F,White,1038,152,0.8292425911894026
+17,country of the pointed firs - jewett,0,['narrator'],F,White (unmarked),1360,128,0.2111096593789222
+18,country of the pointed firs - jewett,79,['Mrs. Todd'],F,White (unmarked),480,97,0.49242755687693035
+19,country of the pointed firs - jewett,105,['Joanna'],F,White (unmarked),211,25,0.8225344467785466
+20,country of the pointed firs - jewett,91,['William'],M,White (unmarked),162,7,0.5741456683031688
+431,count of monte cristo - dumas,1473_701_778,"['The Count of Monte Cristo', 'The count', 'the Count of Monte Cristo', 'the elder Dantès', 'Dantès', 'M. de Monte Cristo', 'the count', 'de Monte Cristo', 'old Dantès', 'Edmond Dantès', 'Edmond', 'Monte Cristo', 'the Count', 'Count']",M,White,11705,3528,0.7520050301505696
+432,count of monte cristo - dumas,850,"['Morcerf', 'Albert', 'Madame de Morcerf', 'Albert de Morcerf', 'M. de Morcerf']",M,White (unmarked),3468,1133,0.7958497400093327
+433,count of monte cristo - dumas,698,"['Maximilian', 'Madame Morrel', 'M. Maximilian Morrel', 'M. Morrel', 'M. d’Avrigny', 'Morrel', 'Maximilian Morrel', 'Monsieur Morrel']",M,White (unmarked),3325,767,0.8487198789191441
+586,coming through slaughter - ondaatje,98,"['Bolden', 'Buddy', 'Buddy Bolden']",M,Black,802,23,0.6554601958018043
+587,coming through slaughter - ondaatje,114,['Webb'],M,Black,312,8,0.6064570939510061
+588,coming through slaughter - ondaatje,126,['Bellocq'],M,White,272,1,0.7091986508051723
+589,coming through slaughter - ondaatje,110,"['Nora Bass', 'Nora']",F,Black,243,3,0.5017927436646235
+590,coming through slaughter - ondaatje,129,"['Pickett', 'Tom Pickett']",M,Black,171,3,0.6838717637242796
+1059,coming of age in mississippi - moody,0_323,"['Anne', 'Anne Moody']",F,Black,8358,639,0.3360462689330861
+1060,coming of age in mississippi - moody,187,['Mama'],F,Black,1539,208,0.656296399
+1104,color purple - walker,0_85,"['Miss Celie', 'Celie', 'Dear Celie']",F,Black,4009,0,0.2776117114721677
+1105,color purple - walker,101,['Sofia'],F,Black,815,0,0.7642631438153401
+1106,color purple - walker,94,['Harpo'],M,Black,557,0,0.7662619776725874
+1107,color purple - walker,116,"['Shug', 'Shug Avery']",F,Black,492,0,0.609352379
+1353,color of water - mcbride,0_342,"['James McBride', 'James']",M,"Black, White",3459,195,0.33519002226526257
+1354,color of water - mcbride,291,['Mommy'],F,White,954,209,0.6574559389612529
+960,coldest winter ever - souljah,0,"['Winter', 'Winter Santiaga']",F,Black,7988,794,0.3387169435801297
+961,coldest winter ever - souljah,166,"['Santiaga', 'Ricky Santiaga']",M,Black,837,46,0.5813401107953263
+962,coldest winter ever - souljah,208,['Bullet'],M,Black,801,145,0.8490382079732276
+963,coldest winter ever - souljah,179,['Midnight'],M,Black,783,113,0.7158975696691107
+1055,cold mountain - frazier,168,['Inman'],M,White,4030,0,0.8206117882620592
+1056,cold mountain - frazier,183,"['Ada', 'Monroe']",F,White,2641,0,0.7684217422577949
+1057,cold mountain - frazier,203,['Ruby'],F,White (unmarked),980,0,0.7223902629291288
+1058,cold mountain - frazier,214,['Stobrod'],M,White (unmarked),901,0,0.8114840107541066
+1508,clotel - brown,136,['Clotel'],F,"Black, White",316,22,0.6763521734577089
+1509,clotel - brown,153,"['Carlton', 'Mr. Carlton']",M,White,286,67,0.6718998227858519
+12,circuit - jimenez,0_77,['Francisco'],M,Latino/a/x,1509,114,0.2714055450598058
+13,circuit - jimenez,68,['Papa'],M,Latino/a/x,481,105,0.4198344707544602
+14,circuit - jimenez,69,['Mama'],F,Latino/a/x,343,66,0.4818718825738295
+15,circuit - jimenez,70,['Roberto'],M,Latino/a/x,318,52,0.4184375563092021
+16,circuit - jimenez,81,['Torito'],M,Latino/a/x,142,0,0.509364342
+359,circe - miller,0_74,['Circe'],F,White,8223,926,0.1766288830969787
+360,circe - miller,143,['Telemachus'],M,White,788,147,0.6889619023927351
+361,circe - miller,177,"['My father', 'my father']",M,White,760,113,0.5227238672863498
+362,circe - miller,151,['Telegonus'],M,White,658,100,0.6036123521700026
+61,cider house rules - irving,376,"['Homer', 'Homer Wells']",M,White (unmarked),7225,987,0.7080401115862005
+62,cider house rules - irving,370,"['Doctor Larch', 'Wilbur', 'young Larch', 'Dr. Larch', 'Dr. Wilbur Larch', 'Larch', 'St. Larch', 'Wilbur Larch']",M,White (unmarked),4061,783,0.6387711133733737
+63,cider house rules - irving,409,['Melony'],F,White (unmarked),2511,411,0.763552536
+64,cider house rules - irving,434,"['Wallace Worthington', 'Wally', 'young Wally', 'Wally Worthington']",M,White (unmarked),2203,379,0.5993768527091257
+65,cider house rules - irving,453,"['Candy', 'Candy Kendall']",F,White (unmarked),2064,388,0.6523802345604168
+66,cider house rules - irving,377,"['Nurse Angela', 'Angela', 'Angel Wells', 'Angel']",M,White (unmarked),1489,273,0.6335129519063599
+914,chronicle of a death foretold - marquez,25,['Santiago Nasar'],M,"MENA, Latino/a/x",627,29,0.5777983080479475
+915,chronicle of a death foretold - marquez,0,['narrator'],M,Latino/a/x,356,11,0.095212793
+916,chronicle of a death foretold - marquez,41,['Angela Vicario'],F,Latino/a/x,247,28,0.6289724637952424
+917,chronicle of a death foretold - marquez,45,['Bayardo San Roman'],M,Latino/a/x,211,22,0.6277831282076892
+1526,chosen - potok,0_151,"['Reuven Malter', 'Reuven']",M,White,4810,521,0.25519855559229215
+1527,chosen - potok,140,"['Daniel', 'Danny Saunders', 'Danny']",M,White,2702,482,0.6395594233454384
+1528,chosen - potok,220,"['My father', 'my father']",M,White,1500,340,0.5726462232270988
+1529,chosen - potok,147,['Reb Saunders'],M,White,759,98,0.6662781513338025
+873,child called it - pelzer,0_36,"['David James Pelzer', 'David']",M,White,3454,63,0.27345707850303824
+874,child called it - pelzer,30,"['my mother', 'Mother']",F,White,1031,81,0.43922007747296016
+875,child called it - pelzer,39,['Father'],M,White,345,20,0.48905899588175805
+1153,ceremony - silko,148,['Tayo'],M,"Native/Indigenous, White",2357,127,0.6474597372914475
+1154,ceremony - silko,150,['Josiah'],M,Native/Indigenous,658,39,0.6739644728764086
+1155,ceremony - silko,156,['Harley'],M,Native/Indigenous,492,60,0.7499066832517811
+1156,ceremony - silko,152,['Auntie'],F,Native/Indigenous,397,49,0.7230355927843117
+170,catcher in the rye - salinger,0_140,"['Holden Caufield', 'Holden']",M,White,5516,613,0.16481969548708045
+171,catcher in the rye - salinger,178,"['old Phoebe', 'Old Phoebe', 'Phoebe']",F,White,578,106,0.7717966599165841
+172,catcher in the rye - salinger,157,"['Old Stradlater', 'old Stradlater', 'Stradlater']",M,White (unmarked),464,85,0.7918170424179855
+282,catch 22 - heller,247,"['Yossarian', 'Captain Yossarian']",M,"MENA, White",4761,1039,0.6411306890332341
+283,catch 22 - heller,379,"['The chaplain', 'the chaplain']",M,White (unmarked),1569,357,0.8392325615767209
+284,catch 22 - heller,271,"['Milo Minderbinder', 'Milo']",M,White (unmarked),1280,357,0.7780640107319287
+285,catch 22 - heller,265,"['Colonel', 'Cathcart', 'Colonel Cathcart']",M,White (unmarked),992,256,0.6207190857894483
+558,cat s eye - atwood,0_170,['Elaine'],F,White,7118,379,0.31786550648615447
+559,cat s eye - atwood,169,['Cordelia'],F,White,1510,265,0.7468461014931776
+1510,candide - voltaire,162,"['CANDIDE', 'Candide']",M,White,1143,270,0.5015847577239045
+1511,candide - voltaire,167,"['Cunegonde', 'Miss Cunegonde', 'CUNEGONDE']",F,White,387,22,0.5043622030604774
+1512,candide - voltaire,271,"['the old woman', 'The old woman', 'the Old Woman']",F,White,235,48,0.6608090735650927
+1513,candide - voltaire,161,"['MARTIN', 'Martin']",M,White,226,83,0.7661934320731972
+104,burgess boys - strout,182,"['Uncle Bob', 'Bobby', 'Bob Burgess', 'Bob']",M,White,2985,552,0.5974377694632554
+105,burgess boys - strout,185,"['Jim', 'Jim Burgess', 'Jimmy']",M,White,2265,606,0.5901398167175262
+106,burgess boys - strout,181,"['Elaine', 'Helen']",F,White (unmarked),1648,341,0.6821942531101906
+107,burgess boys - strout,189,"['Susan', 'Susie']",F,White,1499,303,0.5756593374808647
+108,burgess boys - strout,195,"['Zachary Olson', 'Zachary', 'Zach']",M,White,936,106,0.5422805923115919
+109,burgess boys - strout,188,['Pam'],F,White,784,97,0.7394896861537277
+904,buck a memoir - asante,0,"['MK', 'MK Asante']",M,Black,3330,264,0.24685544680924804
+905,buck a memoir - asante,541,"['my mom', 'My mom']",F,Black,330,98,0.5049258612200187
+906,buck a memoir - asante,303,['Malo'],M,Black,313,12,0.4541043708485803
+1495,brown girl brownstones - marshall,100,"['Deighton', 'Selina']",F,Black,3611,484,0.5706141609288942
+1494,brown girl brownstones - marshall,113_234,"['Boyce', 'Silla', 'Silla - gal', 'The mother', 'the mother']",F,Black,1607,343,0.6031711776099071
+1496,brown girl brownstones - marshall,101,"['Miss Ina', 'Ina']",F,Black,625,126,0.6479046061920878
+1497,brown girl brownstones - marshall,228,['her father'],M,Black,431,67,0.6352635358173824
+395,brothers karamazov - dostoevsky,169,"['Alyosha', 'Karamazov']",M,White,5546,796,0.8168462689605157
+396,brothers karamazov - dostoevsky,157,"['Karamazov', 'Mitya']",M,White,4868,765,0.8627126974202814
+397,brothers karamazov - dostoevsky,158,"['Brother', 'Ivan Fyodorovitch', 'Ivan']",M,White,2754,432,0.830863511
+398,brothers karamazov - dostoevsky,194,['Grushenka'],F,White,1888,255,0.7727866669105375
+620,bronx masquerade - grimes,54_0,['Tyrone'],M,Black,590,40,0.6028811086784462
+621,bronx masquerade - grimes,62_0,['Lupe'],F,Latino/a/x,209,11,0.7108886533943921
+619,bronx masquerade - grimes,55,['Mr. Ward'],M,White (unmarked),192,39,0.27926888799464894
+624,bronx masquerade - grimes,66_0,['Sheila'],F,White,177,11,0.7066224876073106
+623,bronx masquerade - grimes,65_0,['Diondra'],F,Black,176,8,0.6941312409857797
+622,bronx masquerade - grimes,74_0,['Tanisha'],F,Black,154,14,0.6308134599827806
+345,broken for you - kallos,225,"['Margaret Hughes', 'Margaret']",F,White,3622,803,0.7861833710457918
+346,broken for you - kallos,233,['Wanda'],F,White,3476,602,0.7489668825163862
+347,broken for you - kallos,286,['Troy'],M,White (unmarked),676,178,0.7265761341033005
+1304,brief wondrous life of oscar wao - diaz,456,"['OSCAR', 'Oscar', 'Oscar Wao']",M,Latino/a/x,2160,0,0.8285313682506357
+1305,brief wondrous life of oscar wao - diaz,525,['Beli'],F,Latino/a/x,1043,0,0.8466103675848246
+1306,brief wondrous life of oscar wao - diaz,480,['Abelard'],M,Latino/a/x,599,0,0.8171883190911235
+1307,brief wondrous life of oscar wao - diaz,500,['La Inca'],F,Latino/a/x,532,0,0.6972097058322589
+923,brideshead revisited - waugh,0_378,"['Charles', 'Charles Ryder']",M,White (unmarked),3526,510,0.3649262384982939
+924,brideshead revisited - waugh,391,"['Lord Sebastian', 'Sebastian', 'Sebastian Flyte']",M,White,1579,259,0.6946711706785602
+925,brideshead revisited - waugh,466,"['Lady Julia', 'Julia']",F,White,1135,294,0.6475492644139806
+926,brideshead revisited - waugh,444,"['Rex Mottram', 'Rex']",M,White,627,157,0.7090123416899196
+143,breath eyes memory - danticat,0_55,['Sophie'],F,Black,3024,435,0.2695636361753032
+144,breath eyes memory - danticat,116_56,"['my mother', 'My mother', 'Martine']",F,Black,1223,306,0.6209547560513935
+145,breath eyes memory - danticat,52,"['Atie', 'Tante Atie']",F,Black,1006,211,0.6877363307966023
+146,breath eyes memory - danticat,122,"['my grandmother', 'My grandmother']",F,Black,562,204,0.6823635567634097
+147,breath eyes memory - danticat,75,['Joseph'],M,Black,322,112,0.6007174706421325
+148,breath eyes memory - danticat,82,['Brigitte'],F,Black,304,27,0.47503911530476595
+1567,breakfast of champions - vonnegut,278,"['Dwayne', 'Dwayne Hoover']",M,White,1222,138,0.5737675121585684
+1568,breakfast of champions - vonnegut,277,"['Kilgore', 'Kilgore Trout', 'Trout']",M,White,1128,168,0.6169155306328433
+1569,breakfast of champions - vonnegut,0,"['Kurt', 'Kurt Vonnegut']",M,White (unmarked),504,39,0.647864929
+99,brave new world - huxley,199,"['Bernard Marx', 'Bernard']",M,White (unmarked),1079,249,0.7073599642312968
+100,brave new world - huxley,189,['Lenina'],F,White (unmarked),919,321,0.7833053658434689
+101,brave new world - huxley,240,"['Mr. Savage', 'The Savage', 'the Savage']",M,White,551,207,0.3600107020905058
+102,brave new world - huxley,198,['Linda'],F,White,391,59,0.7871308147210563
+103,brave new world - huxley,259,"['The Director', 'the Director']",M,White (unmarked),272,138,0.7343812842641099
+1340,born a crime - noah,0_202,"['Trevor', 'Trevor Noah']",M,"Black, White",4833,284,0.38330864798997083
+1341,born a crime - noah,296_330,"['my mom', 'my mother', 'My mom', 'My mother']",F,Black,1385,246,0.6343055455799629
+1342,born a crime - noah,235,['Abel'],M,Black,614,79,0.7713010733104492
+647,book thief - zusak,137,"['Liesel', 'Liesel Meminger']",F,White,3773,473,0.541952308
+646,book thief - zusak,144_151,"['Hubermann', 'Hans Junior', 'my papa', 'her papa', 'Hans', 'Hans Hubermann', 'Papa']",M,White,1745,379,0.671164425
+648,book thief - zusak,168,"['RUDY STEINER', 'Rudy Steiner', 'Rudy']",M,White,1554,380,0.6473895586177677
+649,book thief - zusak,145,"['MAX VANDENBURG', 'Max', 'Max Vandenburg']",M,White,1191,121,0.7945132737783032
+650,book thief - zusak,0,['Death'],M,Non-human,881,10,0.5385841024549891
+1465,book of unknown americans - henriquez,180_0,['Mayor'],M,Latino/a/x,3205,250,0.7499917858975685
+1460,book of unknown americans - henriquez,0_172,"['Alma', 'Alma Rivera']",F,Latino/a/x,2112,373,0.7899086644834834
+1461,book of unknown americans - henriquez,173,['Maribel'],F,Latino/a/x,1583,217,0.6609340219011588
+1462,book of unknown americans - henriquez,174,"['Alma', 'Arturo']",M,Latino/a/x,1037,339,0.717181225
+1463,book of unknown americans - henriquez,341,"['my dad', 'My dad']",M,Latino/a/x,722,221,0.7265170692765686
+1464,book of unknown americans - henriquez,332,"['my mom', 'My mom']",F,Latino/a/x,721,254,0.7202563482063145
+124,bonesetter s daughter - tan,144,['Ruth'],F,Asian,4370,501,0.9226460538817586
+123,bonesetter s daughter - tan,0_136_141,"['her mother', 'Her mother', 'LuLing', 'Mother']",F,Asian,4179,618,0.423066578
+125,bonesetter s daughter - tan,139,['Precious Auntie'],F,Asian,916,35,0.695203174
+126,bonesetter s daughter - tan,142,['GaoLing'],F,Asian,624,150,0.6370532020022923
+538,bone a novel - ng,0_211,['Leila'],F,Asian,2561,235,0.2749038077530711
+539,bone a novel - ng,247,"['Manager Lee', 'LEON', 'Leong', 'Leon']",M,Asian,1564,161,0.504846167
+540,bone a novel - ng,212,['Mah'],F,Asian,1064,111,0.4381856952102636
+541,bone a novel - ng,221,"['MASON', 'Mason']",M,Asian,663,111,0.608534767
+542,bone a novel - ng,213,['Ona'],F,Asian,535,9,0.5438170761101682
+543,bone a novel - ng,214,['Nina'],F,Asian,513,80,0.5861682009747217
+1224,body - king,0_225,"['Gordon', 'Gordon LaChance']",M,White,1771,158,0.42257571834157087
+1225,body - king,198,"['Chris Chambers', 'Chris']",M,White,980,297,0.6623953264506874
+1226,body - king,197,"['Teddy Duchamp', 'Eddie', 'Teddy']",M,White,711,166,0.5673903377637592
+1227,body - king,202,"['Vern Tessio', 'Vern']",M,White,507,132,0.5944450123742623
+1228,body - king,228,['Chico'],M,White,294,68,0.2265222986638028
+353,bodega dreams - quinonez,0_240,['Julio'],M,Latino/a/x,3353,540,0.35704655948599306
+354,bodega dreams - quinonez,242,"['Freddy', 'Willie', 'Bodega', 'Willie Bodega']",M,Latino/a/x,1318,209,0.5898138798422443
+355,bodega dreams - quinonez,253,['Blanca'],F,Latino/a/x,1159,250,0.6508678458902342
+356,bodega dreams - quinonez,238,['Sapo'],M,Latino/a/x,1023,223,0.6546036361563967
+357,bodega dreams - quinonez,272,"['Nazario', 'Edwin']",M,Latino/a/x,691,181,0.70295075
+358,bodega dreams - quinonez,260,['Vera'],F,Latino/a/x,508,47,0.6557743496619002
+803,bluest eye - morrison,66,['Cholly'],M,Black,795,75,0.7620757085433565
+802,bluest eye - morrison,0_69,['Claudia'],F,Black,781,74,0.7585293627353216
+804,bluest eye - morrison,65,['Pecola'],F,Black,455,66,0.7142583329365769
+805,bluest eye - morrison,114,['Pauline'],F,Black,383,4,0.8406654654208554
+806,bluest eye - morrison,67,['Frieda'],F,Black,242,141,0.7557962859911936
+1315,blind assassin - atwood,0_327,"['Iris Chase Griffen', 'Iris']",F,White (unmarked),6034,463,0.4645425957155166
+1316,blind assassin - atwood,313,"['Laura Chase', 'Laura', 'Chase', 'Miss Laura Chase', 'Miss Chase']",F,White (unmarked),2493,324,0.6714505986499283
+1318,blind assassin - atwood,314,"['Richard Griffen', 'Richard', 'Mr. Griffen']",M,White (unmarked),1149,107,0.7276280012120985
+1317,blind assassin - atwood,317,['Reenie'],F,White (unmarked),863,144,0.6590308691792887
+1319,blind assassin - atwood,319,['Winifred'],F,White (unmarked),766,142,0.7395182091773445
+205,bless me ultima - anaya,0_115_97,"['Antonio', 'Tony', 'Antonio Márez y Luna']",M,"Latino/a/x, Native/Indigenous",4961,449,0.27977974062435385
+207,bless me ultima - anaya,87,['Ultima'],F,"Latino/a/x, Native/Indigenous",1009,245,0.553958502
+206,bless me ultima - anaya,187,"['My father', 'my father']",M,"Latino/a/x, Native/Indigenous",751,217,0.6077735681008941
+208,bless me ultima - anaya,198,"['my mother', 'My mother']",F,"Latino/a/x, Native/Indigenous",716,266,0.5751986533886279
+209,bless me ultima - anaya,133,['Tenorio'],M,Latino/a/x,487,56,0.6899363484637411
+1587,bleak house - dickens,0_251,"['Esther', 'Esther Summerson']",F,White (unmarked),8286,686,0.8042249740863112
+1588,bleak house - dickens,254,"['Mr. Carstone', 'Mr. Richard Carstone', 'Richard', 'Mr. Richard', 'cousin Richard']",M,White (unmarked),2336,369,0.8104219963996716
+1589,bleak house - dickens,407,"['Mr. Bucket', 'Bucket']",M,White (unmarked),1693,463,0.893970955
+122,black boy - wright,0_103_141,"['Richard Wright', 'Richard']",M,Black,11465,1076,0.29725981333942897
+1030,bird of paradise how i became a latina - cepeda,0_503,"['Raquel Cepeda', 'Raquel']",F,Latino/a/x,4588,479,0.48214941912228054
+1031,bird of paradise how i became a latina - cepeda,459,['Rocio'],F,Latino/a/x,748,80,0.7263062409563142
+1032,bird of paradise how i became a latina - cepeda,458,['Dad'],M,Latino/a/x,672,112,0.7645375345910062
+1033,bird of paradise how i became a latina - cepeda,485,"['Fat Maria', 'Maria', 'Marie']",F,Latino/a/x,511,110,0.7323950249824499
+1546,billy budd - melville,0,['narrator'],M,White (unmarked),1491,207,0.67106117
+1547,billy budd - melville,294,"['the generous Captain Amasa Delano', 'Captain Delano', 'Amasa Delano', 'Captain Amasa Delano']",M,White (unmarked),655,89,0.5494665585105838
+1548,billy budd - melville,282,['Bartleby'],M,White (unmarked),540,37,0.5783597588662321
+1549,billy budd - melville,349,"['Billy', 'Budd', 'Billy Budd']",M,White (unmarked),486,20,0.5330082229716827
+1550,billy budd - melville,296,"['Don Benito', 'Benito Cereno']",M,White (unmarked),413,26,0.830261028
+1095,between the world and me - coates,0,"['Ta-Nehisi', 'Ta-Nehisi Coates']",M,Black,1745,36,0.2847646807413382
+1096,between the world and me - coates,199,['Dr. Jones'],F,Black,149,18,0.5440405075677859
+310,bend in the river - naipaul,0_167_7933,['Salim'],M,Asian,3573,158,0.39353172423952015
+311,bend in the river - naipaul,182,['Ferdinand'],M,Black,732,53,0.7934091304590809
+312,bend in the river - naipaul,174,['Indar'],M,Asian,655,70,0.820070652
+313,bend in the river - naipaul,195,['Yvette'],F,White,562,49,0.7094014217846726
+314,bend in the river - naipaul,169,['Metty'],M,"Black, Asian",518,58,0.7164245671907877
+315,bend in the river - naipaul,196,['Raymond'],M,White,470,36,0.7483527829520537
+1355,beloved - morrison,105,['Sethe'],F,Black,2843,331,0.6756651101975962
+1356,beloved - morrison,112,"['Paul', 'Garner', 'Paul D']",M,Black,1491,229,0.6654539926304307
+1357,beloved - morrison,106,['Denver'],F,Black,1081,147,0.6968082455691978
+1358,beloved - morrison,142,['Beloved'],F,Black,747,101,0.7332756916564698
+1359,beloved - morrison,147,"['Stamp', 'Stamp Paid']",M,Black,523,196,0.7681620156432973
+1360,beloved - morrison,107,"['Baby', 'Baby Suggs']",F,Black,481,63,0.49771101149469366
+737,bell jar - plath,0_123,"['Esther', 'Esther Greenwood']",F,White,5023,387,0.074154144
+738,bell jar - plath,112,"['Buddy Willard', 'Buddy', 'Will']",M,White,551,121,0.7211813222673737
+739,bell jar - plath,140,"['Jody', 'Joan']",F,White,324,78,0.7379658777814558
+251,before we were free - alvarez,0_76,['Anita'],F,Latino/a/x,2447,114,0.23195522027944407
+252,before we were free - alvarez,84,['Mami'],F,Latino/a/x,734,163,0.4056179773781926
+253,before we were free - alvarez,74,['Papi'],M,Latino/a/x,354,52,0.39269905240692765
+254,before we were free - alvarez,89,['Lucinda'],F,Latino/a/x,322,66,0.4834054486501814
+255,before we were free - alvarez,91,['Chucha'],F,Black,302,41,0.5096923186366786
+1558,awakening - chopin,68_71,"['Mrs. Pontellier', 'Edna']",F,White,2665,242,0.35599786083342283
+1559,awakening - chopin,69,['Robert'],M,White (unmarked),856,117,0.6942547417623486
+1560,awakening - chopin,65,"['Pontellier', 'Mr. Pontellier']",M,White,351,38,0.6906374034527415
+1584,autobiography of malcolm x - haley,0_765,"['Malcolm X', 'Malcolm', 'Malcolm X.']",M,Black,10303,653,0.37267939404601746
+1585,autobiography of malcolm x - haley,732,"['Mr. Muhammad', 'Elijah Muhammad', 'Muhammad', 'The Honorable Elijah Muhammad', 'Elijah', 'Mr. Elijah Muhammad']",M,Black,907,97,0.5263156321041099
+447,autobiography of an ex colored man - johnson,0,['narrator'],M,"Black, White",3150,87,0.4259772936615483
+448,autobiography of an ex colored man - johnson,173,"['my mother', 'My mother']",F,Black,228,11,0.7690151575126388
+1006,atonement - mcewan,0_165,"['Tallis', 'Briony']",F,White,2991,107,0.6865288896464264
+1007,atonement - mcewan,171,['Cecilia'],F,White,1572,118,0.7525957758744628
+1008,atonement - mcewan,183,"['Robbie Turner', 'Robbie']",M,White,1303,98,0.8080262331449419
+1009,atonement - mcewan,172,['Lola'],F,White,783,66,0.790779965
+1010,atonement - mcewan,205,"['Turner', 'Grace Turner', 'Grace']",F,White,768,43,0.8386556071896122
+1161,asking for it - o'neill,0_75,"['Emmie', 'Em', 'Emma', 'Emma O’Donovan']",F,White,5857,578,0.2355123186929658
+1162,asking for it - o'neill,163,"['my mother', 'My mother']",F,White,761,310,0.695606046
+1163,asking for it - o'neill,110,['Bryan'],M,White (unmarked),549,141,0.6576371159640402
+1164,asking for it - o'neill,79,"['Ali', 'Beth']",F,White,520,141,0.6113429019185819
+1165,asking for it - o'neill,83,['Maggie'],F,White (unmarked),446,128,0.6361678261057753
+1296,as i lay dying - faulkner,0_44_49,"['Anse', 'Pa', 'pa', 'Anse Bundren']",M,White,982,253,0.5186395611057014
+1299,as i lay dying - faulkner,33_0,['Jewel'],M,White,858,129,0.6061310970897074
+1300,as i lay dying - faulkner,35_0,['Cash'],M,White,798,164,0.5199951983787344
+1297,as i lay dying - faulkner,0_43_72,"['Darl', 'Dari']",M,White,572,177,0.5304625873505519
+1298,as i lay dying - faulkner,0_34_45,"['Mr Tull', 'Vernon']",M,White (unmarked),509,160,0.5596047317797815
+1301,as i lay dying - faulkner,41_0,['Dewey Dell'],F,White,507,81,0.5477949080493159
+1303,as i lay dying - faulkner,52_0,"['Vardaman', 'VARDAMAN']",M,White,375,76,0.6054010901767319
+1302,as i lay dying - faulkner,38_0,['Cora'],F,White (unmarked),268,69,0.7271585767847464
+1237,aristotle and dante discover the secrets of the universe - saenz,0_69,"['Aristotle Mendoza', 'Aristotle']",M,Latino/a/x,6603,1178,0.1850951904040069
+1239,aristotle and dante discover the secrets of the universe - saenz,72,"['DANTE', 'Dante', 'Dante Quintana']",M,Latino/a/x,2212,727,0.5411186346295856
+1238,aristotle and dante discover the secrets of the universe - saenz,140_145,"['MY MOM', 'my mom', 'My mom', 'My mother', 'my mother']",F,Latino/a/x,994,417,0.5033567260211047
+221,another country - baldwin,148,"['Eric', 'Richard', 'Eric Jones']",M,White,3969,706,0.7286470477375401
+222,another country - baldwin,139,['Vivaldo'],M,White,3555,730,0.7514503201369712
+223,another country - baldwin,138,['Rufus'],M,Black,2299,331,0.7983791832667438
+224,another country - baldwin,140,"['Ida', 'Miss Scott']",F,Black,2211,462,0.8035791152904835
+225,another country - baldwin,147,['Cass'],F,White,1737,437,0.7283946770024052
+136,anna karenina - tolstoy,144,"['Anna Pavlovna', 'Anna', 'Anna Arkadyevna']",F,White (unmarked),5319,736,0.813094493
+137,anna karenina - tolstoy,158,"['Nikolay', 'Levin', 'Nikolay Levin', 'Konstantin Levin']",M,White (unmarked),4827,824,0.8111888685569434
+138,anna karenina - tolstoy,178,"['Vronsky', 'Alexey Vronsky', 'Count Vronsky']",M,White (unmarked),3651,416,0.7789221767135931
+139,anna karenina - tolstoy,159,"['Konstantin Dmitrievitch', 'Konstantin']",M,White (unmarked),3595,269,0.8668821169763626
+140,anna karenina - tolstoy,155,"['Alexey Alexandrovitch', 'Karenin', 'Alexey']",M,White (unmarked),3194,345,0.8309910663559363
+141,anna karenina - tolstoy,162,"['Kitty', 'Kitty Shtcherbatskaya']",F,White (unmarked),2947,401,0.773968323
+142,anna karenina - tolstoy,140,['Stepan Arkadyevitch'],M,White (unmarked),2021,525,0.8018728380724266
+1108,animal farm - orwell,33,"['Napoleon', 'Comrade Napoleon']",M,White,353,39,0.43775124967723245
+1109,animal farm - orwell,24,['Boxer'],M,White,256,24,0.5290990704215264
+1110,animal farm - orwell,32,['Snowball'],M,White,238,22,0.4471231128722736
+1111,animal farm - orwell,34,['Squealer'],M,White,124,32,0.43009063289523425
+1112,animal farm - orwell,19,"['Jones', 'Mr Jones']",M,White,118,2,0.31072464622663143
+1113,animal farm - orwell,139,['the men'],M,White,102,0,0.750610202
+1114,animal farm - orwell,25,['Clover'],M,White,90,15,0.36791511682821404
+418,angle of repose - stegner,0,"['Robert Jordan', 'Robert']",M,White (unmarked),3978,279,0.6929510741020634
+419,angle of repose - stegner,445,"['Susan Burling', 'Susan', 'Susan Ward', 'Sue', 'the Susan', 'Susie', 'Susan Burling Ward', 'the Susan Canal']",F,White (unmarked),3438,578,0.6503775078948015
+420,angle of repose - stegner,468,"['Oliver Ward', 'Ollie', 'Oliver', 'Mrs. Ward']",M,White (unmarked),1576,414,0.40873189192691334
+421,angle of repose - stegner,426,"['my grandmother', 'Grandmother']",F,White (unmarked),954,31,0.6380295242264075
+1253,americanah - adichie,364,"['ifemelu', 'Ifemelu']",F,Black,5204,713,0.7109184174607588
+1254,americanah - adichie,368,"['obinze', 'Obinze']",M,Black,2598,337,0.8133751084922656
+1255,americanah - adichie,366,"['Aunty Uju', 'Uju', 'Aunty']",F,Black,1014,194,0.7428676298524934
+1166,american tragedy - dreiser,428,"['Clyde', 'Griffiths', 'Mr. Clyde Griffiths', 'Clyde Griffiths', 'Mr. Griffiths', 'the Griffiths']",M,White (unmarked),14825,1283,0.5492278346305391
+1167,american tragedy - dreiser,531,"['Bobbie', 'Miss Alden', 'Roberta', 'Roberta Alden', 'Alden']",F,White (unmarked),4491,228,0.6055817320725274
+1257,american pastoral - roth,590,"['Swede', 'the Swede', 'Swede Levov', 'The Swede', 'Levov']",M,White,1627,209,0.5679336290427818
+1258,american pastoral - roth,610,"['Dawn', 'Dwyer', 'Lady Dawn', 'Dawn Dwyer']",F,White,1575,152,0.7391181083706679
+1259,american pastoral - roth,665,"['Meredith', 'Merry Levov', 'Merry']",F,White,1381,98,0.5869041668896157
+1256,american pastoral - roth,0_612,"['Nathan', 'Nathan Zuckerman']",M,White,1120,77,0.6776887910973184
+1260,american pastoral - roth,596,"['Jerry', 'Jerry Levov']",M,White,718,118,0.795847109
+1435,american - james,126,"['Newman', 'Christopher Newman', 'Mr. Newman']",M,White,7810,1524,0.3543348970083517
+1436,american - james,138,['Madame de Cintré'],F,White,1428,246,0.6698088388590695
+1437,american - james,145,"['Valentin', 'Bellegarde', 'the Count Valentin', 'Valentin de Bellegarde']",M,White,1207,304,0.7496167838141184
+1438,american - james,171,['Mrs. Bread'],F,White (unmarked),951,153,0.813093858
+1439,american - james,149,"['Bellegarde', 'M. de Bellegarde']",M,White,818,189,0.6643048397436825
+458,always running - rodriguez,0_424,"['Luis Rodriguez', 'Luis']",M,Latino/a/x,3332,212,0.37204032012967153
+414,all the pretty horses - mccarthy,219,"['John Grady', 'John Grady Cole']",M,White,1784,33,0.6199305470169789
+415,all the pretty horses - mccarthy,221,['Rawlins'],M,White (unmarked),1401,43,0.6991003366344387
+416,all the pretty horses - mccarthy,2836,"['The captain', 'the captain']",M,Latino/a/x,600,4,0.8744914568694115
+417,all the pretty horses - mccarthy,231,"['Jimmy Blevins', 'Blevins']",M,White (unmarked),497,17,0.7366263672874948
+830,all the light we cannot see - doerr,328,"['Marie - Laure', 'Laure', 'Marie']",F,White,2171,191,0.5996513932312132
+831,all the light we cannot see - doerr,330,"['Werner', 'Pfennig']",M,White,2067,169,0.5965514908447823
+832,all the light we cannot see - doerr,397,"['Uncle Etienne', 'Etienne']",M,White (unmarked),586,156,0.642012193
+833,all the light we cannot see - doerr,339,['Jutta'],F,White,494,61,0.5645212989607974
+834,all the light we cannot see - doerr,336,"['Volkheimer', 'Frank Volkheimer', 'Francis']",M,White,471,69,0.6530258435413171
+515,all the king s men - warren,0_247,"['Jack Burden', 'Jack']",M,White (unmarked),7983,1354,0.5495502664304273
+516,all the king s men - warren,228_440,"['the Boss', 'The Boss', 'Willie', 'Cousin Willie', 'Willie Stark']",M,White,3529,755,0.7938431177968603
+517,all the king s men - warren,260,"['Stanton', 'Anne', 'Anne Stanton']",F,White (unmarked),1348,166,0.7837226652199664
+518,all the king s men - warren,234,"['Adam Stanton', 'Adam']",M,White (unmarked),1084,147,0.7659677119640713
+519,all the king s men - warren,223,"['Sadie', 'Sadie Burke']",F,White (unmarked),859,223,0.7773210983048954
+157,all souls - macdonald,0,"['Michael', 'Michael Patrick MacDonald']",M,White,2855,122,0.38074503269174237
+158,all souls - macdonald,320,['Ma'],F,White,1674,201,0.5278548447705808
+159,all souls - macdonald,325,['Kevin'],M,White,560,28,0.5824137354799663
+160,all souls - macdonald,343,"['Dave MacDonald', 'Davey']",M,White,529,45,0.6527228332341006
+975,all quiet on the western front - remarque,0_107_70,"['Paul Baumer', 'Paul']",M,White,2087,170,0.5150937091393116
+976,all quiet on the western front - remarque,49,"['Albert', 'Kropp']",M,White,333,105,0.4906368151976624
+977,all quiet on the western front - remarque,57,['Kat'],M,White,311,90,0.5185689478267554
+978,all quiet on the western front - remarque,46,['Tjaden'],M,White,227,47,0.533346355
+756,all over creation - ozeki,0_261_262,"['Yumi', 'Fuller', 'Yummy', 'Yummy Fuller', 'Yumi Fuller']",F,"Asian, White",3955,741,0.6406199730135513
+757,all over creation - ozeki,263,"['Cass Quinn', 'Cass', 'Cassie']",F,White,2359,618,0.7245414721884864
+758,all over creation - ozeki,258,"['Lloyd', 'Fuller', 'Lloyd Fuller']",M,White,1954,344,0.6853488666483988
+759,all over creation - ozeki,275,"['Elliot Rhodes', 'Rhodes', 'Elliot']",M,White,1652,327,0.818111612
+760,all over creation - ozeki,291,"['Frankie', 'Frank Perdue', 'Frank']",M,White (unmarked),1037,183,0.7824187161965837
+761,all over creation - ozeki,294,['Geek'],M,White (unmarked),848,459,0.6721920812006211
+762,all over creation - ozeki,260,['Momoko'],F,Asian,811,168,0.6486519935337108
+1212,all boys aren t blue - johnson,0_144,"['George', 'George M. Johnson']",M,Black,3958,122,0.17839025820232865
+1213,all boys aren t blue - johnson,103,['Nanny'],F,Black,267,49,0.6104983316374446
+389,all american boys - reynolds,92_0,"['Rashad', 'Butler', 'Rashad Butler']",M,Black,2434,173,0.6745753490385324
+390,all american boys - reynolds,111_0,['Quinn'],M,White,2309,222,0.7768121546235454
+387,all american boys - reynolds,119,"['Officer Galluzzo', 'Paul Galluzzo', 'Paul', 'Galluzzo']",M,White,438,77,0.5619922808906341
+388,all american boys - reynolds,106,['Guzzo'],M,White,423,103,0.6523037277286607
+686,alice s adventures in wonderland - carroll,18,"['Alice', 'poor Alice']",F,White (unmarked),1680,436,0.2759493615151995
+687,alice s adventures in wonderland - carroll,354,"['The King', 'the King']",M,White (unmarked),148,86,0.6317769035830166
+409,alias grace - atwood,0_139,"['Grace', 'Grace Marks']",F,White,7672,93,0.5149552232266669
+410,alias grace - atwood,146,"['Dr. Simon Jordan', 'Simon', 'Dr. Jordan']",M,White (unmarked),2643,272,0.7887186212752694
+411,alias grace - atwood,144,"['James McDermott', 'Jamie', 'McDermott', 'James']",M,White (unmarked),919,1,0.6808575241354271
+412,alias grace - atwood,142,"['Nancy', 'Nancy Montgomery']",F,White (unmarked),840,4,0.745146225
+413,alias grace - atwood,147,"['Mary Whitney', 'Mary']",F,White (unmarked),715,3,0.6302399909259092
+1189,alchemist - coelho,59,"['The boy', 'the boy', 'Santiago']",M,White,2408,261,0.362261013
+1190,alchemist - coelho,41,"['The alchemist', 'the alchemist']",M,MENA,296,140,0.7523363996537845
+439,age of innocence - wharton,252_319_363,"['the young man', 'Mr. Archer', 'Newland Archer', 'The young man', 'Archer']",M,White,3489,450,0.36871748632606416
+440,age of innocence - wharton,243,['Madame Olenska'],F,White,1060,177,0.6834190253211022
+441,age of innocence - wharton,224,"['Mrs. Archer', 'Newland']",F,White,536,99,0.5342254837804453
+780,adventures of huckleberry finn - twain,0,"['Huckleberry Finn', 'Huckleberry']",M,White,3815,419,0.4851818088518296
+781,adventures of huckleberry finn - twain,143,['Jim'],M,Black,1247,106,0.7177689845355978
+782,adventures of huckleberry finn - twain,110,"['Tom', 'Mars Tom', 'Tom Sawyer']",M,White,728,175,0.791388439
+783,adventures of huckleberry finn - twain,216,"['The king', 'the king']",M,White,536,73,0.8542225701510943
+536,adventures of augie march - bellow,0_644,['Augie'],M,White,10465,719,0.32418744427119944
+537,adventures of augie march - bellow,648,['Simon'],M,White,1885,231,0.7733450891301729
+1017,adam bede - eliot,129,"['Adam Bede', 'Adam', 'Addy']",M,White,5219,622,0.7473054799479475
+1018,adam bede - eliot,165,"['Hetty Sorrel', 'Hetty']",F,White,4202,153,0.8246174167251215
+1019,adam bede - eliot,142,"['Dinah Morris', 'Dinah']",F,White,2320,192,0.795223609
+1020,adam bede - eliot,190,"['old Mr. Donnithorne', 'Arthur Donnithorne', 'Mr. Donnithorne', 'Arthur']",M,White,2007,212,0.7660266063103786
+471,accidental billionaires - mezrich,173,"['Eduardo', 'Eduardo Saverin']",M,White,1730,0,0.6915090222186226
+472,accidental billionaires - mezrich,178,"['Mark', 'Mark Zuckerberg', 'Zuckerberg']",M,White,1376,0,0.5418436802711074
+473,accidental billionaires - mezrich,212,"['Sean Parker', 'Sean', 'Parker']",M,White,686,0,0.58986988
+474,accidental billionaires - mezrich,181,"['Tyler', 'Tyler Winklevoss']",M,White,540,0,0.7279954742786021
+1150,absolutely true diary of a part time indian - alexie,0_762_99,"['Arnold Spirit Jr.', 'Arnold']",M,Native/Indigenous,3586,464,0.1837653308366193
+1151,absolutely true diary of a part time indian - alexie,82,['Rowdy'],M,Native/Indigenous,681,149,0.6387950615815698
+1152,absolutely true diary of a part time indian - alexie,98,['Penelope'],F,White,269,53,0.6702074781804294
+1325,absalom absalom - faulkner,116,['Henry'],M,White,1307,42,0.7566522353048352
+1326,absalom absalom - faulkner,111,"['Thomas Sutpen', 'Sutpen']",M,White,1054,25,0.5428593628937143
+1327,absalom absalom - faulkner,131,"['Bon', 'Charles Bon', 'Charles']",M,"White, Black",830,31,0.7049651728165023
+1328,absalom absalom - faulkner,108,['Quentin'],M,White (unmarked),723,21,0.6910551836716092
+1329,absalom absalom - faulkner,156,"['Grandfather', 'Your grandfather', 'his grandfather', 'your grandfather']",M,White,555,16,0.7433789514415159
+1330,absalom absalom - faulkner,114,['Judith'],F,White,533,12,0.63873548
+1361,57 bus - slater,153,['Richard'],M,Black,971,71,0.5958045561959165
+1362,57 bus - slater,137,"['Sasha', 'sasha']",agender,White,595,88,0.6620890352552009
+1363,57 bus - slater,159,['Jasmine'],F,Black,270,49,0.5979594332272617
+1148,12 years a slave - northup,0,"['Solomon', 'Solomon Northrup']",M,Black,2641,69,0.42032619893053813
+1149,12 years a slave - northup,465,"['EPPS', 'Epps', 'Edwin Epps', 'Master Epps']",M,White,432,47,0.7914648551949437
